@@ -1,6 +1,6 @@
 # Radio transcripts
 
-QR2 radio transcript catalog, refreshed every 15 minutes while the finite recording campaign is active.
+QR2 radio transcript catalog, grouped into readable passages by station and frequency and refreshed every 15 minutes while the finite recording campaign is active.
 
 Open `index.html` using GitHub Pages. The page loads the adjacent catalog manifest and JSON shards. Plain-text, CSV and complete JSON downloads are generated in the browser.
 
