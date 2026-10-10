@@ -1,0 +1,35 @@
+LAGOON / FRIGHTMARES AD — KVFX
+
+Raw ASR, without silent word corrections. The ad refers to an in-store QR code; no numerical code is read aloud.
+
+Playable full ad: qr2-lagoon-ad-kvfx-20261009-182452-MDT.mp3
+
+Times are approximate recording/receipt clocks. Stream delay is not calibrated.
+
+Full six-location ad — approximately October 9, 6:24:52–6:25:45 p.m. MDT / 7:24:52–7:25:45 p.m. CDT
+Transcript: kvfx-20261009T232806Z-001-00028-whisper-58-112-no-vad.jsonl
+[00:01:00.00–00:01:03.00] Right, mayors at Lagoon is coming.
+[00:01:03.00–00:01:08.00] And your chance to win a family four pack of tickets starts right here in Cache Valley.
+[00:01:08.00–00:01:14.00] October 5th through the 15th, visit any participating location, scan the in-store QR code and enter.
+[00:01:14.00–00:01:17.00] Each location is giving away four tickets to Lagoon's Frank Mayors.
+[00:01:17.00–00:01:20.00] Entry closes October 15th at 12 noon.
+[00:01:20.00–00:01:23.00] Head to Logan Lane's for family bowling and fun to register.
+[00:01:23.00–00:01:25.00] You can also sign up at KSM Music.
+[00:01:25.00–00:01:26.80] Find your sound at K.S.F.
+[00:01:26.80–00:01:29.68] Visit Los Reyes Tocqueria, where tacos are key.
+[00:01:29.68–00:01:32.88] Sign up and treat yourself to brookers, founding Flavors Ice Creams.
+[00:01:32.88–00:01:37.34] Drop the official Ashley home store in Northern Utah, where they promise not to be beat on Ashley pricing.
+[00:01:37.34–00:01:41.60] And register at Superchicks for chicken sandwiches, hand-cut fries, and frozen custards.
+[00:01:41.60–00:01:46.80] Six places to enter, six chances to win, four tickets to frightemares at looking.
+[00:01:46.80–00:01:50.00] Find all the spooky details at CacheValleyDaily.com.
+
+Closing sentence from the overlapping verification pass (same ad)
+Transcript: kvfx-20261009T232806Z-001-00028-whisper-100-120-no-vad.jsonl
+[00:01:50.04–00:01:53.32] Winners draw in and announce October 16th at 8 a.m.
+
+Earlier differently worded announcement — approximately October 9, 5:33:23–5:33:46 p.m. MDT / 6:33:23–6:33:46 p.m. CDT
+Transcript: qr2-continuous-oct9/kvfx-20261009T232806Z-001-00002.json
+[00:01:30.77–00:01:36.05] 94.5 VFX. I'll tell you, I bet you'd be scared to death. Lagoon, Fright Mayors. Give away.
+[00:01:36.05–00:01:40.93] We have that for you. Taylor Swift would probably love this. Have you entered to win? You can get
+[00:01:40.93–00:01:47.01] four-pack tickets by entering Brooker's ice cream. Good luck. KSM guitar, Ashley Furniture.
+[00:01:47.01–00:01:53.81] All good spots to get entered for that four-pack. For Lagoon, Fright Mayer tickets. 94.5 VFX.

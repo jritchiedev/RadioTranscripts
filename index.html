@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>QR2 — Every non-song transcript item</title>
+<style>
+:root{font-family:system-ui,sans-serif;color:#192a38;background:#f4f6f8}body{max-width:1400px;margin:0 auto;padding:28px}h1{font-size:28px;margin-bottom:8px}p{line-height:1.5;max-width:1080px}.controls{display:flex;gap:12px;flex-wrap:wrap;margin:24px 0 12px;padding:18px;background:white;border:1px solid #ccd4dc;border-radius:8px}label{display:flex;flex-direction:column;font-size:13px;gap:5px}input,select,button{font:inherit;padding:9px;border:1px solid #adb9c4;border-radius:5px}input{min-width:280px}button{cursor:pointer;background:#e8f0f7;color:#183b5a}button:disabled{opacity:.4;cursor:default}#count{margin:16px 0}.nav{display:flex;gap:14px;align-items:center;margin:16px 0}table{width:100%;border-collapse:collapse;background:white}th{text-align:left;background:#e2eaf1;position:sticky;top:0}th,td{padding:12px;border-bottom:1px solid #dbe2e8;vertical-align:top}td.clock{width:185px}td.station{width:150px}td.words{line-height:1.55;white-space:pre-wrap}small{display:block;color:#586c7e;margin-top:6px;font-size:12px;line-height:1.5}.source{overflow-wrap:anywhere}.chip{display:inline-block;font-size:11px;padding:2px 6px;border-radius:4px;background:#f0ece0;margin-top:4px}details{margin-top:10px}summary{cursor:pointer;font-size:12px;color:#365c7a}a{color:#245b89}#sources{white-space:pre-wrap;max-height:450px;overflow:auto;background:white;padding:16px;font-size:12px}.note{background:#fff4d8;border-left:4px solid #b78715;padding:12px 16px}.date{font-weight:650}mark{background:#ffe29b}@media(max-width:720px){body{padding:14px}th,td{padding:8px}td.clock{width:110px}td.station{width:90px}h1{font-size:24px}input{min-width:180px}table{font-size:13px}}
+</style>
+<h1>Every available non-song transcript item</h1>
+<p id="updated" role="status"></p>
+<p>Raw wording from the saved QR2 recordings and archives. Ads, promos, station IDs, jingles, news, talk and uncertain fragments are included. Only identified song-lyric items were excluded. No item was removed because it seemed unrelated to the hunt.</p>
+<p class="note"><strong>Timing:</strong> clocks are approximate recording/receipt times, not verified radio airtime. Stream buffering can shift them. Utah is <strong>MDT</strong>; Central is <strong>CDT</strong>. Archive items with unknown clocks show episode dates and source offsets. ASR can mishear or omit words. Alternate transcripts describe the same recording.</p>
+<p><strong>Lagoon ad first:</strong> <a href="qr2-lagoon-ad-first.txt">Full raw wording, with both announcements</a> <span id="local-audio">· <a href="qr2-lagoon-ad-kvfx-20261009-182452-MDT.mp3">Play/download the 53-second KVFX ad</a><br><audio controls preload="none" src="qr2-lagoon-ad-kvfx-20261009-182452-MDT.mp3"></audio></span></p>
+<p><a href="qr2-every-non-song.txt">Complete plain text</a> · <a href="qr2-every-non-song.csv">Every segment as CSV</a> · <a href="qr2-every-non-song-data.json">Source data and inventory</a></p>
+<div class="controls">
+<label>Search all wording and source names<input id="query" type="search" placeholder="Words, business, phrase…"></label>
+<label>Station<select id="station"><option value="">All stations and sources</option></select></label>
+<label>Utah date / episode date<select id="day"><option value="">All dates</option></select></label>
+<label>Transcript version<select id="version"><option value="">All versions</option><option>Main transcript</option><option>Alternate / supplemental transcript</option></select></label>
+<label>Source type<select id="kind"><option value="">All source types</option></select></label>
+<label>Clock display<select id="zone"><option value="mountain">Utah / Mountain (MDT)</option><option value="central">Central (CDT)</option><option value="utc">UTC</option></select></label>
+<button id="reset">Reset filters</button>
+</div>
+<div id="count" role="status"></div><div class="nav"><button id="previous">Previous</button><span id="page"></span><button id="next">Next</button></div>
+<table><thead><tr><th>Time and source offset</th><th>Station</th><th>Exact available transcript wording</th></tr></thead><tbody id="items"></tbody></table>
+<div class="nav"><button id="previous2">Previous</button><span id="page2"></span><button id="next2">Next</button></div>
+<details><summary>Complete source inventory, including empty transcripts and exclusions</summary><pre id="sources"></pre></details>
+<script type="application/json" id="data">{"audit":{"generated_utc":"2026-10-10T01:32:34.417392+00:00","snapshots":["2026-10-10T00:58:44Z","2026-10-10T00:56:49+00:00","2026-10-10T00:56:59Z","2026-10-10T00:57:06+00:00","2026-10-10T01:32:33.790475+00:00"],"pending_classification_source_count":31,"live_classified_source_count":188,"source_count":925,"raw_segment_count":24712,"included_segment_count":20589,"excluded_song_segment_count":4123,"blank_segment_count":0,"unique_audio_count":637,"by_station":{"KPCW":2125,"ESPN The Fan / KOVO / KUDD-HD2":8286,"KKUT / The Wolf":949,"AIR 960 (legacy candidate feed)":3,"KARB":1385,"KVFX / Utah's VFX":658,"KVNU":5673,"FOX 13 Utah (TV; supplementary)":184,"KNRS":197,"KUER":240,"Utah Public Radio":195,"KSL NewsRadio (official studio feed)":198,"KOHS":7,"KUFR / Family Radio":199,"K-LOVE network (Utah local inserts unverified)":98,"Key Radio / KEYR / KEYV":122,"Fuzion California (St. George counterpart unverified)":43,"Fuzion Las Vegas (St. George counterpart unverified)":26,"N7QXB public receiver probe (station unverified)":1},"policy":"Include all available non-song and ambiguous wording without a relevance filter. Exclude only marked song-lyric items. Alternate transcripts are retained and labeled. Clocks are approximate recording/receipt clocks, never verified terrestrial airtime. Archives with unknown clocks retain episode/source offsets.","publication_mode":"github"},"sources":[],"rows":[],"remote_manifest":"catalog-manifest.json"}</script>
+<script>
+(async()=>{
+const data=JSON.parse(document.getElementById('data').textContent);
+if(data.remote_manifest){document.getElementById('count').textContent='Loading transcript catalog…';const response=await fetch(data.remote_manifest+'?updated='+encodeURIComponent(data.audit.generated_utc),{cache:'no-store'});if(!response.ok)throw new Error('Catalog manifest HTTP '+response.status);const manifest=await response.json();const parts=await Promise.all(manifest.row_files.map(async path=>{const r=await fetch(path+'?updated='+encodeURIComponent(manifest.audit.generated_utc),{cache:'no-store'});if(!r.ok)throw new Error(path+' HTTP '+r.status);return r.json()}));Object.assign(data,manifest,{rows:parts.flat()});}const rows=data.rows;
+const publicMode=Boolean(data.audit.publication_mode);
+const el=id=>document.getElementById(id), size=100;
+el('updated').textContent=`Updated ${data.audit.generated_utc} · Refreshes every 15 minutes while recording is active. ${data.audit.pending_classification_source_count||0} newly completed sources await song classification.`;
+if(publicMode){el('local-audio').textContent='· Original audio is retained in the local recording workspace.';}
+let filtered=rows, page=0;
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const off=s=>{if(s==null)return'unknown';let h=Math.floor(s/3600),m=Math.floor(s%3600/60),v=(s%60).toFixed(2);return`${String(h).padStart(2,'0')}:${String(m).padStart(2,'0')}:${v.padStart(5,'0')}`};
+function options(id,values){for(const value of [...new Set(values.filter(Boolean))].sort()){let o=document.createElement('option');o.value=value;o.textContent=value;el(id).append(o)}}
+options('station',rows.map(r=>r.station));options('day',rows.map(r=>(r.mountain||r.episode_date||'').slice(0,10)));options('kind',rows.map(r=>r.kind));
+function render(){
+ const start=page*size, zone=el('zone').value, slice=filtered.slice(start,start+size);
+ el('count').textContent=`${filtered.length.toLocaleString()} matching items of ${rows.length.toLocaleString()} retained items · ${data.audit.source_count} transcript sources · ${data.audit.excluded_song_segment_count.toLocaleString()} identified song items excluded`;
+ el('page').textContent=el('page2').textContent=`Page ${page+1} of ${Math.max(1,Math.ceil(filtered.length/size))}`;
+ for(const id of ['previous','previous2'])el(id).disabled=page===0;
+ for(const id of ['next','next2'])el(id).disabled=start+size>=filtered.length;
+ el('items').innerHTML=slice.map(r=>{let s=data.sources[r.source_id],clock=r[zone]||`Clock unknown · episode ${r.episode_date||'date unknown'}`;return `<tr><td class="clock"><span class="date">${esc(clock)}</span><small>Audio ${off(r.start)}–${off(r.end)}</small><small>${esc(r.time_basis)}</small>${r.timing_warning?`<span class="chip">${esc(r.timing_warning)}</span>`:''}</td><td class="station">${esc(r.station)}<small>${esc(r.kind)}</small><span class="chip">${esc(r.version)}</span></td><td class="words">${esc(r.text)}<details><summary>Recording and transcript source</summary><small class="source">Transcript: ${publicMode?esc(r.transcript):`<a href="${encodeURI(r.transcript)}">${esc(r.transcript)}</a>`}<br>Original segment index: ${r.segment_index}<br>Audio: ${r.audio?(publicMode?esc(r.audio)+' (local recording)':`<a href="${encodeURI(r.audio)}">${esc(r.audio)}</a>`):esc(s.source_url||'external publisher source')}<br>${esc(r.note)}<br>Original timing note: ${esc(s.time_basis||'')}<br>${(s.alternate_transcripts||[]).length?'Other passes: '+esc(s.alternate_transcripts.join('; ')):''}</small></details></td></tr>`}).join('');
+ if(!slice.length)el('items').innerHTML='<tr><td colspan="3">No matching items. Try fewer filters.</td></tr>';
+}
+function filter(){let q=el('query').value.trim().toLowerCase(),station=el('station').value,day=el('day').value,version=el('version').value,kind=el('kind').value;filtered=rows.filter(r=>(!q||[r.text,r.transcript,r.station].join(' ').toLowerCase().includes(q))&&(!station||r.station===station)&&(!day||(r.mountain||r.episode_date||'').slice(0,10)===day)&&(!version||r.version===version)&&(!kind||r.kind===kind));page=0;render()}
+for(const id of ['query','station','day','version','kind'])el(id).addEventListener(id==='query'?'input':'change',filter);
+el('zone').addEventListener('change',render);
+for(const id of ['previous','previous2'])el(id).onclick=()=>{page=Math.max(0,page-1);render()};
+for(const id of ['next','next2'])el(id).onclick=()=>{if((page+1)*size<filtered.length)page++;render()};
+el('reset').onclick=()=>{for(const id of ['query','station','day','version','kind'])el(id).value='';filter()};
+el('sources').textContent=data.sources.map(s=>`${s.station} | ${s.transcript}\nAudio: ${s.audio||'external'} | ${s.segment_count??'?'} raw items | ${s.catalog_excluded_count} excluded song items\n${s.catalog_time_basis}; anchor ${s.catalog_anchor_utc||'unknown'}; offset correction ${s.catalog_offset_correction_seconds}s\n${s.note||''}\n`).join('\n');
+
+if(publicMode){
+ const targets=['qr2-every-non-song.txt','qr2-every-non-song.csv','qr2-every-non-song-data.json'];
+ for(const target of targets){let link=document.querySelector(`a[href="${target}"]`);if(!link)continue;
+ link.onclick=event=>{event.preventDefault();let text,mime;
+ if(target.endsWith('.json')){text=JSON.stringify({audit:data.audit,sources:data.sources,rows},null,2);mime='application/json'}
+ else if(target.endsWith('.csv')){const fields=Object.keys(rows[0]||{}),q=value=>'"'+String(value??'').replace(/"/g,'""')+'"';text='\ufeff'+[fields.map(q).join(','),...rows.map(row=>fields.map(field=>q(row[field])).join(','))].join('\r\n');mime='text/csv'}
+ else{text=['QR2 — EVERY AVAILABLE NON-SONG TRANSCRIPT ITEM','Updated '+data.audit.generated_utc,'Clocks are approximate stream receipt times. Original wording is uncorrected ASR.','',...rows.flatMap(row=>['['+row.station+'] '+(row.mountain||'Clock unknown')+' | '+(row.central||'Central clock unknown')+' | audio '+off(row.start)+'–'+off(row.end),row.version+' | '+row.transcript+' | segment '+row.segment_index,row.text,''])].join('\n');mime='text/plain'}
+ const url=URL.createObjectURL(new Blob([text],{type:mime+';charset=utf-8'}));const a=document.createElement('a');a.href=url;a.download=target;a.click();setTimeout(()=>URL.revokeObjectURL(url),10000)}
+ }
+}
+
+render();
+})().catch(error=>{document.getElementById('count').textContent='Could not load the catalog: '+error.message;});
+</script></html>
