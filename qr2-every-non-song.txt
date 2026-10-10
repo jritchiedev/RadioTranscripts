@@ -1,22 +1,22 @@
 QR2 — EVERY AVAILABLE NON-SONG TRANSCRIPT ITEM
 
 {
-  "generated_utc": "2026-10-10T03:06:39.567319+00:00",
+  "generated_utc": "2026-10-10T03:09:16.725308+00:00",
   "snapshots": [
     "2026-10-10T00:58:44Z",
     "2026-10-10T00:56:49+00:00",
     "2026-10-10T00:56:59Z",
     "2026-10-10T00:57:06+00:00",
-    "2026-10-10T03:06:34.938801+00:00"
+    "2026-10-10T03:09:12.663202+00:00"
   ],
-  "pending_classification_source_count": 111,
-  "live_classified_source_count": 1018,
-  "source_count": 1747,
-  "raw_segment_count": 38730,
-  "included_segment_count": 33023,
-  "excluded_song_segment_count": 5707,
+  "pending_classification_source_count": 64,
+  "live_classified_source_count": 1087,
+  "source_count": 1816,
+  "raw_segment_count": 39837,
+  "included_segment_count": 33766,
+  "excluded_song_segment_count": 6071,
   "blank_segment_count": 0,
-  "unique_audio_count": 1371,
+  "unique_audio_count": 1417,
   "by_station": {
     "KPCW": 2410,
     "ESPN The Fan / KOVO / KUDD-HD2": 9835,
@@ -29,13 +29,13 @@ QR2 — EVERY AVAILABLE NON-SONG TRANSCRIPT ITEM
     "Utah Public Radio": 1415,
     "KSL NewsRadio (official studio feed)": 1794,
     "KOHS": 71,
-    "KUFR / Family Radio": 599,
-    "K-LOVE network (Utah local inserts unverified)": 274,
-    "Key Radio / KEYR / KEYV": 1056,
-    "Fuzion California (St. George counterpart unverified)": 499,
-    "Fuzion Las Vegas (St. George counterpart unverified)": 521
+    "KUFR / Family Radio": 740,
+    "K-LOVE network (Utah local inserts unverified)": 345,
+    "Key Radio / KEYR / KEYV": 1318,
+    "Fuzion California (St. George counterpart unverified)": 650,
+    "Fuzion Las Vegas (St. George counterpart unverified)": 639
   },
-  "passage_count": 3930,
+  "passage_count": 4067,
   "passages_by_station": {
     "KPCW": 301,
     "ESPN The Fan / KOVO / KUDD-HD2": 901,
@@ -48,11 +48,11 @@ QR2 — EVERY AVAILABLE NON-SONG TRANSCRIPT ITEM
     "Utah Public Radio": 164,
     "KSL NewsRadio (official studio feed)": 188,
     "KOHS": 26,
-    "KUFR / Family Radio": 79,
-    "K-LOVE network (Utah local inserts unverified)": 51,
-    "Key Radio / KEYR / KEYV": 141,
-    "Fuzion California (St. George counterpart unverified)": 111,
-    "Fuzion Las Vegas (St. George counterpart unverified)": 103
+    "KUFR / Family Radio": 99,
+    "K-LOVE network (Utah local inserts unverified)": 62,
+    "Key Radio / KEYR / KEYV": 175,
+    "Fuzion California (St. George counterpart unverified)": 148,
+    "Fuzion Las Vegas (St. George counterpart unverified)": 138
   },
   "station_scope": "Only the currently recorded radio services listed by the user; unrelated TV, unidentified receiver and legacy feed sources omitted from the dashboard.",
   "omitted_out_of_scope_source_count": 8,
@@ -4124,6 +4124,154 @@ He had a very serious problem and God already had a answer for him. So stay with
 Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00039-whisper-no-vad-model-base-lang-auto.jsonl | 2 original segments
 I want to love you today When I see you, it's the Lord
 
+2026-10-09 08:39:58 PM MDT | 2026-10-09 09:39:58 PM CDT | audio 00:00:44.40–00:00:53.40
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00041-whisper-no-vad-model-base-lang-auto.jsonl | 2 original segments
+Marcos Wheat con Saraí Rivera, cuando ellos el señor. Gracias, Ontario, por escuchar cución. ¡Te amamos!
+
+2026-10-09 08:40:03 PM MDT | 2026-10-09 09:40:03 PM CDT | audio 00:00:49.23–00:00:53.39
+Main transcript | qr2-expanded-oct9/fuzion_socal-20261010T011722Z-001-00041.json | 2 original segments
+Gracias, Ontario, por es tu cicada cución. Damn!
+
+2026-10-09 08:41:06 PM MDT | 2026-10-09 09:41:06 PM CDT | audio 00:01:52.40–00:01:59.86
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00041-whisper-no-vad-model-base-lang-auto.jsonl | 2 original segments
+Y una montaña y tu lago mister Pues por amor que tu irá
+
+2026-10-09 08:43:17 PM MDT | 2026-10-09 09:43:17 PM CDT | audio 00:00:03.80–00:00:12.36
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00043-whisper-no-vad-model-base-lang-auto.jsonl | 7 original segments
+No puedo. ¡Fue nuevo, no puedo! ¡Fue fuerte, ¡fue! ¡Fue paso! ¡Fue paso! ¡Fue nuevo, no puedo. ¡Fue fuerte, ¡fue!
+
+2026-10-09 08:43:49 PM MDT | 2026-10-09 09:43:49 PM CDT | audio 00:00:36.00–00:00:37.38
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00043-whisper-no-vad-model-base-lang-auto.jsonl | 1 original segments
+Real number one
+
+2026-10-09 08:44:26 PM MDT | 2026-10-09 09:44:26 PM CDT | audio 00:01:13.42–00:01:52.26
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00043-whisper-no-vad-model-base-lang-auto.jsonl | 6 original segments
+Elvación español con lego en músicas español Nunca several Gracias, señor por ser siempre fiel, por ser siempre sí, y te cuento entonces la historia de Naman, el buscaba sanidad y en segunda de reyes capítulos 5 dice que llegó esperando una gran intervención del profeta el CEO para su salud, pero la instrucción fue Vea el hordán y lava te siete veces y namán se molestó muchísimo.
+
+2026-10-09 08:44:37 PM MDT | 2026-10-09 09:44:37 PM CDT | audio 00:01:23.60–00:01:59.60
+Main transcript | qr2-expanded-oct9/fuzion_socal-20261010T011722Z-001-00043.json | 10 original segments
+Gracias eñorro por cerciem, preffi y el por cerciem, preciem, preciem. Y te quenten tonces la historia de ena man. El gusta vazanidad y en segunda de rejes capito los cinco. De se que ajegos perando una gran intervención del profeta el cío para susa lud. Pero la instruxio en fuee, béal hordan y la vad que cío te veces. and the rest of the world. But it's not that we have to do it. I'm not going to do it again. I'm not going to do it again. But I think this is a good idea.
+
+2026-10-09 08:45:06 PM MDT | 2026-10-09 09:45:06 PM CDT | audio 00:01:53.26–00:02:00.26
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00043-whisper-no-vad-model-base-lang-auto.jsonl | 1 original segments
+La respuesta no se parecía a lo que él imaginaba, hasta que sus propios ciergos...
+
+2026-10-09 08:45:13 PM MDT | 2026-10-09 09:45:13 PM CDT | audio 00:00:00.00–00:00:28.32
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00044-whisper-no-vad-model-base-lang-auto.jsonl | 4 original segments
+lo hicieron entrar en razón y finalmente me decía y fue sanado, ¿Ves? A veces el problema no es que Dios no está guiando nuestra vida, es que su dirección llegó de una manera que nosotros no esperábamos. Así que sigue confiando en el plan de Dios para ti porque siempre es bueno, agradable y perfecto.
+
+2026-10-09 08:45:14 PM MDT | 2026-10-09 09:45:14 PM CDT | audio 00:00:00.27–00:00:29.07
+Main transcript | qr2-expanded-oct9/fuzion_socal-20261010T011722Z-001-00044.json | 6 original segments
+if he was lonely... I did not understand. I was being a kid and I was a kid and I was not a kid. I stood up for the same time and thought I was so afraid. I was really happy and happy that I also had to skip the beginning. I was slowly myself and I am tired.
+
+2026-10-09 08:47:07 PM MDT | 2026-10-09 09:47:07 PM CDT | audio 00:01:54.00–00:02:00.00
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00044-whisper-no-vad-model-base-lang-auto.jsonl | 1 original segments
+No, no, no. No, si no nos siempre es cuatro, pero con ti...
+
+2026-10-09 08:47:21 PM MDT | 2026-10-09 09:47:21 PM CDT | audio 00:00:07.82–00:01:48.23
+Main transcript | qr2-expanded-oct9/fuzion_socal-20261010T011722Z-001-00045.json | 9 original segments
+I'm so excited to see you all! We hope you'll enjoy this video! Thank you so much for watching! I'm Tréga, and I'm here to help you all, and I hope you'll enjoy this next time! I hope you all enjoy this video! I hope you'll enjoy this video! I hope you'll enjoy this video! I wish you all a good time and stay with me!
+
+2026-10-09 08:48:06 PM MDT | 2026-10-09 09:48:06 PM CDT | audio 00:00:53.00–00:01:22.72
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00045-whisper-no-vad-model-base-lang-auto.jsonl | 4 original segments
+Más se la gandera con Samu Robles, ¿por qué? Mientras avances entre el tráfico y el vido de la ciudad, entrega tus cargas a Dios Y deja que tu fe se conecte con la música. Estás en función junto a Yendrix.
+
+2026-10-09 08:49:00 PM MDT | 2026-10-09 09:49:00 PM CDT | audio 00:01:47.00–00:01:59.00
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00045-whisper-no-vad-model-base-lang-auto.jsonl | 6 original segments
+mi nació por todo morrio sigo aquí y te confieso a la vida que pasa de ti me almas en la mora no sé cómo es mi casa
+
+2026-10-09 08:50:33 PM MDT | 2026-10-09 09:50:33 PM CDT | audio 00:01:20.00–00:01:40.00
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00046-whisper-80-100-no-vad-model-base-lang-es.jsonl | 9 original segments
+¿Qué? ¿Y cuánto puedo hacerte? ¿Más gudas mi mente? Estoy, he oído a la muerte Nada hice para merecerte Hoy siempre en palante Tu vas al volante Dígese el vale ¡Mira que pasa de ti, me amas en amor No sé cómo!
+
+2026-10-09 08:50:38 PM MDT | 2026-10-09 09:50:38 PM CDT | audio 00:01:24.92–00:01:35.92
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00046-whisper-no-vad-model-base-lang-auto.jsonl | 10 original segments
+¡Me voy a ir a ser! ¡Me voy a ser! ¿Qué estoy? ¡Te voy a ser! ¡Te voy a estar a muerte! ¡Nadie se puedo merecerte! ¡Voy siempre en parlante! ¡Tú vas al golante! ¡Dígese el ballet! ¡Mira, qué paz!
+
+2026-10-09 08:51:06 PM MDT | 2026-10-09 09:51:06 PM CDT | audio 00:01:53.12–00:01:59.98
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00046-whisper-no-vad-model-base-lang-auto.jsonl | 3 original segments
+Por la, ¿sera por la, por la, por la, por la! ¡Sera por la, por la, por la! ¡Sera por la...
+
+2026-10-09 08:51:21 PM MDT | 2026-10-09 09:51:21 PM CDT | audio 00:00:07.96–00:00:12.00
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00047-whisper-no-vad-model-base-lang-auto.jsonl | 3 original segments
+Sonblado por el ábol resolved P School, la vai. cool
+
+2026-10-09 08:51:35 PM MDT | 2026-10-09 09:51:35 PM CDT | audio 00:00:21.52–00:00:58.62
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00047-whisper-no-vad-model-base-lang-auto.jsonl | 6 original segments
+Así es que el linda cuando el corazón vuelva a enamorarse de Dios cuando recordamos quién es él y todo lo que ha hecho por nosotros porque cuando reconocemos su amor también nace dentro de nosotros una respuesta y a veces esa respuesta no necesita muchas palabras simplemente levantar nuestras manos y decir señor aquí estoy confío en ti y vamos a levantar nuestras manos y disfrutar con esta canción de Samuel Hernández.
+
+2026-10-09 08:51:35 PM MDT | 2026-10-09 09:51:35 PM CDT | audio 00:00:22.10–00:01:01.34
+Main transcript | qr2-expanded-oct9/fuzion_socal-20261010T011722Z-001-00047.json | 10 original segments
+We're going to leave for you during the last month of the year. We'll leave you on the same list of all the new Sotros. You'll be able to do some of the new Sotros with the Sotros with the Sotros. This is how you can find the Sotros with Sotros. Simplify. You can find the Sotros with the Sotros with Sotros with the Sotros. It's your first time to get to know the Sotros. Y vamos. Am levantar mestras manos, y dis rutar, Gon esta con siente de samueler nandes.
+
+2026-10-09 08:53:42 PM MDT | 2026-10-09 09:53:42 PM CDT | audio 00:00:29.00–00:00:34.00
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00048-whisper-no-vad-model-base-lang-auto.jsonl | 1 original segments
+A ver los joros, levanto mis manos.
+
+2026-10-09 08:53:45 PM MDT | 2026-10-09 09:53:45 PM CDT | audio 00:00:31.66–00:00:32.66
+Main transcript | qr2-expanded-oct9/fuzion_socal-20261010T011722Z-001-00048.json | 1 original segments
+Thank you very much.
+
+2026-10-09 08:54:02 PM MDT | 2026-10-09 09:54:02 PM CDT | audio 00:00:49.00–00:01:19.00
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00048-whisper-49-102-no-vad-model-base-lang-es.jsonl | 2 original segments
+Levantan las alvas al cielo conmigo, algo sucede cuando levantas tus humanos, que comienzas a sentir y me hace cantar, cantar el señor
+
+2026-10-09 08:54:02 PM MDT | 2026-10-09 09:54:02 PM CDT | audio 00:00:49.00–00:01:03.00
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00048-whisper-no-vad-model-base-lang-auto.jsonl | 1 original segments
+Levantan las alvas al cielo conmigo, algo sucede cuando levantas tus humanos.
+
+2026-10-09 08:54:20 PM MDT | 2026-10-09 09:54:20 PM CDT | audio 00:01:06.60–00:01:08.30
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00048-whisper-no-vad-model-base-lang-auto.jsonl | 1 original segments
+¿Qué comienes vas a sentir?
+
+2026-10-09 08:54:25 PM MDT | 2026-10-09 09:54:25 PM CDT | audio 00:01:12.10–00:01:14.10
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00048-whisper-no-vad-model-base-lang-auto.jsonl | 1 original segments
+Nación
+
+2026-10-09 08:54:30 PM MDT | 2026-10-09 09:54:30 PM CDT | audio 00:01:17.30–00:01:18.80
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00048-whisper-no-vad-model-base-lang-auto.jsonl | 1 original segments
+Cantar el señor
+
+2026-10-09 08:54:38 PM MDT | 2026-10-09 09:54:38 PM CDT | audio 00:01:24.90–00:01:32.20
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00048-whisper-no-vad-model-base-lang-auto.jsonl | 2 original segments
+Eso mi puesto y sin tiendora mismo ¡Cueco!
+
+2026-10-09 08:54:38 PM MDT | 2026-10-09 09:54:38 PM CDT | audio 00:01:25.00–00:01:28.00
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00048-whisper-49-102-no-vad-model-base-lang-es.jsonl | 1 original segments
+Eso mismo estoy sintiendo ahora mismo
+
+2026-10-09 08:54:49 PM MDT | 2026-10-09 09:54:49 PM CDT | audio 00:01:36.00–00:01:38.00
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00048-whisper-49-102-no-vad-model-base-lang-es.jsonl | 1 original segments
+Se va a buscarme a su problema también
+
+2026-10-09 08:54:49 PM MDT | 2026-10-09 09:54:49 PM CDT | audio 00:01:36.24–00:01:40.74
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00048-whisper-no-vad-model-base-lang-auto.jsonl | 2 original segments
+Se va a buscarme a tus problemas también ¡Se va!
+
+2026-10-09 08:55:10 PM MDT | 2026-10-09 09:55:10 PM CDT | audio 00:01:57.18–00:01:59.98
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00048-whisper-no-vad-model-base-lang-auto.jsonl | 1 original segments
+Oh, he's my dog
+
+2026-10-09 08:56:24 PM MDT | 2026-10-09 09:56:24 PM CDT | audio 00:01:11.00–00:01:13.00
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00049-whisper-no-vad-model-base-lang-auto.jsonl | 1 original segments
+¿Cómo acabéis el colo?
+
+2026-10-09 08:56:30 PM MDT | 2026-10-09 09:56:30 PM CDT | audio 00:01:17.00–00:01:55.80
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00049-whisper-no-vad-model-base-lang-auto.jsonl | 9 original segments
+Son hueles nandis, levanto mis manos. Cada día crecemos más como familia y gracias a ti. Muchos encuentran goso y alegría al escuchar fusión. Me levanto contenta, remontarme en mi carro y poder a la vara del señor en mi idioma. Y escuchar esos hermosos mensajes que nos tienen cada día para llenarnos de optimismo, de fe y de amor en nuestra alma. Dios está cambiando vidas, gracias a tu apoyo, visita mifusión.com para donar hoy, mifusión.com para donar hoy, te lo agradecemos mucho.
+
+2026-10-09 08:56:35 PM MDT | 2026-10-09 09:56:35 PM CDT | audio 00:01:22.29–00:01:54.45
+Main transcript | qr2-expanded-oct9/fuzion_socal-20261010T011722Z-001-00049.json | 11 original segments
+And he's a very good man, and he loves me. But I was also very happy to be here, and I found out that I didn't have the opportunity to be here, and I was already in love with my family and my family. And in her family, they were very happy. I was happy to be here, and I was very happy to be here. And I was happy to be here. And I'm very happy to be here. And I was very happy to be here. We'll see you in the next video!
+
+2026-10-09 08:57:13 PM MDT | 2026-10-09 09:57:13 PM CDT | audio 00:00:00.00–00:00:32.00
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00050-whisper-no-vad-model-base-lang-auto.jsonl | 3 original segments
+Otro día hay que lucha. Otro día levantarse. Las fuerzas bien en divan y ya no se se aguante. Me dicen que mire arriba, que hay encuentro la salida, que el que busco encuentro y al que pides Y desde la edad
+
+2026-10-09 08:58:17 PM MDT | 2026-10-09 09:58:17 PM CDT | audio 00:01:04.00–00:01:39.00
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00050-whisper-no-vad-model-base-lang-auto.jsonl | 10 original segments
+Por eso vengo, porque sé que sin ti nada tengo Solo de tu mano me sostengo Gracias por lo que me da Todas mis cargas te las llevas de tu No soy sanson pero mi fuerza es tu Y aunque la vida se la pasa reglándose para verme caer, esperen que ya no me pienso mover de aquí si cuidas de las aves como no de mí si fuiste en mis sustentos desde que nací no me dejaste, aunque me perdí
+
 
 Fuzion - Las Vegas regional proxy — Utah candidate: 91.7 FM (St. George)
 Las Vegas online feed; St. George counterpart unverified
@@ -4541,6 +4689,146 @@ Sing you
 Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00040-whisper-no-vad-model-base-lang-auto.jsonl | 2 original segments
 La leyazza de mis niños, no No, no, no, no
 
+2026-10-09 08:40:11 PM MDT | 2026-10-09 09:40:11 PM CDT | audio 00:00:58.00–00:01:08.00
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00041-whisper-no-vad-model-base-lang-auto.jsonl | 3 original segments
+Marcos Wheat, González Rivera, cuándo ellos el señor. Gracias, Leverkin, por escuchar fusión. Te andamos.
+
+2026-10-09 08:40:17 PM MDT | 2026-10-09 09:40:17 PM CDT | audio 00:01:03.38–00:01:05.72
+Main transcript | qr2-expanded-oct9/fuzion_vegas-20261010T011722Z-001-00041.json | 1 original segments
+He has leverkin put his good chat pussy on
+
+2026-10-09 08:43:32 PM MDT | 2026-10-09 09:43:32 PM CDT | audio 00:00:18.66–00:00:22.30
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00043-whisper-no-vad-model-base-lang-auto.jsonl | 1 original segments
+Puede recordar lo que no me lo ha dejado
+
+2026-10-09 08:43:41 PM MDT | 2026-10-09 09:43:41 PM CDT | audio 00:00:27.60–00:00:30.88
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00043-whisper-no-vad-model-base-lang-auto.jsonl | 1 original segments
+No que sea kamo
+
+2026-10-09 08:44:23 PM MDT | 2026-10-09 09:44:23 PM CDT | audio 00:01:10.00–00:01:17.56
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00043-whisper-40-102-no-vad-model-base-lang-es.jsonl | 2 original segments
+Con la canción español con lejos y playlist de mi canción. Nunca pasas.
+
+2026-10-09 08:44:28 PM MDT | 2026-10-09 09:44:28 PM CDT | audio 00:01:14.90–00:01:59.64
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00043-whisper-no-vad-model-base-lang-auto.jsonl | 8 original segments
+interno trumuño llegó que no volvíЛes que lo expián nunca falle villain gracias señor por ser siempre fiel por ser de Naman el buscaba sanidad y en segunda de reyes capítulos 5 dice que llegó esperando una gran intervención del profeta el CEO para su salud pero la instrucción fue
+
+2026-10-09 08:44:49 PM MDT | 2026-10-09 09:44:49 PM CDT | audio 00:01:35.96–00:01:41.58
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00043-whisper-40-102-no-vad-model-base-lang-es.jsonl | 2 original segments
+Gracias señor por ser siempre. Gracias, señor por ser siempre fíjil por ser siempre así.
+
+2026-10-09 08:44:51 PM MDT | 2026-10-09 09:44:51 PM CDT | audio 00:01:37.68–00:01:59.92
+Main transcript | qr2-expanded-oct9/fuzion_vegas-20261010T011722Z-001-00043.json | 8 original segments
+Gracias eñorro, por cerciem, prefeil, por cerciem, preciem, preciem. Y te quenten tonses la historia de ena man. El buscava sanidad? Y en segunda de rejes capito los cinco. De se que jego esperando una grand, intervencion del profeta el seo. Para sus salud. Para la instruxio en fue.
+
+2026-10-09 08:45:13 PM MDT | 2026-10-09 09:45:13 PM CDT | audio 00:00:00.00–00:00:42.48
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00044-whisper-no-vad-model-base-lang-auto.jsonl | 6 original segments
+Vea el Jordán y lava te siete veces, y namán se muelestó muchísimo. La respuesta no se parecía a lo que él imaginaba, hasta que sus propios ciervos lo hicieron entrar en razón, y finalmente veseo, y fuese anado. ¿Ves? A veces el problema no es que Dios no está guiando nuestra vida, es que su dirección llegó de una manera que nosotros no esperábamos. Así que sigue confiando en el plan de Dios para ti porque siempre es bueno, agradable y perfecto.
+
+2026-10-09 08:45:13 PM MDT | 2026-10-09 09:45:13 PM CDT | audio 00:00:00.00–00:00:42.50
+Main transcript | qr2-expanded-oct9/fuzion_vegas-20261010T011722Z-001-00044.json | 8 original segments
+If you didn't know me, I always wanted to give you money when you went home. And that's my first time doing my work, what I want to do is in a very interesting way I talk about this house. But I have a place where I can go and explore all the different things. The next time I'm doing my dance, I'm going to be playing with the band in Spanish. I'm going to be playing with the band and playing with the band's speed and everything. I'm going to be doing everything. Perfect!
+
+2026-10-09 08:47:10 PM MDT | 2026-10-09 09:47:10 PM CDT | audio 00:01:56.48–00:02:00.08
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00044-whisper-no-vad-model-base-lang-auto.jsonl | 2 original segments
+Ay, yo estoy enrogué Raikasa
+
+2026-10-09 08:47:13 PM MDT | 2026-10-09 09:47:13 PM CDT | audio 00:00:00.00–00:01:33.76
+Main transcript | qr2-expanded-oct9/fuzion_vegas-20261010T011722Z-001-00045.json | 3 original segments
+Please subscribe to our channel! I will see you in the next video, bye! And if you like the video, I will see you in the next video!
+
+2026-10-09 08:48:34 PM MDT | 2026-10-09 09:48:34 PM CDT | audio 00:01:21.12–00:01:36.40
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00045-whisper-no-vad-model-base-lang-auto.jsonl | 4 original segments
+Marcela Gandara, con Samuel Robles. ¿Por qué? mientras avances entre el tráfico y el ruido de la ciudad, entrega tus cargas a Dios y deja que tu fe se conecte con la música, estás en función junto a Yendrix.
+
+2026-10-09 08:48:47 PM MDT | 2026-10-09 09:48:47 PM CDT | audio 00:01:33.96–00:01:49.39
+Main transcript | qr2-expanded-oct9/fuzion_vegas-20261010T011722Z-001-00045.json | 1 original segments
+I will see you in the next video!
+
+2026-10-09 08:49:08 PM MDT | 2026-10-09 09:49:08 PM CDT | audio 00:01:55.12–00:02:00.12
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00045-whisper-no-vad-model-base-lang-auto.jsonl | 2 original segments
+y sin detrás, yo has decidido nunca recordar
+
+2026-10-09 08:50:52 PM MDT | 2026-10-09 09:50:52 PM CDT | audio 00:01:39.40–00:01:52.76
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00046-whisper-no-vad-model-base-lang-auto.jsonl | 3 original segments
+Estoy, le voy a estar a muerte, nada hice para merecerte O siempre parlante tu voz al volante Dígese la vida que pasa de ti me va a hacer a morar
+
+2026-10-09 08:51:13 PM MDT | 2026-10-09 09:51:13 PM CDT | audio 00:00:00.00–00:00:02.82
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00047-whisper-no-vad-model-base-lang-auto.jsonl | 1 original segments
+Estás el ze modo nunca manobra
+
+2026-10-09 08:51:14 PM MDT | 2026-10-09 09:51:14 PM CDT | audio 00:00:00.40–00:01:11.55
+Main transcript | qr2-expanded-oct9/fuzion_vegas-20261010T011722Z-001-00047.json | 9 original segments
+to but when you come to the United States, you're not going to be able to do that because the other people are not going to be able to do that and simply being able, and after you're not going to be able to do that, you'll be able to do that. I'm not going to be able to do that, but you'll be able to do that.
+
+2026-10-09 08:51:21 PM MDT | 2026-10-09 09:51:21 PM CDT | audio 00:00:07.70–00:00:10.12
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00047-whisper-no-vad-model-base-lang-auto.jsonl | 1 original segments
+Ah honor honor honor
+
+2026-10-09 08:51:42 PM MDT | 2026-10-09 09:51:42 PM CDT | audio 00:00:28.30–00:01:12.54
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00047-whisper-no-vad-model-base-lang-auto.jsonl | 6 original segments
+un músico con Kim Richards en amor a así es que el linda cuando el corazón vuelve a enamorarse de dios días tras día cuando recordamos quién es él y todo lo que ha hecho por nosotros porque cuando reconocemos su amor también nace dentro de nosotros una respuesta y a veces esa respuesta no necesita muchas palabras. Simplemente levantar nuestras manos y decir señor aquí estoy confío en ti. Y vamos a levantar nuestras manos y disfrutar con esta canción donde se amolernas.
+
+2026-10-09 08:52:32 PM MDT | 2026-10-09 09:52:32 PM CDT | audio 00:01:19.06–00:01:59.81
+Main transcript | qr2-expanded-oct9/fuzion_vegas-20261010T011722Z-001-00047.json | 1 original segments
+Thank you very much for watching, and I'll see you in the next video.
+
+2026-10-09 08:53:56 PM MDT | 2026-10-09 09:53:56 PM CDT | audio 00:00:43.00–00:00:48.00
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00048-whisper-no-vad-model-base-lang-auto.jsonl | 1 original segments
+Abelos poros, levanto mis manos
+
+2026-10-09 08:53:59 PM MDT | 2026-10-09 09:53:59 PM CDT | audio 00:00:45.68–00:00:47.68
+Main transcript | qr2-expanded-oct9/fuzion_vegas-20261010T011722Z-001-00048.json | 1 original segments
+Thanks for watching!
+
+2026-10-09 08:54:15 PM MDT | 2026-10-09 09:54:15 PM CDT | audio 00:01:02.00–00:01:17.00
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00048-whisper-no-vad-model-base-lang-auto.jsonl | 2 original segments
+Devantan las almas al cielo conmigo Algo sucede cuando levantas tus humanos
+
+2026-10-09 08:54:33 PM MDT | 2026-10-09 09:54:33 PM CDT | audio 00:01:20.00–00:01:28.00
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00048-whisper-no-vad-model-base-lang-auto.jsonl | 3 original segments
+¿Qué comienzas a sentir? ¿Qué comienzas a sentir? Nación
+
+2026-10-09 08:54:44 PM MDT | 2026-10-09 09:54:44 PM CDT | audio 00:01:31.00–00:01:33.00
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00048-whisper-no-vad-model-base-lang-auto.jsonl | 1 original segments
+Cantar el señor.
+
+2026-10-09 08:54:49 PM MDT | 2026-10-09 09:54:49 PM CDT | audio 00:01:36.00–00:01:52.00
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00048-whisper-no-vad-model-base-lang-auto.jsonl | 3 original segments
+¿Qué comienzo a sentir? Eso a mi puesto y sintiendo ahora mismo. Se va a buscarme a tus problemas también.
+
+2026-10-09 08:56:37 PM MDT | 2026-10-09 09:56:37 PM CDT | audio 00:01:23.72–00:01:25.72
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00049-whisper-no-vad-model-base-lang-auto.jsonl | 1 original segments
+¿Cómo que viste el color?
+
+2026-10-09 08:56:45 PM MDT | 2026-10-09 09:56:45 PM CDT | audio 00:01:31.72–00:01:59.92
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00049-whisper-no-vad-model-base-lang-auto.jsonl | 6 original segments
+Son buenas nantes, levanto mis manos Cada día crecemos más como familia y gracias a ti Muchos encuentran gozo y aleguía al escuchar fusion Me levanto contenta, remontarme en mi carro y poder alabar al señor en mi idioma escuchar esos hermosos mensajes que nos tienen cada día para llenar uno de optimismo, de fe y de amor en mezclar. Dios está...
+
+2026-10-09 08:56:49 PM MDT | 2026-10-09 09:56:49 PM CDT | audio 00:01:36.37–00:01:43.69
+Main transcript | qr2-expanded-oct9/fuzion_vegas-20261010T011722Z-001-00049.json | 2 original segments
+As you can see, the customer will consider this amazing shot. Thanks to all of you watching the channel.
+
+2026-10-09 08:57:04 PM MDT | 2026-10-09 09:57:04 PM CDT | audio 00:01:50.61–00:02:00.03
+Main transcript | qr2-expanded-oct9/fuzion_vegas-20261010T011722Z-001-00049.json | 3 original segments
+I didn't give up at all. But I believe that the Wiz will create a gamup. And I'll see you next week.
+
+2026-10-09 08:57:13 PM MDT | 2026-10-09 09:57:13 PM CDT | audio 00:00:00.00–00:00:10.28
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00050-whisper-no-vad-model-base-lang-auto.jsonl | 2 original segments
+Cambiando vidas, gracias a tu apoyo, visita mifusión.com para donar hoy. Mifusión.com para donar hoy, te lo agradecemos mucho.
+
+2026-10-09 08:57:13 PM MDT | 2026-10-09 09:57:13 PM CDT | audio 00:00:00.00–00:00:47.38
+Main transcript | qr2-expanded-oct9/fuzion_vegas-20261010T011722Z-001-00050.json | 7 original segments
+You can find the video that was presented by your friend, you are just a guy who was a priest and you are a painter. You are a professional, a character who has a guitar, a played singer, who has a very nice song, and you are going to take it off to your friends. It's such a wonderful song, a beautiful and heavy song from the beginning.
+
+2026-10-09 08:57:43 PM MDT | 2026-10-09 09:57:43 PM CDT | audio 00:00:30.00–00:00:46.72
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00050-whisper-no-vad-model-base-lang-auto.jsonl | 4 original segments
+Mi vainilla no se se aguante Me dicen que mire arriba Que hay encuentro la salida Que busque encuentro y al que pides de la edad
+
+2026-10-09 08:58:32 PM MDT | 2026-10-09 09:58:32 PM CDT | audio 00:01:18.32–00:01:54.16
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00050-whisper-no-vad-model-base-lang-auto.jsonl | 9 original segments
+Por eso vengo, porque sé que sin ti nada tengo Solo de tu mano me sostengo Gracias por lo que me da, todas mis cargas te las llevas de tu No soy san son pero mi fuerza es tu Y aunque la vida se la pasa reglándose para verme caer Esperen día no me pienso mover de aquí Si cuidas de las aves como no de mí Si fuiste en mis sustentos desde que nací No me deja, este aunque me perdí
+
 
 K-LOVE - network proxy — Utah candidate: 98.3 FM (Park City)
 Network online feed; Utah relay K252EH / KNKL
@@ -4749,6 +5037,50 @@ Yeah, that's what's here Let's pray for a holy change Tired of a stagnant, no, t
 2026-10-09 08:39:03 PM MDT | 2026-10-09 09:39:03 PM CDT | audio 00:01:00.56–00:01:09.28
 Main transcript | qr2-expanded-oct9/klove_iheart-20261010T011807Z-001-00040.json | 3 original segments
 Your family, your finances, your fear, the safest place to leave them is in God's hands. It's Caleb.
+
+2026-10-09 08:43:07 PM MDT | 2026-10-09 09:43:07 PM CDT | audio 00:01:04.50–00:01:50.10
+Main transcript | qr2-expanded-oct9/klove_iheart-20261010T011807Z-001-00042.json | 7 original segments
+Right now there are people all across the Gulf who are praying, they're praying, and they are bracing, and they are hunkering down, and they are waiting. So let's let them know that they are not alone. Will you pray with me tonight for all of those who are currently at this moment facing Hurricane Iseas? Father, we pray for your hand to be on every living soul that is in the path of this hurricane. To cover them, to protect them, to bring them peace. And we pray that your hand beyond this storm, that you calm it, and we thank you in advance for when the waters reside. We ask that you let help come swiftly. In Jesus' name, amen.
+
+2026-10-09 08:44:03 PM MDT | 2026-10-09 09:44:03 PM CDT | audio 00:00:00.00–00:00:33.40
+Main transcript | qr2-expanded-oct9/klove_iheart-20261010T011807Z-001-00043.json | 9 original segments
+Right now, Colorado Christian University is giving you the opportunity to win a $10,000 scholarship. And even if you don't win, you could still receive a $1,000 scholarship for entering. Your education should fit your life, not the other way around. That's why CCU offers a flexible class format designed for working adults, well integrating faith and learning in every course. So you're growing professionally and spiritually. CCU Online can help you move forward without having to put life on hold. Some day is today. Enter at CCU.edu slash future.
+
+2026-10-09 08:44:36 PM MDT | 2026-10-09 09:44:36 PM CDT | audio 00:00:33.40–00:01:03.92
+Main transcript | qr2-expanded-oct9/klove_iheart-20261010T011807Z-001-00043.json | 14 original segments
+Rules at CCU.edu slash future. Promotion ends October 11th. Caleb, one minute of encouragement. Judd will height. Studies show that customers will say no four times before they finally say yes. The life can sometimes feel that way too. Your boss says no, your family says no. Your bank account says no. Sometimes we can even expect God to say a big fat no when we turn to him. But listen to 2 Corinthians 1-20. For all of God's promises have been fulfilled in Christ with the resounding, Yes.
+
+2026-10-09 08:45:07 PM MDT | 2026-10-09 09:45:07 PM CDT | audio 00:01:03.92–00:01:38.32
+Main transcript | qr2-expanded-oct9/klove_iheart-20261010T011807Z-001-00043.json | 20 original segments
+God, will you forgive me? Yes. Will you help me? Yes. Will you be with me? Yes. Will you work in my life? Will you give me what I need? Will you send your spirit to help me? Will you give me the gift of eternal life? Yes. Yes. Yes. Yes. You don't need to wonder about the answer. You don't need to wait for a sign. Christ is your answer and the answer is yes. We live a no kind of life when all of God's promises are yes in Christ. Reach out to the God who says yes today. Connect with Judd Wilhite at klove.com, Keyword Encouragement.
+
+2026-10-09 08:45:41 PM MDT | 2026-10-09 09:45:41 PM CDT | audio 00:01:38.32–00:02:00.00
+Main transcript | qr2-expanded-oct9/klove_iheart-20261010T011807Z-001-00043.json | 6 original segments
+From bills to family conflicts to the world around us, there is no shortage of things to worry about. Positive and encouraging truths about anxiety by klove books is a devotional meant to guide you in exploring the root of your fears and finding rest in God's embrace. With the reflections from artists like Ann Wilson and Leanna Crawford, positive and encouraging truths about anxiety is a confirmation that anxieties...
+
+2026-10-09 08:46:03 PM MDT | 2026-10-09 09:46:03 PM CDT | audio 00:00:00.00–00:00:37.92
+Main transcript | qr2-expanded-oct9/klove_iheart-20261010T011807Z-001-00044.json | 7 original segments
+Katie is not a failure of faith. Visit klove.com slash shop. K-Love books, a division of K-Love Inc. Positive, encouraging K-Love. Let's get you back to the music that lifts you higher. Woo! Play the Earth.
+
+2026-10-09 08:49:53 PM MDT | 2026-10-09 09:49:53 PM CDT | audio 00:01:50.03–00:01:56.87
+Main transcript | qr2-expanded-oct9/klove_iheart-20261010T011807Z-001-00045.json | 1 original segments
+I'm crying, I can't see
+
+2026-10-09 08:50:50 PM MDT | 2026-10-09 09:50:50 PM CDT | audio 00:00:46.13–00:01:59.88
+Main transcript | qr2-expanded-oct9/klove_iheart-20261010T011807Z-001-00046.json | 1 original segments
+So I can't say, apart from heart, a name like stone, through the pain
+
+2026-10-09 08:52:12 PM MDT | 2026-10-09 09:52:12 PM CDT | audio 00:00:08.08–00:01:16.69
+Main transcript | qr2-expanded-oct9/klove_iheart-20261010T011807Z-001-00047.json | 4 original segments
+However, you are praying about tonight. You don't have to pray alone. Tell us what's going on at calove.com or on your calove app and we'll be praying for you too.
+
+2026-10-09 08:54:04 PM MDT | 2026-10-09 09:54:04 PM CDT | audio 00:00:00.30–00:00:52.96
+Main transcript | qr2-expanded-oct9/klove_iheart-20261010T011807Z-001-00048.json | 1 original segments
+Can I be a half heard stories you show and every time you prove it time and always
+
+2026-10-09 08:57:10 PM MDT | 2026-10-09 09:57:10 PM CDT | audio 00:01:06.48–00:01:12.95
+Main transcript | qr2-expanded-oct9/klove_iheart-20261010T011807Z-001-00049.json | 1 original segments
+trip leaving our signal, Kayla that keeps the music going wherever you go.
 
 
 KARB - Kickin' Country — 98.3 FM
@@ -10934,6 +11266,86 @@ I'll turn to that passage right now, and we'll see what it says. God has given d
 Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00041.json | 6 original segments
 You see, there is the list in Romans, as every man has received the gift. Now, as God has set some in the church, I'm reading now from 1 Corinthians 12, 28, apostles, prophets, teachers, miracles, gifts of healings, helps, governments, diversities of tongues. Now, he says, not everybody's an apostle, not everybody's a prophet, not everyone is a teacher, not everyone works miracles, have all the gifts of healing, do all speak with tongues, do all interpret. No, he says they don't all do it, but God has given these gifts.
 
+2026-10-09 08:39:36 PM MDT | 2026-10-09 09:39:36 PM CDT | audio 00:00:00.18–00:00:32.06
+Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00042.json | 8 original segments
+And so, God has set in the church certain people with certain gifts. He that ascended up into heaven, that he might fill all things. He gave some, this is Ephesians chapter 4 now. He gave some, apostles, some prophets, some evangelists, and some teaching pastors for the perfecting of the saints and the work of the ministry. I always say perfecting, somebody wrote me and said, why do you mispronounce that? It should be perfecting. OK, I'll say it perfecting.
+
+2026-10-09 08:40:08 PM MDT | 2026-10-09 09:40:08 PM CDT | audio 00:00:32.06–00:01:02.78
+Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00042.json | 9 original segments
+I don't know where I got into that habit. Years ago, somebody used it and I picked it up. Power of habits pretty strong, isn't it? Now he says, if any man speak, no. As every man hath received the gift. Now Peter has a listing of gifts. The gift of speaking, the gift of ministering. And well, that's all he has there. any man speak and if any man minister that God may be glorified.
+
+2026-10-09 08:40:39 PM MDT | 2026-10-09 09:40:39 PM CDT | audio 00:01:02.78–00:01:40.21
+Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00042.json | 5 original segments
+Alright, think about this. Have you ever thought about what gift God has given you? Now all of us have certain abilities. And thank God we have them. We always wish we had more. I know I do, don't you? But God has given you some gifts. I'll tell you this just for I remember being in meetings in Sioux City, Iowa, back in the early 1950s, it must have been 1950, maybe one or two or three around in there.
+
+2026-10-09 08:41:16 PM MDT | 2026-10-09 09:41:16 PM CDT | audio 00:01:40.21–00:01:59.73
+Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00042.json | 6 original segments
+And the meetings were going rough, and I brought everybody I could to bring extra people in. I had Rudy Atwood there from the old fashioned revival hour with, he played piano for Dr. Fuller, remember that? And I had some other people there to sing I brought Stuart Hamlin and some other people I forget who all.
+
+2026-10-09 08:41:37 PM MDT | 2026-10-09 09:41:37 PM CDT | audio 00:00:01.23–00:00:33.43
+Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00043.json | 8 original segments
+To try to get a crowd and then of course all I know then and now is to pray Work like everything and pray your way through and so I was working But I said to the fellas on the team and other friends said we better have a night of prayer and seek God and break through here so Two things happened in that in that night of prayer My good friend Kelly Beale, who still lives out in the Long Beach area, and I think he's still on the radio. You may hear him now and again.
+
+2026-10-09 08:42:10 PM MDT | 2026-10-09 09:42:10 PM CDT | audio 00:00:33.43–00:01:05.63
+Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00043.json | 10 original segments
+He was with me there, and he was praying and didn't seem really to get very far in his praying. Finally, in complete frustration, he broke off and he said, Hey Lord, I'm Kelly Beale. Remember me? Here in Sioux City. He just felt like he wasn't getting anywhere. Well, then it came time for someone else to pray. Rudy Atwood, the piano player. Dear man, and a great friend. Well, he prayed and he made a very good prayer.
+
+2026-10-09 08:42:42 PM MDT | 2026-10-09 09:42:42 PM CDT | audio 00:01:05.63–00:01:58.59
+Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00043.json | 14 original segments
+Then he got around to praying for Bob Cook. And he prayed for me, Lord, that the Lord would bless me and fill me. And then he broke off and thought a minute and he said, and Lord, here's this man that's got this great executive gift and he thinks he wants to preach. help him Lord. Well, that broke us all up. We had a little break there to chuckle before we went to pray again. There's this man got this great executive gift and he thinks he wants to preach. Well, I didn't think I had any executive gift. I hadn't discovered anything about that. I was just busy trying to keep things going. Beloved, listen, give some thought and prayer to what God has especially given you. Some of you have such precious qualities. I know many of you, of course, from having met you, and some of you are dear friends through the years.
+
+2026-10-09 08:43:36 PM MDT | 2026-10-09 09:43:36 PM CDT | audio 00:00:00.00–00:00:37.00
+Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00044.json | 9 original segments
+And I sense that you have such wonderful, precious qualities from God, and I just long for you to use them fully for His glory. Some maybe have a gift at writing, but you don't do much of it. You keep thinking you'll get at it. And some of you have the gift of just encouraging people. People feel better when you come into their presence. They get encouraged because you're there. Some of you have a great loving heart that takes up the burden of other people's concerns and helps them and comforts them.
+
+2026-10-09 08:44:13 PM MDT | 2026-10-09 09:44:13 PM CDT | audio 00:00:37.00–00:01:49.86
+Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00044.json | 14 original segments
+Some of you can manage and some can sell and some can sing and some can preach and so on and so on. Different gifts. Oh, he says, as every man hath received the gift. Now, Paul says in Corinthians, what hast thou that thou didst not receive? you have is not yours in a proprietary sense. God has just loaned it to you. Preacher God could take away your voice and you wouldn't be able to say a word on a preacher without his pipes is bad. That's tragic. All that God has to do for any of us is just look away from us for an instant and we're ruined. And so what you have is loaned to you by the grace of God. Always remember that as every man has received the gift. So on that basis that it's yours to use but not to own, on that basis he says even so minister to one another as good stewards of the manifold grace of God. The grace of God not only gets you to heaven but equips you on the way. Had you stopped to think that it is God's saving grace that that has made you what you are.
+
+2026-10-09 08:45:26 PM MDT | 2026-10-09 09:45:26 PM CDT | audio 00:01:49.86–00:02:00.02
+Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00044.json | 3 original segments
+Here's a man who's an attorney and he's the head of a great corporation and he can write beautifully and speak effectively. Now look at him and I think, oh boy is he, is he got gifts?
+
+2026-10-09 08:45:36 PM MDT | 2026-10-09 09:45:36 PM CDT | audio 00:00:00.00–00:00:34.96
+Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00045.json | 12 original segments
+is he got abilities. But you know the purpose of all of that? My beloved friend is that you use that as a steward of God's grace. It's his saving and transforming grace that has given you the ability to administer and the ability to interpret the law and apply it and the ability to speak effectively to others and the ability to write beautifully. That's just one package of one life that I know down through the years, manifold grace of God stewards.
+
+2026-10-09 08:46:11 PM MDT | 2026-10-09 09:46:11 PM CDT | audio 00:00:34.96–00:01:07.62
+Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00045.json | 13 original segments
+What does a steward do? He takes something that belongs to somebody else and invests it for a prophet. That's what a steward does in the biblical sense. Something that belongs to somebody else. You see, your gifts are not yours. They're giving you to use from your blessed Lord and you're to invest them for his glory. You think and pray about that, will you? Is the days go by? We'll get back to this momentarily the next time we get together. Well, dear Lord, we love you and we're thankful for your blessing.
+
+2026-10-09 08:46:44 PM MDT | 2026-10-09 09:46:44 PM CDT | audio 00:01:07.62–00:01:41.06
+Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00045.json | 10 original segments
+Oh, will thou help us to use your gifts today, amen? Till I meet you once again by way of radio, walk with the King today and be a blessing. You've been listening to Walk with the King with a late Dr. Robert A. Cook. Today's program was number 73.92. For more information on this ministry, or to request a CD copy of this broadcast, email us at ministryatwalkwiththeking.org. That's ministryatwalkwiththeking.org.
+
+2026-10-09 08:47:17 PM MDT | 2026-10-09 09:47:17 PM CDT | audio 00:01:41.06–00:02:00.02
+Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00045.json | 6 original segments
+And reference broadcast number 7392. Thank you for listening to Walk with the King. Listen to Walk with the King anytime you want on the Family Radio app or share Dr. Cook and Family Radio with a friend. Find the Family Radio app in your favorite app store or go to Family Radio.
+
+2026-10-09 08:47:36 PM MDT | 2026-10-09 09:47:36 PM CDT | audio 00:00:00.00–00:00:13.18
+Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00046.json | 2 original segments
+Now faith is the substance of things hoped for, the evidence of things not seen, family radio.
+
+2026-10-09 08:48:27 PM MDT | 2026-10-09 09:48:27 PM CDT | audio 00:00:51.09–00:01:42.73
+Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00046.json | 1 original segments
+For if God speak, ending myself in the midst of you, is it?
+
+2026-10-09 08:49:41 PM MDT | 2026-10-09 09:49:41 PM CDT | audio 00:00:04.24–00:01:42.15
+Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00047.json | 7 original segments
+I will, when Jesus says, I am the way, the truth, and the life. No one comes to the Father except by me. What exactly is he saying? I'm Bob LePene from Warnings on Family Radio. We're going to explore that statement this week and see what it means for Jesus to be our way, our truth, and our life. Join us this week for Warnings on Family Radio.
+
+2026-10-09 08:51:59 PM MDT | 2026-10-09 09:51:59 PM CDT | audio 00:00:23.28–00:00:53.70
+Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00048.json | 2 original segments
+Even tuckness deepens Lord with me up by her head Words flee a helpless soul
+
+2026-10-09 08:53:39 PM MDT | 2026-10-09 09:53:39 PM CDT | audio 00:00:02.70–00:00:07.70
+Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00049.json | 1 original segments
+My guidance strength can be
+
+2026-10-09 08:55:38 PM MDT | 2026-10-09 09:55:38 PM CDT | audio 00:00:01.30–00:00:08.80
+Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00050.json | 1 original segments
+Hands mourning graves, and earth's rage shall
+
 
 KVFX - Utah's VFX — 94.5 FM / 98.3 FM (Tremonton relay)
 Logan / Cache Valley; Tremonton 98.3 relay
@@ -15204,6 +15616,142 @@ I love to watch little children who have never flown before. They're always aski
 2026-10-09 08:38:50 PM MDT | 2026-10-09 09:38:50 PM CDT | audio 00:01:58.72–00:02:01.52
 Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00040.json | 1 original segments
 runway it's just...
+
+2026-10-09 08:38:51 PM MDT | 2026-10-09 09:38:51 PM CDT | audio 00:00:00.00–00:00:40.44
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00041.json | 15 original segments
+Riffic, it's just wonderful. Every time I fly, then is this great or what? You know, think of people they've never flown before. I don't know if you remember the story about Cassius Clay, but when he, well, that was back when he was called by his real name, he was sitting up in first class and the gal walked up to him and said, in a faster seat belt, he said, Superman don't need no seat belt. She said, Superman don't need no airplane, fasten your seat belt. You're on your way, you're flying, You're underway, you're airborne, and life seems to kind of get objective all of a sudden as you gain more and more altitude.
+
+2026-10-09 08:39:32 PM MDT | 2026-10-09 09:39:32 PM CDT | audio 00:00:41.38–00:01:12.32
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00041.json | 9 original segments
+Mark is on the runway only briefly and you're off and running, off and flying. He begins, let's sort of unpack this first sentence. I mean, he would score high in the writing 101 class. Right at the beginning, he starts with, well, beginning. In fact, allow me to be a little pedantic here. The little word V isn't even in the original text, beginning, A beginning. Now why would I say that?
+
+2026-10-09 08:40:03 PM MDT | 2026-10-09 09:40:03 PM CDT | audio 00:01:12.32–00:01:43.22
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00041.json | 9 original segments
+Why would I tell you that it sounds like a detail you don't even need to know? Oh, you do need to know. I never give you a detail you don't need to know, never. It starts with beginning by God's design. There is no temporal sequence of events with the beginning of the gospel. It never had a beginning. It's like John's gospel in the way it starts, and R.K. and Hologos. In beginning was the word.
+
+2026-10-09 08:40:34 PM MDT | 2026-10-09 09:40:34 PM CDT | audio 00:01:43.22–00:02:00.06
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00041.json | 5 original segments
+In A, the word V isn't there either. What's the big deal? Well, if the V were there, you could go back in history like you could for Washington and And you could say he had his birthday. He began the life of Washington in 17-
+
+2026-10-09 08:40:51 PM MDT | 2026-10-09 09:40:51 PM CDT | audio 00:00:00.00–00:00:50.54
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00042.json | 8 original segments
+In 32 he had the beginning you go to Lincoln you go the beginning was in 1809 the beginning of Lincoln But you go to the gospel. There's no be It's a beginning that never had a beginning so you move back in time to creation You move beyond creation back in time to eternity past When there was no world there was no matter there was no person there was no living thing you move into the misty flats of eternity past, and you find yourself now in your imagination sitting with the Godhead, the Father, the Son, and the Holy Spirit, putting together a plan for this world and for the galaxies that they would call into being in a matter of time.
+
+2026-10-09 08:41:41 PM MDT | 2026-10-09 09:41:41 PM CDT | audio 00:00:50.54–00:01:21.82
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00042.json | 4 original segments
+time. There's no time. In this setting, the gospel is a part of a plan, and the plan for the Son of God to come as the Savior of the world is a part of that plan, neither of which has a beginning. Just as the Son of God is co-equal, co-eternal, and co-existent with the Father and the Spirit, so the gospel, co-equal goes all the way back.
+
+2026-10-09 08:42:12 PM MDT | 2026-10-09 09:42:12 PM CDT | audio 00:01:21.82–00:01:59.78
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00042.json | 7 original segments
+You see, our Father knew before there was ever a world, planet, earth, humanity, depravity, that we would need a redeemer. So the gospel plan finds its origin, which really never has an origin, all the way back into the mind of the Godhead, a beginning which really never had a historical beginning next as the word gospel. Mark answers the question when with the word beginning. He now answers the question, what?
+
+2026-10-09 08:42:52 PM MDT | 2026-10-09 09:42:52 PM CDT | audio 00:00:00.00–00:00:39.12
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00043.json | 12 original segments
+with the word gospel. You on Gellion is the Greek word, it means good news, good news. It's as if Mark is saying to us, are you ready for some good news? And who isn't? But this is good news that is eternal. This is news that will be good, no matter how bad the times are. This is good when the economy falls to the bottom. This is good when you like the president you don't like the president. This is good whether you agree with Congress or you don't agree with Congress. This is good whether you're healthy or ill. This is good whether you're young or older.
+
+2026-10-09 08:43:31 PM MDT | 2026-10-09 09:43:31 PM CDT | audio 00:00:39.12–00:01:14.86
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00043.json | 7 original segments
+This is good when you're young in life. This is good when you're on your deathbed. This is good news. And the result is when you come to this good news that has been with us, even beyond the beginning of time, you realize it's able to transform your entire perspective. It'll give you a song, it'll give you a song in the night, weeping may endure through the night, but joy comes in the morning. Why? Because you realize there's good news, good news.
+
+2026-10-09 08:44:06 PM MDT | 2026-10-09 09:44:06 PM CDT | audio 00:01:14.86–00:01:59.40
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00043.json | 7 original segments
+For 33 consecutive years, my family and I went to a conference, really a family camp in Northern California named Mount Herman, Mount Herman Christian Conference Center. We began in 72 and we went all the way through for those 33 years, didn't miss a year sometime more than once, often with all our kids. And they started there when they were real little and they grew up there. The one who led the music during most of those camps is a man that I've loved for years, his name is Howie Stevenson. And we would end the camp the same way year after year. Still remember it thought about it as I was putting my thoughts together for about this good news. We would
+
+2026-10-09 08:44:51 PM MDT | 2026-10-09 09:44:51 PM CDT | audio 00:00:00.00–00:01:24.52
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00044.json | 18 original segments
+and it by singing a trio. How he would sing and his wife Marilyn would sing and I would sing with them. When you're at a summer camp, they'll put up with anything. So we had the trio standing up front down at the campfire, never forget, never forget it. Sing your way home at the close of the day. Sing your way home. Drive the shadows away. Smile every mile. For wherever you roam, it will brighten your road. it will lighten your load if you sing your way home. We sang that for 33, almost 33 years, to groups, some of which had gone through a divorce, loss of a child or more than one, some through a tragedy, some through a heart-breaking loss of a business, and almost without exception when we'd have them join in with us, they would sing with us. I can brokenhearted people sing a song like that because of the good news. Don't ever let your life get so dark that it eclipses the good news. Don't ever let your situation become so bleak that it dries up the good news. This is good news.
+
+2026-10-09 08:44:51 PM MDT | 2026-10-09 09:44:51 PM CDT | audio 00:01:59.40–00:02:00.24
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00043.json | 1 original segments
+but always in.
+
+2026-10-09 08:46:15 PM MDT | 2026-10-09 09:46:15 PM CDT | audio 00:01:24.52–00:02:00.00
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00044.json | 6 original segments
+you, Mark, for remembering right away to tell us how good it is. He's answered the when, he's answered the what, now the who, and that's what makes it good news. The sentence ends, the beginning of the gospel of Jesus Christ, the Son of God. And I ask after that, how good is that? The good news is that the Father sees us in our need and knowing we cannot Resolve the mess we've made of our lives. He gives us...
+
+2026-10-09 08:46:51 PM MDT | 2026-10-09 09:46:51 PM CDT | audio 00:00:00.00–00:00:36.44
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00045.json | 10 original segments
+That's the answer. And part of the good news is that it is given to us. One man writes it this way. The good news is the story of a person. It is not a convoluted mystery story where readers must piece together clues here and there, nor is it a boring pedestrian chronicle of dates and events and places without purpose or significance. nor is it a philosophy, some system of thought, like positive thinking or feel good self-talk designed to lift your spirit.
+
+2026-10-09 08:47:28 PM MDT | 2026-10-09 09:47:28 PM CDT | audio 00:00:37.50–00:01:12.64
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00045.json | 9 original segments
+That's not what will help you sing your way home. The good news is a person, never forget it. Other religions revolve around these other things, a chronicle of events, convoluted mystery, a philosophy, system of thought, but Christianity singles attention on the person of the Messiah, Jesus Christ. Every message preached in a evangelical church is to center attention on the person of Christ.
+
+2026-10-09 08:48:03 PM MDT | 2026-10-09 09:48:03 PM CDT | audio 00:01:12.64–00:01:42.80
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00045.json | 6 original segments
+Never on the messenger, never on the building, never on a program, always the person of Jesus Christ. Now, with all of that as a background in that first sentence, he introduces the main characters of a story, and he does it very simply. I'm always fascinated when I come to a verse like two and three. These two verses surprise me because Mark's riding to Gentiles.
+
+2026-10-09 08:48:33 PM MDT | 2026-10-09 09:48:33 PM CDT | audio 00:01:42.80–00:02:00.16
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00045.json | 4 original segments
+He's riding really to Romans, and they don't have a place in their life for Jewish prophets, especially ancient prophets couldn't care less about that but mark knows that you must go back to the profits to realize it's there all of it began
+
+2026-10-09 08:48:51 PM MDT | 2026-10-09 09:48:51 PM CDT | audio 00:00:00.00–00:01:03.92
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00046.json | 9 original segments
+to be predicted. So he informs Gentile readers, and that's most of us. We who have no Jewish roots find it interesting that an ancient prophet named Malachi in chapter 3 verse 1 would say what is written here in verse 2. An ancient prophet like Isaiah writing eight centuries before Jesus even came writes not only of Jesus, but of the forerunner who would announce the coming of Jesus, namely John. So look at those two verses. Here we find the first main character, a prophet from ancient times. Behold, I send my messenger ahead of you who will prepare your way, the voice of one crying in the wilderness, make ready the way of the Lord, make his paths straight. If you love Handel's Messiah, you already recognize this as the tenor recitative right at the beginning of that magnificent master work.
+
+2026-10-09 08:49:54 PM MDT | 2026-10-09 09:49:54 PM CDT | audio 00:01:03.92–00:01:37.24
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00046.json | 6 original segments
+This lyrical tenor begins with words just like this out of Isaiah. This is a reference to the writing of two prophets, Malachi and Isaiah, and right on the heels of that, Mark goes, spans the centuries and comes directly to the arrival of John. He's the second main character. He's what I'm calling here a preacher in the wilderness, John the baptizer. He's mentioned immediately at verse 4, John the Baptist.
+
+2026-10-09 08:50:28 PM MDT | 2026-10-09 09:50:28 PM CDT | audio 00:01:37.24–00:01:59.86
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00046.json | 8 original segments
+Now, let me encourage you to train yourself to read the word baptizer, okay? Or you'll think he's the Southern Baptist. You'll think it could have been John the Methodist or John the Presbyterian. It's not a denomination that Mark's writing about. It's the work of ministry that John did. He baptized. He did so much of it. He came to be known as simply the...
+
+2026-10-09 08:50:52 PM MDT | 2026-10-09 09:50:52 PM CDT | audio 00:00:00.00–00:00:38.84
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00047.json | 4 original segments
+The baptizer. I want you to observe now how well unattractive John was. I just don't want that to be missed. I want you to put yourself in the first century, think of yourself as a business person in the city of Jerusalem, a little sophisticated, and word begins to travel through people who come into your shop about this strange person in the wilderness.
+
+2026-10-09 08:51:30 PM MDT | 2026-10-09 09:51:30 PM CDT | audio 00:00:38.84–00:01:12.80
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00047.json | 7 original segments
+We read John the baptizer appeared in the wilderness. Now we're sitting here in this comfortable place and we think we know wilderness. You ain't seeing wilderness till you're seeing the Judean wilderness. When you go to the Holy Land, make sure they take you far enough south where you no longer see green. All you see is a rough, dry plane. My sister years ago gave me a book I just pulled out this week.
+
+2026-10-09 08:52:04 PM MDT | 2026-10-09 09:52:04 PM CDT | audio 00:01:12.80–00:01:59.94
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00047.json | 8 original segments
+It's dated 1964 and it's titled God's Wilderness. I open it as an archaeological work on the digs that have been done in the wilderness and along with the digs, there's some interesting photos of the wilderness. You can't believe it. Interestingly, there isn't a sprig of green, dry, parched, gravel plain, rough uneven rocks in the distance. the beginning of mountains also barren, and to another direction, a sea, gale, sea. You go further south into the old Sinai Peninsula all the way down to Mount Sinai.
+
+2026-10-09 08:52:51 PM MDT | 2026-10-09 09:52:51 PM CDT | audio 00:00:00.00–00:01:04.78
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00048.json | 8 original segments
+not horrib where God gave the law to his people, and it's as barren as you can imagine, not a case of tree, even two feet tall, not even a scrub brush of green. Baron, that's where John was. You're in Jerusalem doing business and you hear about a man in the wilderness? die in wilderness like that. But he's different. Look at the message as strong as uncompromising as he was. He's preaching a baptism of repentance for the forgiveness of sin. Sin. Throw that word around the office one of these days and see the reaction you sin. I like manager's question that he titled his book, whatever happened to sin. You won't hear it on the newscast.
+
+2026-10-09 08:53:55 PM MDT | 2026-10-09 09:53:55 PM CDT | audio 00:01:04.78–00:02:00.18
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00048.json | 6 original segments
+You won't see it in the media. Sin. Yeah. Well, what's he telling him? He's telling him they're sinners. He's telling them that they've fallen short of the standard of a holy Creator who made them tell you something interesting about John is it wasn't about John. Give me that kind of messenger. Lead me to that messenger. So what I'm through, listening to the message, I forget the messenger, but I can't forget his message. He said, let me tell you about the one I I'm preaching God. He's mightier than I. I am not fit having stooped down to untie the thong of his sense.
+
+2026-10-09 08:55:00 PM MDT | 2026-10-09 09:55:00 PM CDT | audio 00:00:09.30–00:00:45.62
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00049.json | 8 original segments
+Sin. It's a word that we've nearly erased from our vocabulary, isn't it? You won't hear it on the news or find it trending online. And yet John the baptizer stood in the wilderness and preached it plainly, because he knew that facing the truth about ourselves is the first step toward real hope. This is Insight for Living, Chuck Swindall titled today's message with a question. Are you ready for some good news? It's message number two in a a comprehensive study through the entire book of Mark. To purchase the Bible study resources for Mark, including the Searching the Scriptures Workbooks, go to insight.org.
+
+2026-10-09 08:55:36 PM MDT | 2026-10-09 09:55:36 PM CDT | audio 00:00:45.62–00:01:18.70
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00049.json | 9 original segments
+Here's some exciting news. The release of Chuck Swindall's Personal Memoir is right around the corner. And you're invited to be among the first to receive it by pre-ordering your personal copy. It's called Awakened by Grace. For more than 60 years, Chuck has opened God's Word and opened his heart. Now in his new memoir, he opens the story of his own life, the trials, the joys, and the moments when Grace found him when he least expected it. This is Chuck as you've never heard him before, honest, tender, and unforgettable.
+
+2026-10-09 08:56:09 PM MDT | 2026-10-09 09:56:09 PM CDT | audio 00:01:18.70–00:02:00.02
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00049.json | 9 original segments
+It's a once-in-a-lifetime testimony to a lifetime of faithfulness. When you contact Insight for Living and pre-order the book, we'll make sure you receive your copy of Awakened by Grace in mid-October. Plus, you'll immediately receive a free digital preview of the book. Call us at 800-772-8888 or go to insight.org slash memoir. Just to let you know, these daily programs aren't sustained by book sales alone. Instead, Insight for Living is a nonprofit ministry supported solely by grateful friends who want to share the wisdom of the Bible with the world. And we are deeply grateful for our monthly companions, and to all those who give volunteer
+
+2026-10-09 08:56:51 PM MDT | 2026-10-09 09:56:51 PM CDT | audio 00:00:00.00–00:01:06.27
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00050.json | 5 original segments
+monetary donations. We couldn't possibly do it without you. To make a gift today, write to us at Insight for Living. Post Office Box 5000, Frisco, Texas 75034, or go to Insight.org slash donate. I'm Bill Meyer. Join us again when Chuck Swendall continues his study in the gospel according to Mark Monday on Insight for Living. FEMA show the importance of his group's mission.
+
+2026-10-09 08:57:57 PM MDT | 2026-10-09 09:57:57 PM CDT | audio 00:01:06.27–00:01:39.43
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00050.json | 8 original segments
+How does this underscore the need for the church to do what the church is meant to do and us not to rely on the government? Great, great point. You know, in some ways, I'm somewhat glad that the government is feeling because really if you look back in history, the church owned this mountain 100% where the Christian community worked together to become the good Samaritan of that community. He adds that united in crisis is a rallying cry for the global church and all Christians to rise up and demonstrate Christ's love and action in cities worldwide.
+
+2026-10-09 08:58:30 PM MDT | 2026-10-09 09:58:30 PM CDT | audio 00:01:39.43–00:01:59.91
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00050.json | 6 original segments
+This is SRN News. A Michigan Senate candidate ends an interview a bit early. Democrat Abdul Al-Sayed had walked away when asked why he had not issued a statement on the third anniversary of the October 7th attacks. Press separately on the death of Iran's Supreme Leader, Al-Sayed called the question a dog and pony show instead it was not relevant to Michigan voters.
+
+2026-10-09 08:58:51 PM MDT | 2026-10-09 09:58:51 PM CDT | audio 00:00:00.00–00:00:41.32
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00051.json | 11 original segments
+Elside is running against Republican Mike Rogers on the state's open Senate seat. Willie Nelson, Washington. Federal immigration agents say they didn't know there was a child in the car when they opened fire during a targeted operation in the Bronx. Homeland Security Secretary Mark Wayne mulling the ledge's 28-year-old Oscar Belgel was weaponized his vehicle and tried to drive into officers despite his five-year-old son being in the back seat. Authorities say he is an undocumented immigrant from the Dominican Republic who was part of an ongoing investigation in connection with the shooting of a customs and border patrol agent in 2024, as well as his possible connection to the Trinitarius street gang as well. You'll find more details at SRNNews.com.
+
+2026-10-09 08:59:32 PM MDT | 2026-10-09 09:59:32 PM CDT | audio 00:00:41.32–00:01:19.86
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00051.json | 7 original segments
+Let's take a look at our forecast today in Provo Arm in Utah Valley, sunny today with a high of 84 and a low around 59, becoming mostly cloudy later, tomorrow looking mostly cloudy with the 90% chance of showers, having a high of 78 and a low around 54. Rich field than Severe Valley, mostly sunny with a high near 81 and a low around 54. Tomorrow looking mostly cloudy with a high of 74 and a low around 52, having a 50% chance of rain with 37 mph winds. Price and Gasol Valley, mostly sunny with a high of 77 and a low around 52, Saturday having a 100% chance of thunderstorms with a high of 71 and a low around 51.
+
+2026-10-09 09:00:10 PM MDT | 2026-10-09 10:00:10 PM CDT | audio 00:01:19.86–00:01:59.96
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00051.json | 6 original segments
+Myrna on the Uinta Basin, sunny with a high of 78 and a low around 49, with 20 mph wind Not every hard question comes with an easy answer, especially when it involves people you trust, or a child you love fiercely. Today on Focal Point, Pastor Mike Fabarez takes real calls in this week's edition of Ask Pastor Mike Live. One listener wrestles with what to do when a ministry leaves...
 
 
 Utah Public Radio / KUSU — 91.5 FM (KUSU); 89.5 FM (KUSR)
