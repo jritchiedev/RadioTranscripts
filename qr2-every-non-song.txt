@@ -1,58 +1,58 @@
 QR2 — EVERY AVAILABLE NON-SONG TRANSCRIPT ITEM
 
 {
-  "generated_utc": "2026-10-10T03:09:16.725308+00:00",
+  "generated_utc": "2026-10-10T03:16:46.904677+00:00",
   "snapshots": [
     "2026-10-10T00:58:44Z",
     "2026-10-10T00:56:49+00:00",
     "2026-10-10T00:56:59Z",
     "2026-10-10T00:57:06+00:00",
-    "2026-10-10T03:09:12.663202+00:00"
+    "2026-10-10T03:16:42.860729+00:00"
   ],
-  "pending_classification_source_count": 64,
-  "live_classified_source_count": 1087,
-  "source_count": 1816,
-  "raw_segment_count": 39837,
-  "included_segment_count": 33766,
-  "excluded_song_segment_count": 6071,
+  "pending_classification_source_count": 39,
+  "live_classified_source_count": 1193,
+  "source_count": 1922,
+  "raw_segment_count": 41944,
+  "included_segment_count": 35650,
+  "excluded_song_segment_count": 6294,
   "blank_segment_count": 0,
-  "unique_audio_count": 1417,
+  "unique_audio_count": 1508,
   "by_station": {
-    "KPCW": 2410,
-    "ESPN The Fan / KOVO / KUDD-HD2": 9835,
-    "KKUT / The Wolf": 1226,
-    "KARB": 2123,
-    "KVFX / Utah's VFX": 939,
-    "KVNU": 7227,
-    "KNRS": 1653,
-    "KUER": 1381,
-    "Utah Public Radio": 1415,
-    "KSL NewsRadio (official studio feed)": 1794,
-    "KOHS": 71,
-    "KUFR / Family Radio": 740,
-    "K-LOVE network (Utah local inserts unverified)": 345,
-    "Key Radio / KEYR / KEYV": 1318,
-    "Fuzion California (St. George counterpart unverified)": 650,
-    "Fuzion Las Vegas (St. George counterpart unverified)": 639
+    "KPCW": 2509,
+    "ESPN The Fan / KOVO / KUDD-HD2": 9979,
+    "KKUT / The Wolf": 1235,
+    "KARB": 2295,
+    "KVFX / Utah's VFX": 951,
+    "KVNU": 7385,
+    "KNRS": 1832,
+    "KUER": 1581,
+    "Utah Public Radio": 1638,
+    "KSL NewsRadio (official studio feed)": 2002,
+    "KOHS": 78,
+    "KUFR / Family Radio": 849,
+    "K-LOVE network (Utah local inserts unverified)": 379,
+    "Key Radio / KEYR / KEYV": 1477,
+    "Fuzion California (St. George counterpart unverified)": 722,
+    "Fuzion Las Vegas (St. George counterpart unverified)": 738
   },
-  "passage_count": 4067,
+  "passage_count": 4302,
   "passages_by_station": {
-    "KPCW": 301,
-    "ESPN The Fan / KOVO / KUDD-HD2": 901,
-    "KKUT / The Wolf": 218,
-    "KARB": 367,
-    "KVFX / Utah's VFX": 181,
-    "KVNU": 742,
-    "KNRS": 177,
-    "KUER": 180,
-    "Utah Public Radio": 164,
-    "KSL NewsRadio (official studio feed)": 188,
-    "KOHS": 26,
-    "KUFR / Family Radio": 99,
-    "K-LOVE network (Utah local inserts unverified)": 62,
-    "Key Radio / KEYR / KEYV": 175,
-    "Fuzion California (St. George counterpart unverified)": 148,
-    "Fuzion Las Vegas (St. George counterpart unverified)": 138
+    "KPCW": 313,
+    "ESPN The Fan / KOVO / KUDD-HD2": 917,
+    "KKUT / The Wolf": 222,
+    "KARB": 389,
+    "KVFX / Utah's VFX": 184,
+    "KVNU": 759,
+    "KNRS": 199,
+    "KUER": 203,
+    "Utah Public Radio": 184,
+    "KSL NewsRadio (official studio feed)": 208,
+    "KOHS": 30,
+    "KUFR / Family Radio": 112,
+    "K-LOVE network (Utah local inserts unverified)": 69,
+    "Key Radio / KEYR / KEYV": 192,
+    "Fuzion California (St. George counterpart unverified)": 161,
+    "Fuzion Las Vegas (St. George counterpart unverified)": 160
   },
   "station_scope": "Only the currently recorded radio services listed by the user; unrelated TV, unidentified receiver and legacy feed sources omitted from the dashboard.",
   "omitted_out_of_scope_source_count": 8,
@@ -3675,6 +3675,70 @@ And one of your favorite team screws it up. We don't spin it. We explain it. On 
 Main transcript | qr2-continuous-oct9/espn-20261009T232806Z-001-00105.json | 8 original segments
 This Hunger Action Month assembly is required. Take action at FeedingAmerica.org. The herd with Colin Coward weekdays from 10 to 12 on 1039 and 983 ESPN The Fan, part of Utah's ESPN Radio Network Brought to you by truebluecooger.com. Wesley Financial Group has not allowed for him in Chuck McDowell. Definitely not an attorney. This is Chuck.
 
+2026-10-09 08:59:47 PM MDT | 2026-10-09 09:59:47 PM CDT | audio 00:00:00.00–00:00:32.24
+Main transcript | qr2-continuous-oct9/espn-20261009T232806Z-001-00106.json | 6 original segments
+If someone taught you to buy something really silly, and you want to get out of that silly little thing, my advice, get the facts, call me and I'll send you our TomSher exit kit absolutely free. Inside you'll learn how TomSher works and all your options for cancellation. Call Wesley now for your free exit information kit, 800-791-0000. That's 800-791-0000. On a Monday edition of Brice and Villanucci, how will BYU look in what will surely be a win over Iowa State? We also recap Utah and Kansas.
+
+2026-10-09 09:00:19 PM MDT | 2026-10-09 10:00:19 PM CDT | audio 00:00:32.24–00:01:09.59
+Main transcript | qr2-continuous-oct9/espn-20261009T232806Z-001-00106.json | 9 original segments
+Plus, a man detained for smuggling birds in his pants at an airport in Miami. And in totally unrelated news, intern Sebastian has been arrested for cockfighting. Your tuned at KOVO Provo, K-U-D-D-H-T-2, 1039 at 983 ESPN. The fan. You're listening to ESPN Radio from the Santa Quinn Ford Studio of 1039 and 983 ESPN, The Fan. The NBA Finals is set.
+
+2026-10-09 09:00:56 PM MDT | 2026-10-09 10:00:56 PM CDT | audio 00:01:09.59–00:01:43.39
+Main transcript | qr2-continuous-oct9/espn-20261009T232806Z-001-00106.json | 10 original segments
+The Atlanta Dream, even without star Alicia Gray, complete the sweep of the New York Liberty. They take Game 385-83 at the Barclays Center, Angel Reese led the way with 22 points, Atlanta advancing to its first WNBA Finals since 2013. The other WNBA semi-final currently ongoing in Las Vegas. The ACEs, the Valkyries. This is a tight one, folks. A buck 17 to go in the third quarter. Golden State clinging to a narrow 53-52 lead. Of course, the Valkyries with a 2-0 series lead, trying to wrap up a sweep this evening.
+
+2026-10-09 09:01:30 PM MDT | 2026-10-09 10:01:30 PM CDT | audio 00:01:43.39–00:01:59.89
+Main transcript | qr2-continuous-oct9/espn-20261009T232806Z-001-00106.json | 4 original segments
+Loaded slate of college football on this fine Friday night. After Florida State opened this one on a 14-0 run, Louisville scored 35 unanswered and routes way 44-20 win at home elsewhere the Iowa Hawkeyes put in a spanking right now on those
+
+2026-10-09 09:01:46 PM MDT | 2026-10-09 10:01:46 PM CDT | audio 00:00:00.00–00:00:35.44
+Main transcript | qr2-continuous-oct9/espn-20261009T232806Z-001-00107.json | 7 original segments
+Washington Hockey, Huskies, excuse me, man, oh man, the Hawkeyes, up 27 to 3, Jeremy Hecklinsky, in for Hank Brown, who did not start this game due to injury. He's 9 to 14 for 116 yards, two passing touchdowns, 12, 44 to go in the third quarter. At the half, Washington State leaves Utah State 16 to 3, 20 seconds to go in the third quarter out in the mountain, West San Jose State in front of Wyoming, 10 to 6. And the number eight BYU Cougars in front of Iowa State, seven-nothing, 44 seconds remaining in the first quarter in that one.
+
+2026-10-09 09:02:22 PM MDT | 2026-10-09 10:02:22 PM CDT | audio 00:00:36.00–00:00:59.96
+Main transcript | qr2-continuous-oct9/espn-20261009T232806Z-001-00107.json | 7 original segments
+Five Eagles ruled out for Sunday's game in London against the Jaguars. That includes Saquon Barkley, Devontae Smith, Drew Kendall, Hollywood Brown, Marcus Aps, Jonathan Grenard is questionable. Lamar Jackson ruled out for the Ravens game against the Falcons on Sunday night. Jaden Daniels will return for the commanders against the Giants. For more scores and analysis, check out ESPN.com and the ESPN app for now. It's time for our Heisman Stroll Paul on Game Night on ESPN Radio.
+
+2026-10-09 09:03:38 PM MDT | 2026-10-09 10:03:38 PM CDT | audio 00:01:52.38–00:01:59.98
+Main transcript | qr2-continuous-oct9/espn-20261009T232806Z-001-00107.json | 1 original segments
+Do you want to briefly, briefly defend you Cowboys fans by saying this?
+
+2026-10-09 09:03:49 PM MDT | 2026-10-09 10:03:49 PM CDT | audio 00:00:00.00–00:01:06.14
+Main transcript | qr2-continuous-oct9/espn-20261009T232806Z-001-00108.json | 15 original segments
+Is there third game in 12 days that included a 10-hour flight from Brazil, I'll give you that. They played in Houston last week. I'm just... They played in Houston, Mia. I could drive to Houston from Dallas. They were in the same state. Three games in 12 days is not for the faint apart. I will give you that. I don't care if they played three games in four hours. They could drive to Houston. We're gonna lose some folks. We're gonna have some barn, but the wagon train's gonna get there. That's where they just one at was Houston. that's down the road. This is game night with cue Myers on ESPN radio. I wasn't wrong. I wasn't wrong. The Dallas Cowboys just no showed at their crib on Thursday night kicking off week five NFL action in Tampa Bay got their first victory of the season in this game night here on ESPN radio the all-new ESPN app series is M China 80 and two they were presented by progressive insurance she's me oh Brian I'm Q Myers the ESPN radio college campus tour is powered by bloom energy is hitting the Gainesville for week six of college football action as Florida takes on South
+
+2026-10-09 09:04:55 PM MDT | 2026-10-09 10:04:55 PM CDT | audio 00:01:06.14–00:01:40.38
+Main transcript | qr2-continuous-oct9/espn-20261009T232806Z-001-00108.json | 7 original segments
+Carolina covers starts at to be determined time Eastern time is 10 a.m. 10 a.m. So the game so college campus tour with Amber Wilson and Jonathan Zaslow is at 10 a.m. Eastern standard time coverage of Florida South Carolina noon Eastern right here on ESPN radio with Thank you, girl. On the sidelines for that broadcast. There you go. Well, the ESP radio college campus tour is powered by Bloom Energy is brought to you by Manscaped Monster Energy and Sirius X and real quick, the Valkyries lead 53 52 at the end of the third quarter.
+
+2026-10-09 09:05:29 PM MDT | 2026-10-09 10:05:29 PM CDT | audio 00:01:40.38–00:01:59.98
+Main transcript | qr2-continuous-oct9/espn-20261009T232806Z-001-00108.json | 6 original segments
+WNBA elimination game, Valkyries and ACEs, the Valkyries trying to punch their ticket to the WNBA finals in a matchup with the Atlanta dream. The ACEs are trying to hold on to dear life and force a game number four. She's male Brian. I'm Q Myers, college football, big slate of games coming up this weekend. Who are the players that you need to be on the
+
+2026-10-09 09:05:50 PM MDT | 2026-10-09 10:05:50 PM CDT | audio 00:00:00.00–00:00:01.52
+Main transcript | qr2-continuous-oct9/espn-20261009T232806Z-001-00109.json | 1 original segments
+Look out, we'll tell you right now.
+
+2026-10-09 09:06:27 PM MDT | 2026-10-09 10:06:27 PM CDT | audio 00:00:37.39–00:01:33.77
+Main transcript | qr2-continuous-oct9/espn-20261009T232806Z-001-00109.json | 19 original segments
+what you got. Here we go. What you got for the Heisman's straw poll. Let's go. All right, Q. Let's start with this. For those of you who may be new to this little program here, we call game night on ESPN radio when we do the Heisman straw poll on Friday nights. This is not to say that we are reciting the odds right now on draft Kings for who will hoist the Heisman trophy. This is a power rating if you may Q based off the previous week. And I'm actually kind of glad we're having a I want some technical difficulties, but but we're going to call it that for the purpose of this exercise because it plays right into my narrative and i know that jeremya smith right now the ohio state do it all wide receivers currently plus one hundred at your afkings to win the heism and trophy jeremya love torch the aiahok guys the aiahok guys my aiahok guys currently lead the washington huskies twenty seven to ten on the road in seattle washington and so therefore i do not see what you did to the hawkeyes last week at kennick stadium jeremya smith i have
+
+2026-10-09 09:07:24 PM MDT | 2026-10-09 10:07:24 PM CDT | audio 00:01:33.77–00:01:59.97
+Main transcript | qr2-continuous-oct9/espn-20261009T232806Z-001-00109.json | 5 original segments
+saluted you. I've acknowledged your existence. We are moving on with this week's five pack of names that I thought stood out the most from week five of the college football season. I do want to stay actually in the great state of Iowa Q. Did you happen to flip on over to that forty five forty two Iowa State cyclone victory over West Virginia on Saturday. Excuse because if you did, you saw aid in Flora, the former walk-on.
+
+2026-10-09 09:07:48 PM MDT | 2026-10-09 10:07:48 PM CDT | audio 00:00:00.00–00:00:32.60
+Main transcript | qr2-continuous-oct9/espn-20261009T232806Z-001-00110.json | 7 original segments
+22 carries on the ground for 212 yards, three rushing scores. How about 48 passing yards, two touchdowns on two passes, five touchdowns from Adel to Ames, Iowa, aid in Flora. We salute you here as a Heisman straw poll contender. You know, the funny thing is that's a deep dive right there. That's the you're only going to get the deep cuts from Mia O'Brien. Mia O'Brien Well, she'll pull out the B sides in digging in the crates. If she's a DJ at the club, Mia's got the tracks that you didn't know about.
+
+2026-10-09 09:08:20 PM MDT | 2026-10-09 10:08:20 PM CDT | audio 00:00:32.60–00:01:32.16
+Main transcript | qr2-continuous-oct9/espn-20261009T232806Z-001-00110.json | 24 original segments
+That was not one that was on too many people's names, but I like that one. That's a heck of a performance. Good way to start us off. He was the AP offensive player of the week last week, Q. We got to feature him in this week's straw poll. And we needed some new blood last week. Last week, you know, we had Jeremiah. We had a Miami quarterback whose name is going to be mentioned, spoiler alert. he had treated at chamelis almost was off last week so they're not featured in this week's power ranking or Heisman Stropol as we like to call it let's get to number four geo Lopez the wake forest quarterback of course a ill-fated stint in chapel hill last year with chapel bill after starring at south alabama he's lighting it up for jake dickard in the demon deacons right now cue in a fifty seven to three win over stanford aid in florida had five on it in week five against West Virginia, G.O. Lopez put five on it as well, 20 of 27 for 265 yards, two passing touchdowns, get this also at 88 yards rushing, three rushing scores. He's got five
+
+2026-10-09 09:09:20 PM MDT | 2026-10-09 10:09:20 PM CDT | audio 00:01:32.16–00:01:59.92
+Main transcript | qr2-continuous-oct9/espn-20261009T232806Z-001-00110.json | 16 original segments
+on it too. I know you love the sound of that. Yes I do. Yes, I do and wake for us. I think I I didn't give him enough credit early on in the season. I didn't give him enough credit for being a program that's something that you better pay attention to. And all those players included G.O. So, um, Yeah, as he's got five on it, I got five on that. My bad. Geo Lopez, by the way, you can get at DraftKings right now, plus 40,000 to win the Heisman Trophy. 8 in Florida.
+
 
 Fuzion - California regional proxy — Utah candidate: 91.7 FM (St. George)
 California online feed; possible K219LJ St. George counterpart
@@ -4272,6 +4336,58 @@ Otro día hay que lucha. Otro día levantarse. Las fuerzas bien en divan y ya no
 Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00050-whisper-no-vad-model-base-lang-auto.jsonl | 10 original segments
 Por eso vengo, porque sé que sin ti nada tengo Solo de tu mano me sostengo Gracias por lo que me da Todas mis cargas te las llevas de tu No soy sanson pero mi fuerza es tu Y aunque la vida se la pasa reglándose para verme caer, esperen que ya no me pienso mover de aquí si cuidas de las aves como no de mí si fuiste en mis sustentos desde que nací no me dejaste, aunque me perdí
 
+2026-10-09 08:59:21 PM MDT | 2026-10-09 09:59:21 PM CDT | audio 00:00:08.28–00:00:16.00
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00051-whisper-no-vad-model-base-lang-auto.jsonl | 3 original segments
+Y a los ojos otra vez Grupo, bra, es Raes, fuerzas pa
+
+2026-10-09 09:03:31 PM MDT | 2026-10-09 10:03:31 PM CDT | audio 00:00:17.78–00:01:26.34
+Main transcript | qr2-expanded-oct9/fuzion_socal-20261010T011722Z-001-00053.json | 9 original segments
+Daz en fusion, la vos de la armonia El network del sur de california, ne vada y uta Cáo de vé, parsto, caiele ace en me Lucerne valley, cados ocho ocho de jota Victorville, cados uno dos, que en me Cresson City, Cados una dos hese pemona, Cados sero cinco de ca, Yuca Valley, Cados cinco se ese, pom del, Cados ocho cuatro cede, Quartz Hill, y alredo del mundo por media de aque, Pusi un ravio, en cuentala en mi fusi un tundo com.
+
+2026-10-09 09:03:58 PM MDT | 2026-10-09 10:03:58 PM CDT | audio 00:00:45.00–00:01:26.12
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00053-whisper-no-vad-model-base-lang-auto.jsonl | 6 original segments
+Este es si lo con el mes Moreno de Mente. Estás en función la voz de la armonía, el network del sur de california, Nevada y Utah. Cado de V, Parstowe, KLHM, Lucerne Daly, K-288 de Jota, Victor Bill, K-212GN, Jensen City, K-212GC, Pemona, K-205 de K, Yucca Daly, K-256VS, Fondo, cad 2, 8, 4, C, D, Courts Hill y alrededor del mundo por medio del abusión radio. Encuentrala en mi función.com
+
+2026-10-09 09:04:59 PM MDT | 2026-10-09 10:04:59 PM CDT | audio 00:01:46.12–00:02:00.12
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00053-whisper-no-vad-model-base-lang-auto.jsonl | 3 original segments
+Quise volver, pero se afirra que no lo merecía Vinició mi, y tu cariño me lleno de alegría Te conocí y...
+
+2026-10-09 09:06:01 PM MDT | 2026-10-09 10:06:01 PM CDT | audio 00:00:47.46–00:01:01.50
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00054-whisper-no-vad-model-base-lang-auto.jsonl | 4 original segments
+Alexis, ahí Cuevo Sí Y desde el primer sex, ésta secreto
+
+2026-10-09 09:07:13 PM MDT | 2026-10-09 10:07:13 PM CDT | audio 00:00:00.00–00:00:30.01
+Main transcript | qr2-expanded-oct9/fuzion_socal-20261010T011722Z-001-00055.json | 3 original segments
+Listen, this is how I love this car I love you, but for my friend He is my friend
+
+2026-10-09 09:07:37 PM MDT | 2026-10-09 10:07:37 PM CDT | audio 00:00:24.00–00:01:27.70
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00055-whisper-no-vad-model-base-lang-auto.jsonl | 9 original segments
+Alexis Arai con secreto y Samuel Ash Borrón y Cuenta Nueva que linda es disfrutar de esta canción Borrón y Cuenta Nueva cuando nosotros cometemos errores y le pedimos perdón a Dios, Dios se olvida de eso, lo envía hasta lo más profundo del mar, él no se va a volver a acordar de ti así que no, no cargués con ese peso y entramos en una nueva hora gracias por estar conmigo en esta en esta noche cuando son las ocho disfrutando de buena música recordándote que no estás solo recordándote que dioses fiel de que el cumple sus promesas y que siempre siempre va a estar contigo a lo largo inclusive de tus procesos difíciles. Gracias y sigue disfrutando de esta programación que tenemos para ti.
+
+2026-10-09 09:07:52 PM MDT | 2026-10-09 10:07:52 PM CDT | audio 00:00:39.35–00:01:27.63
+Main transcript | qr2-expanded-oct9/fuzion_socal-20261010T011722Z-001-00055.json | 13 original segments
+I am the director of the car and I love you, and I love you So, I just want to say, what is here? I can say, I want you to know how much to have been it's I'm ready to say, it's okay to say, I want you to know what are you going to do and who will ask this, how do you know I'm going to say, that I can have a new car bring to us this. So, the best program I've ever seen is the most part of the day.
+
+2026-10-09 09:09:02 PM MDT | 2026-10-09 10:09:02 PM CDT | audio 00:01:48.98–00:01:59.98
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00055-whisper-no-vad-model-base-lang-auto.jsonl | 1 original segments
+No sé qué palabras de sí, qué…
+
+2026-10-09 09:09:13 PM MDT | 2026-10-09 10:09:13 PM CDT | audio 00:00:00.00–00:01:23.00
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00056-whisper-no-vad-model-base-lang-auto.jsonl | 16 original segments
+και προβόγονκέν με κέρας μάς δελοκέν με άμάς Βεν σενιώρι κόμον δηγίστε τεράμα του γλώρια τεράμα του γλώρια Πένσε νόν, κόμον δηγήστε τε ράμα του κλωρία τε ράμα του κλωρία Πένσε μιστοινιευλάν κόντου λούς Σε μη φουερσάω, ο χεσλούς. Είγκουερτρα, μη έσκολητε. Αλγάνσα με συμβουλιο, ο Σενιό.
+
+2026-10-09 09:09:13 PM MDT | 2026-10-09 10:09:13 PM CDT | audio 00:00:00.00–00:00:10.52
+Main transcript | qr2-expanded-oct9/fuzion_socal-20261010T011722Z-001-00056.json | 1 original segments
+It broke up, they're looking
+
+2026-10-09 09:10:37 PM MDT | 2026-10-09 10:10:37 PM CDT | audio 00:01:24.00–00:01:54.44
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00056-whisper-no-vad-model-base-lang-auto.jsonl | 3 original segments
+Εννούντα με κοντουμμόλου, ο Σενιό. Πόνη και ο αγ εντ kal observe, ο πιστεί καλ imitate ο αγ εντ καλ noticing, ο αγ εντ κου Αθέλις εμένα
+
+2026-10-09 09:11:09 PM MDT | 2026-10-09 10:11:09 PM CDT | audio 00:01:56.00–00:02:00.00
+Alternate / supplemental transcript | fuzion_socal-20261010T011722Z-001-00056-whisper-0-120-no-vad-model-base-lang-es.jsonl | 1 original segments
+Aves el dolor
+
 
 Fuzion - Las Vegas regional proxy — Utah candidate: 91.7 FM (St. George)
 Las Vegas online feed; St. George counterpart unverified
@@ -4829,6 +4945,94 @@ Mi vainilla no se se aguante Me dicen que mire arriba Que hay encuentro la salid
 Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00050-whisper-no-vad-model-base-lang-auto.jsonl | 9 original segments
 Por eso vengo, porque sé que sin ti nada tengo Solo de tu mano me sostengo Gracias por lo que me da, todas mis cargas te las llevas de tu No soy san son pero mi fuerza es tu Y aunque la vida se la pasa reglándose para verme caer Esperen día no me pienso mover de aquí Si cuidas de las aves como no de mí Si fuiste en mis sustentos desde que nací No me deja, este aunque me perdí
 
+2026-10-09 08:59:14 PM MDT | 2026-10-09 09:59:14 PM CDT | audio 00:00:00.37–00:01:39.62
+Main transcript | qr2-expanded-oct9/fuzion_vegas-20261010T011722Z-001-00051.json | 11 original segments
+No, that's all... But that is true... A lovely family Who is a girl that's so good Who is a girl that's so good? Who is her girl? Who is her girl that's so good? Who is my girl that's so good? Who is yours? Who is yours? Who is my girl?
+
+2026-10-09 08:59:35 PM MDT | 2026-10-09 09:59:35 PM CDT | audio 00:00:22.00–00:00:30.00
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00051-whisper-no-vad-model-base-lang-auto.jsonl | 2 original segments
+Y aquí vamos otra vez Cruta, va, es, va, es, va, es, fuerza, spa
+
+2026-10-09 09:01:13 PM MDT | 2026-10-09 10:01:13 PM CDT | audio 00:00:00.00–00:00:03.68
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00052-whisper-0-120-no-vad-model-base-lang-es.jsonl | 1 original segments
+Y en que no voy a desperdo
+
+2026-10-09 09:01:13 PM MDT | 2026-10-09 10:01:13 PM CDT | audio 00:00:00.00–00:00:15.40
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00052-whisper-no-vad-model-base-lang-auto.jsonl | 3 original segments
+You can know where that's where Who's got me to Who's got me to
+
+2026-10-09 09:01:15 PM MDT | 2026-10-09 10:01:15 PM CDT | audio 00:00:01.68–00:00:05.41
+Main transcript | qr2-expanded-oct9/fuzion_vegas-20261010T011722Z-001-00052.json | 1 original segments
+That's where I'm gonna do
+
+2026-10-09 09:01:43 PM MDT | 2026-10-09 10:01:43 PM CDT | audio 00:00:30.00–00:01:22.38
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00052-whisper-no-vad-model-base-lang-auto.jsonl | 10 original segments
+No, no, no, no, no, no, no, no. It's not for me to love you. Remember, because in that fervor it costs a while the enemy went violent And let me be the one who will pay for it. No, don't mind. We can show love to someone who is crazy. And believe that every day there is hope. With the faith of one day, your life will change.
+
+2026-10-09 09:02:35 PM MDT | 2026-10-09 10:02:35 PM CDT | audio 00:01:22.38–00:01:59.38
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00052-whisper-no-vad-model-base-lang-auto.jsonl | 6 original segments
+Why did I choose to die of violence? At the change of my mind The man could kill my body But never in the sea Because I decided to put my revenge And now you can know where this man is, who's got me through
+
+2026-10-09 09:03:05 PM MDT | 2026-10-09 10:03:05 PM CDT | audio 00:01:52.00–00:02:00.00
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00052-whisper-0-120-no-vad-model-base-lang-es.jsonl | 3 original segments
+Y ahora, yo te puedo ver, ¿no? ¿O lo he pasado? ¿Hos cambiado?
+
+2026-10-09 09:04:13 PM MDT | 2026-10-09 10:04:13 PM CDT | audio 00:01:00.00–00:01:37.20
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00053-whisper-no-vad-model-base-lang-auto.jsonl | 7 original segments
+Este es si lo con el mes Moreno, de mente. Esta es en función, la voz de la armonía. El Network del Sur de California, Nevada y Utah. Tu emisora cristiana en español que une la comunidad Hispana y apunta tu corazón hacia Jesucristo. K, B, I, T, Mesquite, K, 2, 1, 5, F, A, Las Vegas, K, 2, 0, 3, F, R, Las Vegas, K, 2, 1, 9, L, C, C, George Y alrededor del mundo por medio del AB, fusión radio, Encuentra la inifusión.com
+
+2026-10-09 09:04:20 PM MDT | 2026-10-09 10:04:20 PM CDT | audio 00:01:06.64–00:01:46.27
+Main transcript | qr2-expanded-oct9/fuzion_vegas-20261010T011722Z-001-00053.json | 9 original segments
+and networked the sort of California, Nevada, Utah, to amissoracristian and Español que una la comonira di spana y a punta tu coronasón asya eso Cristo. Ca ve y de mesquí. Ca dos uno cinco e fe a, las vegas. Ca dos sero tres e fe re, las vegas. Ca dos una nue de el el cota, St. George. Y a redo del mundo por medi de lab. Peace be upon you and I'll see you in the next video!
+
+2026-10-09 09:05:01 PM MDT | 2026-10-09 10:05:01 PM CDT | audio 00:01:48.00–00:02:00.00
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00053-whisper-no-vad-model-base-lang-auto.jsonl | 5 original segments
+Aca es inserida Hasta mi tiempo Algo a no me jane mi rebeldía Quise volver Pero está bien que...
+
+2026-10-09 09:05:16 PM MDT | 2026-10-09 10:05:16 PM CDT | audio 00:00:03.31–00:00:05.31
+Main transcript | qr2-expanded-oct9/fuzion_vegas-20261010T011722Z-001-00054.json | 1 original segments
+Bring you something
+
+2026-10-09 09:06:00 PM MDT | 2026-10-09 10:06:00 PM CDT | audio 00:00:47.00–00:01:00.60
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00054-whisper-no-vad-model-base-lang-auto.jsonl | 4 original segments
+Eso Eso me Vamos a un cartel vidare Alexis, a la ir
+
+2026-10-09 09:06:20 PM MDT | 2026-10-09 10:06:20 PM CDT | audio 00:01:07.00–00:01:11.00
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00054-whisper-no-vad-model-base-lang-auto.jsonl | 1 original segments
+Y desvió el palcés, esta secreto
+
+2026-10-09 09:07:13 PM MDT | 2026-10-09 10:07:13 PM CDT | audio 00:00:00.00–00:00:40.99
+Main transcript | qr2-expanded-oct9/fuzion_vegas-20261010T011722Z-001-00055.json | 4 original segments
+I know what to do. I don't know. I know what to do. It's all about living.
+
+2026-10-09 09:07:48 PM MDT | 2026-10-09 10:07:48 PM CDT | audio 00:00:35.40–00:00:41.00
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00055-whisper-no-vad-model-base-lang-auto.jsonl | 2 original segments
+Alexis Arai con secreto Is Samuel Ash, Borrón y Cuenta Nueva
+
+2026-10-09 09:08:03 PM MDT | 2026-10-09 10:08:03 PM CDT | audio 00:00:50.36–00:01:38.94
+Main transcript | qr2-expanded-oct9/fuzion_vegas-20261010T011722Z-001-00055.json | 10 original segments
+I'll tell you what the country has to do. If you find out that the world's world is the world's world. And if not, you know that the world is the world's world. And in our minds, there are not any places in our world. and it's all in this world. And the world will have a different world. that in the last 12 years I think the most important thing happens, that in the last 12 years it feels really great because of the processes, and the part of it has to do with the process and fact. Thank you for that I'm gonna help you with this.
+
+2026-10-09 09:08:03 PM MDT | 2026-10-09 10:08:03 PM CDT | audio 00:00:50.40–00:01:39.60
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00055-whisper-no-vad-model-base-lang-auto.jsonl | 9 original segments
+Que linda es disfrutar de esta canción Borrón y Cuenta Nueva cuando nosotros cometemos errores y le pedimos perdón a Dios, Dios, se olvida de eso, lo envía hasta lo más profundo del mar, él no se va a volver a acordar de ti, así que no, no carguez con ese peso. Y entramos en una nueva hora, gracias por estar conmigo en esta noche, cuando son las ocho, disfrutando de buena música, recordándote que no estás solo, Recordándote que Dios es fiel de que el cumple sus promesas y que siempre, siempre va a estar contigo a lo largo, inclusive, de tus procesos difíciles. Gracias y sigue disfrutando de esta programación que tenemos para ti.
+
+2026-10-09 09:09:04 PM MDT | 2026-10-09 10:09:04 PM CDT | audio 00:01:51.20–00:02:00.20
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00055-whisper-no-vad-model-base-lang-auto.jsonl | 1 original segments
+Uneme a tu río, dame vida
+
+2026-10-09 09:09:19 PM MDT | 2026-10-09 10:09:19 PM CDT | audio 00:00:06.06–00:00:22.46
+Main transcript | qr2-expanded-oct9/fuzion_vegas-20261010T011722Z-001-00056.json | 5 original segments
+No sake, But that's the seed I'm Santa, But that's the seed I've been there for a long time
+
+2026-10-09 09:10:16 PM MDT | 2026-10-09 10:10:16 PM CDT | audio 00:01:03.00–00:01:25.00
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00056-whisper-0-120-no-vad-model-base-lang-es.jsonl | 2 original segments
+Se me fue asoquezó En cuenta mi escomni de
+
+2026-10-09 09:10:16 PM MDT | 2026-10-09 10:10:16 PM CDT | audio 00:01:03.00–00:01:25.00
+Alternate / supplemental transcript | fuzion_vegas-20261010T011722Z-001-00056-whisper-no-vad-model-base-lang-auto.jsonl | 2 original segments
+Se me fue asoquezul En cuenta mi escomni de
+
 
 K-LOVE - network proxy — Utah candidate: 98.3 FM (Park City)
 Network online feed; Utah relay K252EH / KNKL
@@ -5081,6 +5285,34 @@ Can I be a half heard stories you show and every time you prove it time and alwa
 2026-10-09 08:57:10 PM MDT | 2026-10-09 09:57:10 PM CDT | audio 00:01:06.48–00:01:12.95
 Main transcript | qr2-expanded-oct9/klove_iheart-20261010T011807Z-001-00049.json | 1 original segments
 trip leaving our signal, Kayla that keeps the music going wherever you go.
+
+2026-10-09 09:00:23 PM MDT | 2026-10-09 10:00:23 PM CDT | audio 00:00:19.76–00:00:31.04
+Main transcript | qr2-expanded-oct9/klove_iheart-20261010T011807Z-001-00051.json | 2 original segments
+Positive, encouraging K-Love, 89.9 KWKL, Grand Field, Lotten, and 90.5 Wichita Falls. Across the globe, listen up K-Love.com and the K-Love app.
+
+2026-10-09 09:00:43 PM MDT | 2026-10-09 10:00:43 PM CDT | audio 00:00:38.88–00:01:13.09
+Main transcript | qr2-expanded-oct9/klove_iheart-20261010T011807Z-001-00051.json | 9 original segments
+This is your song, your story on K-Love. I heard it on the way to the hospital and I didn't feel alone anymore. That song changed my heart and brought me closer to God. One song can carry you through anything. Tonight, it might carry someone else. That song got me through some tough times. It's like always been my, um, right song at the right moment, your song, your story. Call 800-900-1300. This is your song, your story on K-Lab. Is there a song that kind of gives like a fall kind of vibe?
+
+2026-10-09 09:01:17 PM MDT | 2026-10-09 10:01:17 PM CDT | audio 00:01:13.09–00:01:51.72
+Main transcript | qr2-expanded-oct9/klove_iheart-20261010T011807Z-001-00051.json | 14 original segments
+Ooh, that's a good question. Fall vibes. Mm. Is there a reason why you want to hear a fall song? I guess because everything's changing. Do you feel like there's some changes going on in your life right now? It might be too much to take in, but there's not much to do about it, except just embrace it, you know? You know, sometimes that's a really good way to look at it when you can't change it, you know, lean into it. You can't change it and erase it, you know? Well, since changes can also be a little bit scary. Um, I think this song, this song has fall vibes to me and it's also, it's really calming. It's Liana Crawford, Still Waters.
+
+2026-10-09 09:02:25 PM MDT | 2026-10-09 10:02:25 PM CDT | audio 00:00:20.86–00:00:22.86
+Main transcript | qr2-expanded-oct9/klove_iheart-20261010T011807Z-001-00052.json | 1 original segments
+Though
+
+2026-10-09 09:04:19 PM MDT | 2026-10-09 10:04:19 PM CDT | audio 00:00:14.93–00:01:41.06
+Main transcript | qr2-expanded-oct9/klove_iheart-20261010T011807Z-001-00053.json | 1 original segments
+80900 1300 and be a part of your song your story on K love
+
+2026-10-09 09:06:05 PM MDT | 2026-10-09 10:06:05 PM CDT | audio 00:00:00.11–00:01:04.64
+Main transcript | qr2-expanded-oct9/klove_iheart-20261010T011807Z-001-00054.json | 3 original segments
+And I've done all I can do, all my shoulders Burners got me weary trusting in myself, got me nowhere So I lift my eyes to you, I know that my life's future's in you
+
+2026-10-09 09:08:05 PM MDT | 2026-10-09 10:08:05 PM CDT | audio 00:00:00.00–00:00:18.54
+Main transcript | qr2-expanded-oct9/klove_iheart-20261010T011807Z-001-00055.json | 4 original segments
+We know what I'm meanin', I'm believein', there's a victory I will see I'm holdin' on the guy cuz I know my guy is holdin' on me I know my house place now, I know who delivers me I know my strength is done, I'm holdin' on
 
 
 KARB - Kickin' Country — 98.3 FM
@@ -6555,6 +6787,94 @@ My life is as touring and being home with the kids Let me take you back in times
 Main transcript | qr2-karb-http-oct9/karb-20261009T234602Z-001-00096.json | 1 original segments
 My life is touring and being home with my kids
 
+2026-10-09 09:01:38 PM MDT | 2026-10-09 10:01:38 PM CDT | audio 00:01:00.12–00:01:41.12
+Main transcript | qr2-continuous-oct9/karb-20261009T232806Z-001-00106.json | 1 original segments
+Each country
+
+2026-10-09 09:01:53 PM MDT | 2026-10-09 10:01:53 PM CDT | audio 00:00:00.00–00:00:26.51
+Main transcript | qr2-karb-http-oct9/karb-20261009T234602Z-001-00098.json | 1 original segments
+It's backstage country
+
+2026-10-09 09:02:39 PM MDT | 2026-10-09 10:02:39 PM CDT | audio 00:00:01.17–00:00:20.90
+Main transcript | qr2-continuous-oct9/karb-20261009T232806Z-001-00107.json | 3 original segments
+But you grew myself if I would have gotten out of the beam of my heart and everything in between Just like you deserve, sorry I couldn't get You rang in a house with a dog in a cup of...
+
+2026-10-09 09:04:39 PM MDT | 2026-10-09 10:04:39 PM CDT | audio 00:00:00.53–00:01:16.09
+Main transcript | qr2-continuous-oct9/karb-20261009T232806Z-001-00108.json | 7 original segments
+I was just a kid myself, didn't know I'm better than I wish you well, baby if you're never good, I'll take it all back. John Sean will be sitting in for Elena this week, this is Backstage Country. Our host this week is Lee Bryson. You remain one of the busiest touring artists out there. So what's ahead? Plan-wise is for us tours and concerts, what you got coming up.
+
+2026-10-09 09:05:41 PM MDT | 2026-10-09 10:05:41 PM CDT | audio 00:01:48.02–00:01:59.94
+Main transcript | qr2-karb-http-oct9/karb-20261009T234602Z-001-00099.json | 6 original segments
+I'm going to be sitting in for Elena this week. This is Backstage Country. Our host this week is Lee Bryson. You remain one of the busiest touring artists out there. So what's ahead? Plan wise is for us tours.
+
+2026-10-09 09:05:52 PM MDT | 2026-10-09 10:05:52 PM CDT | audio 00:00:00.00–00:00:31.44
+Main transcript | qr2-karb-http-oct9/karb-20261009T234602Z-001-00100.json | 13 original segments
+Sir, what you got coming up? I mean, same, same, same, same. We, you know, people go, sometimes they'll ask me, so when is your next tour? I'm like, well, I guess in my next life because I really just tour constantly. I mean, other than say like December and January, try to take those months kind of off other than a little rehearsing in January. I'm always touring. We always tour, and sometimes we'll name them, you know, sunrise or tour, or you mean my guitar tour, But it's one big long.
+
+2026-10-09 09:05:54 PM MDT | 2026-10-09 10:05:54 PM CDT | audio 00:01:16.09–00:01:47.41
+Main transcript | qr2-continuous-oct9/karb-20261009T232806Z-001-00108.json | 12 original segments
+I mean, same, same, same, same. You know, people go, sometimes they'll ask me, so when is your next tour? I'm like, well, I guess in my next life because I really just tour constantly. I mean, other than say like December and January, try to take those months kind of off other than a little rehearsing in January. I'm always touring. We always touring, sometimes we'll name them, you know, sunrise or tour, or you mean my guitar tour. But it's one big long, this is what my life is.
+
+2026-10-09 09:06:24 PM MDT | 2026-10-09 10:06:24 PM CDT | audio 00:00:31.44–00:01:18.37
+Main transcript | qr2-karb-http-oct9/karb-20261009T234602Z-001-00100.json | 14 original segments
+This is what my life is. My life is touring and being home with my kids, being a daddy and like a husband and being. This is it. This is what I do. But if you go two weeks without being on tour, it gets you to. Yeah, I get a little, as I'm saying, it gets a little, even in my life, I'll be like, okay, so when are you going back out again? Somebody once told me a story about, that Mel Tillis told somebody that, if he was off the road for more than two weeks, when he got to his refrigerator open the door and the light went on, he'd start singing.
+
+2026-10-09 09:06:26 PM MDT | 2026-10-09 10:06:26 PM CDT | audio 00:01:47.41–00:01:57.45
+Main transcript | qr2-continuous-oct9/karb-20261009T232806Z-001-00108.json | 6 original segments
+My life is touring and being home with my kids. Being a daddy and like an husband and being. This is it. This is what I do. But if you go two weeks without being on tour, it gets you to.
+
+2026-10-09 09:06:36 PM MDT | 2026-10-09 10:06:36 PM CDT | audio 00:01:57.45–00:02:00.45
+Main transcript | qr2-continuous-oct9/karb-20261009T232806Z-001-00108.json | 1 original segments
+Yeah, I get a little, I'm saying it gets a little even.
+
+2026-10-09 09:06:37 PM MDT | 2026-10-09 10:06:37 PM CDT | audio 00:00:00.00–00:00:36.32
+Main transcript | qr2-continuous-oct9/karb-20261009T232806Z-001-00109.json | 9 original segments
+In my life, I'll be like, okay, so when are you going back out again? Somebody once told me a story about that. Mel Tillis told somebody that if he was off the road for more than two weeks, when he got to his refrigerator and opened the door and the light went on, he'd start singing. The lights come on. And there it is. Don't go anywhere. More backstage country is next with Lee Bryce. Eastern Utah's number one for new country, 98.3 and 1067, chicken country.
+
+2026-10-09 09:07:11 PM MDT | 2026-10-09 10:07:11 PM CDT | audio 00:01:18.37–00:01:59.92
+Main transcript | qr2-karb-http-oct9/karb-20261009T234602Z-001-00100.json | 12 original segments
+If there's one thing I don't mess around with, it's my steak. Some city slickers cook it till it's tough as boot leather. Others expect you to grill your own, not me. And I want steak, I want it right. That's when we ride to the cowboy club in Wellington. Whether it's a top sirloin or New York strip, I know it'll come off the grill the cowboy way. Tender, juicy and full of flavor. Make your next meal at the cowboy club. And taste the legend that keeps cowboys right and strong. For generations, Castle Country is powered Utah. Today, that legacy of hard work takes a historic leap forward.
+
+2026-10-09 09:07:14 PM MDT | 2026-10-09 10:07:14 PM CDT | audio 00:00:36.32–00:01:08.90
+Main transcript | qr2-continuous-oct9/karb-20261009T232806Z-001-00109.json | 10 original segments
+If there's one thing I don't mess around with, it's my steak. Some city slickers cook it till it's tough as boot leather. Others expect you to grill your own, not me. When I want steak, I want it right. That's when we ride to the cowboy club in Wellington. Whether it's a top sirloin or New York strip, I know it'll come off the grill the cowboy way. Tender, juicy, and full of flavor. Take your next meal at the cowboy club, and taste the legend that keeps cowboys riding strong.
+
+2026-10-09 09:07:46 PM MDT | 2026-10-09 10:07:46 PM CDT | audio 00:01:08.90–00:01:39.64
+Main transcript | qr2-continuous-oct9/karb-20261009T232806Z-001-00109.json | 10 original segments
+For generations, Castle Country is powered Utah. Today, that legacy of hard work takes a historic leap forward. At the San Rafael Energy Lab, Valoratomics has achieved a global first, safely activating the Waterless Ward 250 Micro-Reactor right here in Orangeville. Valor isn't just creating jobs, they are protecting our local agriculture, water supplies, and working hand in hand with our local workforce. Valoratomics, honoring your energy routes, honoring America's future. Learn more at valoratomics.com or visit the next community open house.
+
+2026-10-09 09:07:52 PM MDT | 2026-10-09 10:07:52 PM CDT | audio 00:00:00.00–00:00:45.41
+Main transcript | qr2-karb-http-oct9/karb-20261009T234602Z-001-00101.json | 6 original segments
+San Rafael Energy Lab Valoratomics has achieved a global first safely activating the Waterless Ward 250 Micro-Reactor right here in Orangeville. Valor isn't just creating jobs, they are protecting our local agriculture, water supplies and working hand in hand with our local workforce. Valoratomics, honoring our energy roots, honoring America's future. Learn more at valoratomics.com or visit the next community open house. Now that's an offer I can sink my teeth into.
+
+2026-10-09 09:08:17 PM MDT | 2026-10-09 10:08:17 PM CDT | audio 00:01:39.64–00:01:58.76
+Main transcript | qr2-continuous-oct9/karb-20261009T232806Z-001-00109.json | 5 original segments
+Slow internet is a real pain in the neck. Blah, new customers get four months of free internet. Plan started $49.95 with no contracts. Visit emeritelcom.com. Now that's an offer I can sink my teeth into.
+
+2026-10-09 09:08:37 PM MDT | 2026-10-09 10:08:37 PM CDT | audio 00:00:00.00–00:00:31.56
+Main transcript | qr2-continuous-oct9/karb-20261009T232806Z-001-00110.json | 6 original segments
+When it comes to high-speed internet, you can't beat River Canyon Wireless. River Canyon has three bandwidth sources and 99.99% reliability of service. River Canyon Wireless features unlimited usage, that's no data caps, and no long-term contracts. Basic home service starting at $29.99 a month, serving the carbon and emery area. Call River Canyon Wireless today, toll free, 855-729-6622. That's 855-729-6622.
+
+2026-10-09 09:08:38 PM MDT | 2026-10-09 10:08:38 PM CDT | audio 00:00:45.41–00:01:20.17
+Main transcript | qr2-karb-http-oct9/karb-20261009T234602Z-001-00101.json | 11 original segments
+When it comes to high speed internet, you can't beat River Canyon Wireless. River Canyon has three bandwidth sources and 99.99% reliability of service. for Canyon Wireless features unlimited usage. That's no data caps and no long-term contracts. Basic home service starting at $29.99 a month, serving the carbon and emery area. Call River Canyon Wireless today, toll-free, 855-729-6622. That's 855-729-6622. This Halloween, don't let cavities haunt your family's smiles.
+
+2026-10-09 09:09:09 PM MDT | 2026-10-09 10:09:09 PM CDT | audio 00:00:31.56–00:01:03.00
+Main transcript | qr2-continuous-oct9/karb-20261009T232806Z-001-00110.json | 9 original segments
+This Halloween, don't let cavities haunt your family's smiles. At Price Pediatric Dental, Dr. Bot, Dr. Markham, and Dr. Lund are experts in keeping young teeth healthy and bright. Regular checkups are crucial for catching those sneaky little dental issues early, making sure they don't turn into spooky little surprises Later, protect your little ones from the fried-of-dental woes. Call 637-9590 to book an appointment today at Price Pediatric Dental and give your kids a reason to smile brightly this spooky season.
+
+2026-10-09 09:09:13 PM MDT | 2026-10-09 10:09:13 PM CDT | audio 00:01:20.17–00:01:59.97
+Main transcript | qr2-karb-http-oct9/karb-20261009T234602Z-001-00101.json | 10 original segments
+At Price Pediatric Dental, Dr. Bot, Dr. Markham and Dr. Lund are experts in keeping young teeth healthy and bright. Regular checkups are crucial for catching those sneaky little dental issues early, making sure they don't turn into spooky little surprises later. Protect your little ones from the fried of dental woes. Call 637-9590 to book an appointment today at Price Pediatric Dental and give your kids a reason to smile brightly this spooky season. Fall has officially arrived in the castle country, and winters waiting just around the corner. Before the cold settles in, stop by Magnus and Lumber to get ready to tackle fall cleanup from heavy-duty rigs and yard bags to quality.
+
+2026-10-09 09:09:40 PM MDT | 2026-10-09 10:09:40 PM CDT | audio 00:01:03.00–00:01:36.84
+Main transcript | qr2-continuous-oct9/karb-20261009T232806Z-001-00110.json | 12 original segments
+Fall has officially arrived in the castle country, and winter's waiting just around the corner. Before the cold settles in, stop by Magnus and Lumper to get ready to tackle fall cleanup from heavy-duty breaks and yard bags to quality winterizing tools that help get your home and yard ready. Then, when the work is done, reward yourself with something cozy. Maggison Lumber has beautiful fall decor, including festive wreaths, autumn signs, and warm seasonal accents. Get to Maggison Lumber and Castledale today. This is Cody Bunderson, owner and coach at Fierce MMA and Fitness.
+
+2026-10-09 09:10:14 PM MDT | 2026-10-09 10:10:14 PM CDT | audio 00:01:36.84–00:02:00.00
+Main transcript | qr2-continuous-oct9/karb-20261009T232806Z-001-00110.json | 8 original segments
+With our experienced instructors, we are able to help children with gratitude, discipline, respect, character, self-confidence, and values, all through the form of mixed martial arts. Our MMA program includes jujitsu, wrestling, boxing, and cake boxing. Come try a free week with us to see what we can do for your child's growth and confidence. Our kids' classes run Monday through Thursday from 5 to 6 p.m. Come down to 1695 South, Highway 10.
+
 
 KKUT - The Wolf — 93.7 FM / 98.3 FM (Provo relay)
 Mount Pleasant / Utah and Wasatch counties; Provo 98.3 relay
@@ -7432,6 +7752,22 @@ Yeah, you try to keep me down, try to put me underground But I'm almost catching
 Main transcript | qr2-continuous-oct9/kkut-20261009T232806Z-001-00104.json | 1 original segments
 County's country fans like
 
+2026-10-09 08:59:52 PM MDT | 2026-10-09 09:59:52 PM CDT | audio 00:00:00.00–00:01:47.60
+Main transcript | qr2-continuous-oct9/kkut-20261009T232806Z-001-00106.json | 2 original segments
+A Pleasant Provo Heber, powered by TasteOfCountry.com and the free Taste of Country app. This is Taste of Country Nights with Evan Paul.
+
+2026-10-09 09:04:01 PM MDT | 2026-10-09 10:04:01 PM CDT | audio 00:00:09.50–00:00:49.78
+Main transcript | qr2-continuous-oct9/kkut-20261009T232806Z-001-00108.json | 5 original segments
+You know with Chase Matthew, all my exes on Taste of Country Nights It's Evan Paul And one of my favorite lines in this song is I ain't gotta see my ex-future mother-in-law anymore Turn it up, it's Luke Combs on Taste of Country Nights
+
+2026-10-09 09:06:14 PM MDT | 2026-10-09 10:06:14 PM CDT | audio 00:00:21.90–00:00:23.90
+Main transcript | qr2-continuous-oct9/kkut-20261009T232806Z-001-00109.json | 1 original segments
+When she heard...
+
+2026-10-09 09:07:53 PM MDT | 2026-10-09 10:07:53 PM CDT | audio 00:00:00.00–00:00:04.32
+Main transcript | qr2-continuous-oct9/kkut-20261009T232806Z-001-00110.json | 1 original segments
+Before they were always took time on but she was wrong
+
 
 KNRS - Talk Radio — 105.9 FM
 Salt Lake City / Wasatch Front
@@ -8145,6 +8481,94 @@ That's how I've liked it, but guests can bring a valuable perspective. I just do
 Main transcript | qr2-expanded-oct9/knrs-20261010T011312Z-001-00052.json | 1 original segments
 on I've been telling you for a long time that pure talk is
 
+2026-10-09 08:59:07 PM MDT | 2026-10-09 09:59:07 PM CDT | audio 00:00:00.00–00:00:56.76
+Main transcript | qr2-expanded-oct9/knrs-20261010T011312Z-001-00053.json | 10 original segments
+best wireless company out there. I say that because I actually use PureTalk. I make calls, I send texts, I watch videos, and I use the unlimited data so I can tell you firsthand the coverage is amazing. Don't take my word for it. In a recent industry survey, over 120,000 wireless customers, PureTalk was the only wireless company in the country to get five out of five stars in every category. Coverage, support, value, and data. Stop overpaying for subpar service. Join PureTalk, just dial pound 250 and say the key word Jesse Kelly and you'll save 50% off your first month. Their US customer service team makes switching easy and with unlimited high-speed data for just $34.99 a month, you're going to save a fortune. Take it from me or over 120,000 wireless customers. Dial pound 250 and say Jesse Kelly to save 50% off your first month. Dial pound 2-5-0 and say, Jesse Cowen.
+
+2026-10-09 09:00:03 PM MDT | 2026-10-09 10:00:03 PM CDT | audio 00:00:56.76–00:01:28.03
+Main transcript | qr2-expanded-oct9/knrs-20261010T011312Z-001-00053.json | 8 original segments
+Chef? Fall sports season is in full swing. That is my heart radio has your front row seat from MLB post season to the NFL. College football, the NHL, NBA pre-season, it's all happening now. Try to take big two points on the night. Home town play-by-play, podcasts and local stations where you can join the conversation. Why is fans do we torture ourselves? Sports on I Heart Radio, where fans live it.
+
+2026-10-09 09:00:35 PM MDT | 2026-10-09 10:00:35 PM CDT | audio 00:01:28.03–00:01:59.93
+Main transcript | qr2-expanded-oct9/knrs-20261010T011312Z-001-00053.json | 8 original segments
+Reading unlocks confidence, reading unlocks skills, reading unlocks the future. Hooked on Phonics has helped more than 5 million children unlock their potential. With easy 15-20 minute lessons, both on paper and on the app, it's the proven way to help kids read. The Hooked on Phonics method combines games, songs, and videos to make reading fun. Each lesson comes with a way to celebrate progress. It's time to start unlocking your child's future. started today at hookedonphonics.com.
+
+2026-10-09 09:01:07 PM MDT | 2026-10-09 10:01:07 PM CDT | audio 00:00:00.00–00:00:30.32
+Main transcript | qr2-expanded-oct9/knrs-20261010T011312Z-001-00054.json | 7 original segments
+KNS Salt Lake City, Talk Radio 1059, KNS, and I Heart Radio Station, Guarantee Human. Hurricane ECE says May Blantfall, the eye of the Category 2 storm is crossing the coastline of the Western Florida Panhandle. Parts of the region are now under a flash flood emergency as severe wind gusts, storm surge and heavy rain lash the coast. The storm is packing maximum sustained winds of 105 miles per hour. Florida Governor Ron Tasantis.
+
+2026-10-09 09:01:37 PM MDT | 2026-10-09 10:01:37 PM CDT | audio 00:00:30.32–00:01:05.52
+Main transcript | qr2-expanded-oct9/knrs-20261010T011312Z-001-00054.json | 7 original segments
+It's going to be nasty throughout the early morning hours of Saturday and even in, I think, Saturday afternoon. Right now, more than a half million people are without power in Florida, Alabama and Georgia. President Trump is in New York tonight, the latest stop in his midterm blitz. He's at a rally in Syracuse alongside Republican candidate for Governor Bruce Blakeman, an attorney and longtime Long Island politician who has closely allied himself with Trump. and the football world is mourning the passing of Mike Dica, who died at the age of 86. Dica coached the Chicago Bears when they won Super Bowl 20. I'm Lisa Carden.
+
+2026-10-09 09:02:34 PM MDT | 2026-10-09 10:02:34 PM CDT | audio 00:01:27.54–00:01:59.86
+Main transcript | qr2-expanded-oct9/knrs-20261010T011312Z-001-00054.json | 9 original segments
+up on the T-box or missus that three-foot putt when everything's on the line where they're going to laugh about it with you on three-putt bogey open your free iHeartRadio app search three-putt bogey and listen now do you love golf if so listen to the three-putt bogey podcast i'm Chuck Bryant from the Stuff You Should Know podcast and i'm Adam Pranika from a couple of embarrassing hit star trek podcasts we're going to get into the bunker and get to the bottom of what is just so alluring and frustrating about the most beautiful game in the world so So whether you're someone who pipes it on the driving range, but freezes up on the T-box. Or misses that three-foot.
+
+2026-10-09 09:03:07 PM MDT | 2026-10-09 10:03:07 PM CDT | audio 00:01:59.86–00:02:00.86
+Main transcript | qr2-expanded-oct9/knrs-20261010T011312Z-001-00054.json | 1 original segments
+Put it.
+
+2026-10-09 09:03:07 PM MDT | 2026-10-09 10:03:07 PM CDT | audio 00:00:00.00–00:00:34.72
+Main transcript | qr2-expanded-oct9/knrs-20261010T011312Z-001-00055.json | 11 original segments
+When everything's on the line, whether to laugh about it with you on 3-Pup Bogey, open your free iHeartRadio app, search 3-Pup Bogey, and listen now. When it's time to vote, being informed matters. Early voting starts October 19th and runs through October 30th. Apply for a mail-in ballot by October 23rd. Election day is November 3rd. Everything you need to be ready is at votetexas.gov. Know the dates. Know what to bring. Because when you're prepared, you can vote with confidence.
+
+2026-10-09 09:03:45 PM MDT | 2026-10-09 10:03:45 PM CDT | audio 00:00:38.56–00:01:08.80
+Main transcript | qr2-expanded-oct9/knrs-20261010T011312Z-001-00055.json | 9 original segments
+Do you love golf? If so, listen to the Three Putte Pogie Podcast. I'm Chuck Bryant from the Stuff You Should Know Podcast. And I'm Adam Pranika from a couple of embarrassing hit-start trek podcasts. We're going to get into the bunker and get to the bottom of what is just so alluring and frustrating about the most beautiful game in the world. So whether you're someone who pipes it on the driving range but freezes up on the T-box. Or misses that three-foot putte when everything's on the line. where they're gonna laugh about it with you on Three-Putt Bogey. Open your free iHeartRadio app, search Three-Putt Bogey, and listen now!
+
+2026-10-09 09:04:16 PM MDT | 2026-10-09 10:04:16 PM CDT | audio 00:01:08.80–00:01:50.40
+Main transcript | qr2-expanded-oct9/knrs-20261010T011312Z-001-00055.json | 10 original segments
+20th Century Studios presents Well Fall, the most incredible survival thriller of the year. To survive the unthinkable, do the impossible. You're gonna become so dangerous that the predators can't help but let you go. Austin Abrams. I'm going home. Josh Brolin. Survivor, Survivor. Today, we tip our wrench to rock auto customer Jeremy. I've been a rockauto.com customer for over 15 years, and now even my kids order their parts there.
+
+2026-10-09 09:04:57 PM MDT | 2026-10-09 10:04:57 PM CDT | audio 00:01:50.40–00:02:00.00
+Main transcript | qr2-expanded-oct9/knrs-20261010T011312Z-001-00055.json | 4 original segments
+Prices are always far lower than the local auto parts store. Selection is massive, and the site makes it unbelievably easy to find exactly what we need. up fast and the quality is up.
+
+2026-10-09 09:05:07 PM MDT | 2026-10-09 10:05:07 PM CDT | audio 00:00:00.00–00:00:38.48
+Main transcript | qr2-expanded-oct9/knrs-20261010T011312Z-001-00056.json | 7 original segments
+Always top-tier, rockauto.com has earned my trust for life and I highly recommend them. Fun afternoon? Or just another task on the to-do list? ADT Blue makes DIY home security easy. Their kits and accessories can be customized to fit your space, so you're only buying what you need. No technician, an appointment window, and monitoring is your call. Leave it to ADT's 24-7 professional monitoring team or keep tabs yourself through the ADT Plus app. When you've got ADT Blue, they've got you. Head to ADT.com slash BLU to build your system today.
+
+2026-10-09 09:06:02 PM MDT | 2026-10-09 10:06:02 PM CDT | audio 00:00:55.68–00:01:29.68
+Main transcript | qr2-expanded-oct9/knrs-20261010T011312Z-001-00056.json | 11 original segments
+Check the mail, enter for your chance to win, and start imagining where a brand new car could take you. No purchase necessary. Sweepstakes ends November 6, 2026. Open to legal residents of the U.S., 18 and older. Official rules at valpack.com slash free ride. There's an app for your playlists. An app for your photos. Even an app that helps you dodge traffic. But only one app brings you this live radio station anytime anywhere. With the iHeartRadio app, your favorite radio station fits right in your pocket. Life shows, news, sports, exclusive music channels, and voices that don't just go viral.
+
+2026-10-09 09:06:36 PM MDT | 2026-10-09 10:06:36 PM CDT | audio 00:01:29.68–00:01:39.68
+Main transcript | qr2-expanded-oct9/knrs-20261010T011312Z-001-00056.json | 4 original segments
+They're the voices of your local community. So if it's not already on your home screen, fix that. Download the number one radio app, the free iHeartRadio app today. I heart radio.
+
+2026-10-09 09:06:46 PM MDT | 2026-10-09 10:06:46 PM CDT | audio 00:01:39.68–00:02:00.50
+Main transcript | qr2-expanded-oct9/knrs-20261010T011312Z-001-00056.json | 1 original segments
+A Jesse Kelly show, final hour of the Jesse Kelly show, on a wonderful Friday, no idea.
+
+2026-10-09 09:07:07 PM MDT | 2026-10-09 10:07:07 PM CDT | audio 00:00:00.00–00:00:31.04
+Main transcript | qr2-expanded-oct9/knrs-20261010T011312Z-001-00057.json | 7 original segments
+How we're getting to all this we have to talk about the national debt someone wants to talk about swimming The catholic church someone's upset apparently with the pope some dude wants to know should he deport the illegals He works with all that and so much more coming up in the final hour of the jesse kelly show on a Fantastic Friday before we get to any of that Chris Have you seen that Hawaiian shirt I wear? It's like the only one I have, the blue Hawaiian shirt.
+
+2026-10-09 09:07:38 PM MDT | 2026-10-09 10:07:38 PM CDT | audio 00:00:31.04–00:01:01.75
+Main transcript | qr2-expanded-oct9/knrs-20261010T011312Z-001-00057.json | 12 original segments
+You know what I'm talking about? Well, I love that shirt. I'm wearing it as we speak. I love that shirt. It's soft. It's, I think it's even, I can't see the back of it. I think it's maybe even a Tommy Bahama shirt. I got years and years and years and years ago. And it's definitely a little ratty and faded, but it's amazing. It's just worn down enough. It's amazing.
+
+2026-10-09 09:08:08 PM MDT | 2026-10-09 10:08:08 PM CDT | audio 00:01:01.75–00:01:33.11
+Main transcript | qr2-expanded-oct9/knrs-20261010T011312Z-001-00057.json | 14 original segments
+And as much as I love that shirt, that's how much Ab hates it. She hates it. She hates it. If she sees the video of me doing this radio show in this shirt, she will say something. If we are going somewhere and I walk out of the closet with this shirt on, she will just drop that thing for a woman. this is as vicious as it gets, she'll do the, is that what you're wearing? You're gonna wear that? I mean, that's basically her just spitting on it.
+
+2026-10-09 09:08:40 PM MDT | 2026-10-09 10:08:40 PM CDT | audio 00:01:33.11–00:01:59.47
+Main transcript | qr2-expanded-oct9/knrs-20261010T011312Z-001-00057.json | 6 original segments
+At this point, she hates this shirt. And it's old, like I said, little beat up. I look down, I'm looking at it right now, as a matter of fact, there's a hole. And you could probably fit your thumb in that hole. And that whole it's so we're not talking about some miniature hole here. It's a hole. She's going to see
+
+2026-10-09 09:09:07 PM MDT | 2026-10-09 10:09:07 PM CDT | audio 00:00:00.14–00:00:47.98
+Main transcript | qr2-expanded-oct9/knrs-20261010T011312Z-001-00058.json | 13 original segments
+And it's right by where it buttons up and aub does the laundry, you know, she's woman and I will throw away my clothes when she finds holes in it Because she knows that I won't throw it away She's gonna throw this away. Chris. I'm not gonna take it to a tailor. You know, you know what? That's gonna cost not taking it to a freaking tailor I'm not gonna spray. I bet I Know it's my favorite shirt, but I bet you cost 50 bucks I bet you they charge her 50 bucks to patch. I'm not spending 50 bucks should go get a new shirt for 50 bucks Not wasting the money on that plus Obsees the credit card statements And I don't think she goes over it with the fine-toothed comb It's not like she's gonna jump me about something But what if she sees a tailor thing on there?
+
+2026-10-09 09:09:55 PM MDT | 2026-10-09 10:09:55 PM CDT | audio 00:00:47.98–00:01:22.26
+Main transcript | qr2-expanded-oct9/knrs-20261010T011312Z-001-00058.json | 10 original segments
+She's gonna know it wasn't her then I'm gonna get interrogated and I won't be able to lie about it This is the last time I'm gonna wear this shirt Unless I get lucky, when this shirt goes in the laundry basket tonight, I won't ever see it again. Not ever. And I'm a little sad. I can't help but shadow. Most Americans are highly concerned about the national debt. If Trump came out and announced an effort to pay down the debt, and perhaps started with payments of $100 billion, do you think that would be a boost for the midterms?
+
+2026-10-09 09:10:29 PM MDT | 2026-10-09 10:10:29 PM CDT | audio 00:01:22.26–00:02:00.00
+Main transcript | qr2-expanded-oct9/knrs-20261010T011312Z-001-00058.json | 10 original segments
+So I would argue with the first sentence you said, most Americans are highly concerned about the national debt. That's not true. Americans are concerned about the things that are downstream from the national debt, but they don't fully realize how many of those things are tied back to the national debt. You know one of the main reasons we always get inflation? The debt. We continue to have to basically take out loans all the time. Loans as a country because we spend so much more than we take in. This
+
 
 KOHS - Orem High School Radio — 91.7 FM
 Orem
@@ -8253,6 +8677,22 @@ my bed. I'm just going to start up the next one, my bed.
 2026-10-09 08:55:57 PM MDT | 2026-10-09 09:55:57 PM CDT | audio 00:00:00.21–00:00:04.21
 Main transcript | qr2-expanded-oct9/kohs-20261010T011607Z-001-00050.json | 1 original segments
 It's the message, it's the message, it's the message
+
+2026-10-09 09:00:42 PM MDT | 2026-10-09 10:00:42 PM CDT | audio 00:00:45.33–00:00:49.33
+Main transcript | qr2-expanded-oct9/kohs-20261010T011607Z-001-00052.json | 1 original segments
+Sometimes we're scared of
+
+2026-10-09 09:02:58 PM MDT | 2026-10-09 10:02:58 PM CDT | audio 00:01:01.52–00:01:04.32
+Main transcript | qr2-expanded-oct9/kohs-20261010T011607Z-001-00053.json | 1 original segments
+This is Star Strip by Robbie Williams.
+
+2026-10-09 09:06:14 PM MDT | 2026-10-09 10:06:14 PM CDT | audio 00:00:17.46–00:00:19.46
+Main transcript | qr2-expanded-oct9/kohs-20261010T011607Z-001-00055.json | 1 original segments
+Ready, steady, go!
+
+2026-10-09 09:08:08 PM MDT | 2026-10-09 10:08:08 PM CDT | audio 00:00:11.66–00:00:28.30
+Main transcript | qr2-expanded-oct9/kohs-20261010T011607Z-001-00056.json | 4 original segments
+Alrighty, I got a question for people that are listening as of now. If I start digging down, how long till I start digging up? And do I come out feet first or head first? I'll let y'all think about that while violence by Blink-182 plays.
 
 
 KPCW — 91.7 FM
@@ -9463,6 +9903,54 @@ Into a future, future, future
 Main transcript | qr2-continuous-oct9/kpcw-20261009T232806Z-001-00105.json | 2 original segments
 I'm Michael Fisher. I support KPCW because it is an excellent way for the community to feel connected and stay informed on a wide range of important
 
+2026-10-09 08:59:57 PM MDT | 2026-10-09 09:59:57 PM CDT | audio 00:00:00.00–00:00:31.94
+Main transcript | qr2-continuous-oct9/kpcw-20261009T232806Z-001-00106.json | 6 original segments
+local news, issues and events. KPCW is also a great supporter of the many nonprofits that adds so much to our community. If you believe in having a quality local news source, we hope you can join us as a Broadcasters Club member. For more information about becoming a Broadcasters Club member, please contact Sarah. That's Sarah with an H at kpcw.org or call 435-649-9004. Our programming is brought to you in part by the generosity of our Broadcasters Club.
+
+2026-10-09 09:00:29 PM MDT | 2026-10-09 10:00:29 PM CDT | audio 00:00:31.94–00:01:04.62
+Main transcript | qr2-continuous-oct9/kpcw-20261009T232806Z-001-00106.json | 7 original segments
+KPCW would like to recognize Broadcasters Club members, Jen and Virginia Solomon, Peter Tomai and Daniel Ness, Gail and Robert West, Kelly and James Whitcomb. This fall, we're grateful for you and your support of local news, great tunes and community connection. You're listening to KPCW Park City at 91.7 and a .1 FM if you're listening on the radio in Summit County. You can get just a 91.9 FM if you're listening in Wasatch County. We'll be back with one more fresh track and lots more music after an update from NPR.
+
+2026-10-09 09:01:03 PM MDT | 2026-10-09 10:01:03 PM CDT | audio 00:01:06.46–00:01:59.94
+Main transcript | qr2-continuous-oct9/kpcw-20261009T232806Z-001-00106.json | 11 original segments
+Live from NPR News, I'm Dale Willman. Hurricane Isaias has made landfall tonight in the Florida panhandle. As NPR's Debbie Elliott reports, it was a category two hurricane bringing with it 105 mile an hour winds. The National Weather Service says the eye of Hurricane Isayes came ashore near Destin, Florida. This storm weakened slightly from a major Category 3 hurricane to a Category 2 ahead of landfall. But winds were still powerful enough to down trees and knock out power lines in its path. Widespread power outages are reported in South Alabama and northwest Florida. Flash flood warnings are posted along the storm's path as it moves inland, where it's expected to produce tropical storm force winds and tornadoes across the Southeastern U.S. Isaiesis is the first hurricane.
+
+2026-10-09 09:01:57 PM MDT | 2026-10-09 10:01:57 PM CDT | audio 00:00:00.00–00:00:53.60
+Main transcript | qr2-continuous-oct9/kpcw-20261009T232806Z-001-00107.json | 10 original segments
+of the Atlantic season, Debbie Elliott, NPR News, Questview, Florida. President Trump says Russia will supply about 300,000 tons of diesel fuel to the U.S. He says it's an effort to lower rising diesel prices. As NPR's Emily Fang reports, Trump says he and Russian leader Vladimir Putin reached that agreement by phone today. It's unclear if importing Russian diesel flies in the face of a new law Trump just signed into effect. Named in honor of the late Senator Lindsey Graham, the law put 500 percent tariffs on Russian imports and personally sanctioned Putin. The U.S. Treasury Department has, however, just temporarily paused its sanctions on Russian diesel. Trump has also temporarily paused a federal tax on diesel, though some state taxes may still remain all in an effort to rein in diesel prices that have shot up as much as 70 percent since the war with Iran.
+
+2026-10-09 09:02:50 PM MDT | 2026-10-09 10:02:50 PM CDT | audio 00:00:53.60–00:01:26.16
+Main transcript | qr2-continuous-oct9/kpcw-20261009T232806Z-001-00107.json | 10 original segments
+These measures will likely not bring diesel prices down, however. For example, the diesel Russia will provide amounts to just a few days of American national diesel consumption. Emily Fang and Pure News, Washington. President Trump has selected a new press secretary. He named Katie Zachariah to the post today. She'll succeed former press secretary Caroline Levitt, who left that position in August. NPR's Deepa Shivram has more on that story. Zachariah is a political commentator and advisor with Trump's media and technology group, which runs Trump's social media site, Truth Social.
+
+2026-10-09 09:03:23 PM MDT | 2026-10-09 10:03:23 PM CDT | audio 00:01:26.16–00:02:00.04
+Main transcript | qr2-continuous-oct9/kpcw-20261009T232806Z-001-00107.json | 8 original segments
+She also briefly served as a spokesperson at the Department of Homeland Security. It's not clear when her first day in the role would be or when the first press briefing would be. Those briefings have largely been on hold since Levitt left the position earlier this year. Trump's selection of a new press secretary comes as the president and his party are facing headwinds in the upcoming midterm elections. On social media, Trump says he's confident Zachariah will deliver, quote, strong results for our country and calls her a loyal and brilliant supporter. Deepa Shiveram and PR News, the White House. Stocks closed up on Wall Street today with the Dow of 420...
+
+2026-10-09 09:03:57 PM MDT | 2026-10-09 10:03:57 PM CDT | audio 00:00:00.00–00:00:40.17
+Main transcript | qr2-continuous-oct9/kpcw-20261009T232806Z-001-00108.json | 7 original segments
+23 points. And you're listening to NPR News. Hall of Fame tight end and Super Bowl winning coach of the Chicago Bears. Mike Ditka has died. He was 86 years old as Noah Jennings, a member station WBEZ reports his look was just as legendary as his football career. Mike Ditka was more than a coach. He was a symbol. His signature style, the mustache, aviator sunglasses and sweater vest inspired the recurring Saturday night live sketch of the Bill Swersky Super Fans. And Dickah, being the bold, outspoken person he was, appeared on the sketch once in 1993, just days after he was fired from the Bears.
+
+2026-10-09 09:04:37 PM MDT | 2026-10-09 10:04:37 PM CDT | audio 00:00:40.17–00:01:14.93
+Main transcript | qr2-continuous-oct9/kpcw-20261009T232806Z-001-00108.json | 9 original segments
+Look, this is my Dickah. Let's get it done, sweetheart. And you can take this to the bank, my friends. Live from New York, it's Saturday night. Dickah's likeness will live on at Bears Games, as fans continue filling the stands every someday in his iconic outfit. For NPR News, I'm Noah Jennings in Chicago. A second powerful earthquake has hit Panama, the 6.6 magnitude quake followed a Friday morning quake of 7.7 magnitude in between the two were several aftershocks. The quakes were centered south of the capital of Panama City, where most of the reported damage has occurred.
+
+2026-10-09 09:05:12 PM MDT | 2026-10-09 10:05:12 PM CDT | audio 00:01:14.93–00:01:46.21
+Main transcript | qr2-continuous-oct9/kpcw-20261009T232806Z-001-00108.json | 8 original segments
+Some buildings collapsed near the quake's epicenter and evacuations took place across the country. The country's president is appealing for calm. of the Brazilian city of Manau, so struggling to breathe this weekend is wildfires from the Amazon are sending smoke into the area. Health officials say pollutants have reached 196 micrograms per cubic meter. The normal range is from 3 to 9 micrograms. Government workers were sent home on Friday because of the smoke. I'm Dale Wilman, NPR News.
+
+2026-10-09 09:05:43 PM MDT | 2026-10-09 10:05:43 PM CDT | audio 00:01:46.21–00:01:59.99
+Main transcript | qr2-continuous-oct9/kpcw-20261009T232806Z-001-00108.json | 3 original segments
+Support for NPR comes from NPR stations. Other contributors include DuckDuckGo. They offer for Duck.ai, where users can chat privately with AI without requiring an account. By Duck.Go, who believes AI...
+
+2026-10-09 09:05:57 PM MDT | 2026-10-09 10:05:57 PM CDT | audio 00:00:00.00–00:00:48.86
+Main transcript | qr2-continuous-oct9/kpcw-20261009T232806Z-001-00109.json | 9 original segments
+should be optional. Learn more at Duck.ai. Hey there, it's Kristi Dillewe. Oh, hold up. Just a second. We're not quite ready for that fresh track yet, Kristi. Give me a second here. Let's look at the weather one last time before you get into your weekend. It's currently 66 degrees in the Park City area. As a reminder, there's a couple weather warnings in effect this weekend starting tomorrow. There's a wind advisory in effect that will go through through 6 a.m. on the 11th Sunday, and then starting on Sunday, there will be a flood watch in effect until the 12th at 6 p.m. that is due to remnants of the tropical storm Rachel that will be hitting Utah. The remnants will be hitting Utah, not the tropical storm itself.
+
+2026-10-09 09:06:45 PM MDT | 2026-10-09 10:06:45 PM CDT | audio 00:00:48.86–00:01:39.18
+Main transcript | qr2-continuous-oct9/kpcw-20261009T232806Z-001-00109.json | 11 original segments
+Right now, though, tonight, it will get 50 degrees as our low, still more rain, a chance rain tomorrow, high near 64, for sure getting some rain tomorrow, it looks like, and then a low of 46 in the evening. And then Sunday, more rain, so we're getting lots of precipitation this weekend, high of 58, Sunday, low of 44. So it's going to be a cool, wet weekend for you. Stay safe, stay dry out there. Let's get into that final fresh track for you. Fresh track Friday, music curator, bringing you new music this hour as your Friday. Fresh track, a new one from Doty. The artist Doty is an English YouTuber and indie pop singer songwriter. A deluxe edition of her sophomore studio album, not for lack of trying, will be released soon. As you'll hear on this song, she struggles with issues of mental health, but she pairs her distressed lyrics with lighthearted pop music. This is Still Eye Stare, dot dot dot, and compare. It's new from
+
 
 KSL NewsRadio - studio feed — 102.7 FM / 1160 AM
 Salt Lake City / Utah
@@ -10216,9 +10704,89 @@ It'll be second down in 10 as he ran it outside to the left numbers where Justin
 Main transcript | qr2-expanded-oct9/ksl-20261010T011532Z-001-00051.json | 4 original segments
 That just snuck right over sato walla's arm. He's there in protection and he kind of reaches out to bat that thing down and it's just off his fingertips. Cyclones in, hurry up.
 
+2026-10-09 08:59:22 PM MDT | 2026-10-09 09:59:22 PM CDT | audio 00:00:00.00–00:00:41.40
+Main transcript | qr2-expanded-oct9/ksl-20261010T011532Z-001-00052.json | 9 original segments
+Rayner at midfield. The balls at the 45 of BYU. Claiborne made a bobbled catch. They shift to Tripp's left. Single wide right. Ball near Hashco and left to right of the cyclone. Seven nothing. Coogs Rayner calls for the snap at his thigh. Quickly underneath. Complete Claiborne again, another big gain. Eight yards on first and ten. That's going to be a drop off to Claiborne. Claiborne's a big, he's a big fella and he's a nice target for them. And he just finds himself right at the hash off at a little wheel. senior from Lenexa, Kansas, trips to the right again. The cyclones go tempo. This time Flora is wrapped up and thrown down by Bodie's scoon over. That wasn't on the second in short, creating a third down on three loss of one on the play.
+
 2026-10-09 08:59:23 PM MDT | 2026-10-09 09:59:23 PM CDT | audio 00:01:59.26–00:02:00.26
 Main transcript | qr2-expanded-oct9/ksl-20261010T011532Z-001-00051.json | 1 original segments
 Shotgun.
+
+2026-10-09 09:00:03 PM MDT | 2026-10-09 10:00:03 PM CDT | audio 00:00:41.40–00:01:21.20
+Main transcript | qr2-expanded-oct9/ksl-20261010T011532Z-001-00052.json | 9 original segments
+Bodie scoon over is going to come off the back side on this and these are the plays I love when you're unblocked defensive in off the back side, which is the left side of the defense, sees the snap, gets the penetration, it chases the run down from the back side, hooks the hips and takes them down for a loss. Great job by Bodie. Iowa State's already in scoring territory with the leg of Conradi, 38 yard line, third down and three almost four. They go shotgun, split backs, Flora and Pedaway. Pedaway left Flora right, Rainer gun, the snap, the give Flora middle first down, easy first down, five yards up the middle on a third and long three.
+
+2026-10-09 09:00:43 PM MDT | 2026-10-09 10:00:43 PM CDT | audio 00:01:21.20–00:01:59.98
+Main transcript | qr2-expanded-oct9/ksl-20261010T011532Z-001-00052.json | 17 original segments
+Yeah, not much shift there too, that's just a give off the tee and he goes straight down downhill puts his shoulder into Clipton and rides it for another two or three. He is a powerful runner. This all comes back to the field position flip. Hasn't taken the cyclones too long to get in scoring territory. 34-yard line. First in 10. ISU. Power pistol turns into a direct snap. Flora calls for it. Flora keeps it left. Francis first in on the tackle.
+
+2026-10-09 09:01:20 PM MDT | 2026-10-09 10:01:20 PM CDT | audio 00:00:00.24–00:00:30.76
+Main transcript | qr2-expanded-oct9/ksl-20261010T011532Z-001-00053.json | 13 original segments
+He was joined by Evan Johnson at the far boundary after a gain of one or two on the direct snap to Flora. So, BYU shifted now to an even front, Greg. So, they had Justin Kirkland running an odd front where he was head up the nose. Now they've shifted to an even front where they've got Anisi Purcell and Keanu Tanabasa that are running kind of these two and three techniques on the inside, and they're gonna push and flow. So, that means that they're focusing right now and stopping it in Flora between the tackles. Maybe the final play of the first quarter, 20 seconds to go in the quarter.
+
+2026-10-09 09:01:50 PM MDT | 2026-10-09 10:01:50 PM CDT | audio 00:00:30.76–00:01:05.60
+Main transcript | qr2-expanded-oct9/ksl-20261010T011532Z-001-00053.json | 15 original segments
+7-0 Cougs. Iowa State with a tight end and two lines to the right. Double tight, right. Keeper to the right. Rayner spins out of BYU tackles and has the first down to the far sideline. On second and nine, Rayner was stopped, spun out of it. And that'll be the final play of the first quarter. Nope. Iowa State, back in business and in scoring territory near into Red Zone. We come back to begin quarter number two After 15 minutes, 7-nothing BYU leading ISU, the cyclone's threatening after this on the New Skin BYU Sports Network.
+
+2026-10-09 09:02:26 PM MDT | 2026-10-09 10:02:26 PM CDT | audio 00:01:06.60–00:01:38.68
+Main transcript | qr2-expanded-oct9/ksl-20261010T011532Z-001-00053.json | 14 original segments
+Cougar fans, you can now book your hotels directly to BYU with gocubes.travel. This is your chance to make a difference for your favorite BYU team, just by booking a trip to Hawaii or Paris or any of our 850,000 locations around the globe. With gocubes.travel, you'll save on hotel and theme park prices. While a percentage of every booking goes right back to BYU Athletics. Save money and make BYU better. Win, win, all with Goku's dot travel. And of course, Goku's. Ow!
+
+2026-10-09 09:02:58 PM MDT | 2026-10-09 10:02:58 PM CDT | audio 00:01:38.68–00:01:59.68
+Main transcript | qr2-expanded-oct9/ksl-20261010T011532Z-001-00053.json | 7 original segments
+Flies, listen for reliable weather updates on KSL in the morning, plus traffic in the afternoon and news all day long. Same station, KSL News Radio. Business technology has changed a lot over the last 70 years. But one thing has it. Less wholesome is here.
+
+2026-10-09 09:03:20 PM MDT | 2026-10-09 10:03:20 PM CDT | audio 00:00:00.00–00:00:51.94
+Main transcript | qr2-expanded-oct9/ksl-20261010T011532Z-001-00054.json | 12 original segments
+As the years have passed, there's been one constant. And after 70 years and still counting, Les Olson IT is here with the technology and the people to make life easier, more productive and more secure for your business. Let Les be here for you. We're really interested to hear about how your parents talk to you at home and how do you think they can kind of break through to you? It's just to talk about it. It's just seriously just, going to be awkward at first. But if you keep repeating it over and over again, you're going to, it's just going to feel natural. Keep going, keep going, and soon we'll just be able to talk about it. Talking about mental health with your teens is the power of we in action. Visit intermountainhealth.org slash teen mental health.
+
+2026-10-09 09:04:12 PM MDT | 2026-10-09 10:04:12 PM CDT | audio 00:00:51.94–00:01:59.34
+Main transcript | qr2-expanded-oct9/ksl-20261010T011532Z-001-00054.json | 11 original segments
+Let's head back to the WCF insurance broadcast booth and join the voice of the Cougars, Greg Rebelle. This pond's 10 seconds for a station identification on the new skin BYU sports network. The legacy home of the Cougars, KSLF and Midfield, KSL Salt Lake City. Tonight's game sponsor is Nutra Cost, the official supplement provider of BYU Athletics. First quarter stats show BYU outgaining Iowa State 80 to 43 against TCU in that soggy slug fast last week, the kooks have 39 yards of offense after the first quarter. Iowa State threatening to begin quarter number two, the cyclones in position where Kyle Conrardi is almost automatic. They're at the BYU 23 yard line. So that's a 40 yarder if they get nothing. He's made 19 consecutive field goals, 45 or shorter. So the odds are that Iowa State's on the board here on this possession.
+
+2026-10-09 09:05:19 PM MDT | 2026-10-09 10:05:19 PM CDT | audio 00:01:59.34–00:02:01.34
+Main transcript | qr2-expanded-oct9/ksl-20261010T011532Z-001-00054.json | 1 original segments
+We'll see if the BYD.
+
+2026-10-09 09:05:24 PM MDT | 2026-10-09 10:05:24 PM CDT | audio 00:00:00.00–00:00:36.00
+Main transcript | qr2-expanded-oct9/ksl-20261010T011532Z-001-00055.json | 17 original segments
+That's something to say about that. We've got the second quarter about to start with the teams having flip sides and Iowa State now going right to left, south to north here at PV3 Field, at LaVellia Bridge Stadium. Newly named PV3 Field as of today. Greg Rubell hands Olson up top. Mitchell Jurgens down on the field. Jason Shepard joining us here in our WCF Insurance broadcast booth as well. Iowa State does not have an empty possession inside the Red Zone. They're 16 of 16. Now, interesting fact is five of those 16 trips ended up in a field goal that you were just talking about, Greg.
+
+2026-10-09 09:06:00 PM MDT | 2026-10-09 10:06:00 PM CDT | audio 00:00:36.00–00:01:44.14
+Main transcript | qr2-expanded-oct9/ksl-20261010T011532Z-001-00055.json | 18 original segments
+So that's kind of best case scenario where they sit just outside the red zone. If you can hold them and force a little bit deeper on the field goal, that's great. But it'd be really nice for BYU's defense to give them their first close to or in red zone, empty possession. One of the best turnover margin teams in the country, BYU, seeking its first takeaway of the night. teams are give away free at the moment going back to an odd front Greg. So you're shifting Justin Kirkland back in head up the center three downs. You're keeping your outside wings up in a two point. River peppers and Cameron Petaway are the split backs. They now vacate peppers to the right side pressure from the right. The throw left and batted down incomplete. Keanu Talibasa got the deflection and it'll be second down in 10 from the BYU 23. Well this is what I love so far. They're already playing a very disruptive defense in both the series. They've had a lot of disruption and right there you get pressure off the inside stunt. You've got Newsy who's got a nice runway and you've got Keanu Otenovasa who sees the arm cock. He jumps up, gets in the passing
+
+2026-10-09 09:07:08 PM MDT | 2026-10-09 10:07:08 PM CDT | audio 00:01:44.14–00:01:59.42
+Main transcript | qr2-expanded-oct9/ksl-20261010T011532Z-001-00055.json | 4 original segments
+lane and he's able to bat that ball down. Remember I always count those as a sack. Fatted balls or sacks in my opinion. Side end two wides left single wide right. Rainers shocked him with Pedaway. Pedaway is open in the right flap and Rader is going to keep it himself, but only for a yard up the middle.
+
+2026-10-09 09:07:21 PM MDT | 2026-10-09 10:07:21 PM CDT | audio 00:00:01.49–00:00:41.10
+Main transcript | qr2-expanded-oct9/ksl-20261010T011532Z-001-00056.json | 7 original segments
+It will be third down and nine for Iowa State, 22-yard line of BYU. Well, the good news is Keanu Tonnevossa is playing Keanu's game. Now, he wasn't in on that tackle and he wasn't necessarily the pressure on the play side, but what he did is he got penetration off the back side which forced a single lane for Rayner to try to rush through, so because you get that penetration it helps a ton. wins it, Cougs, 40 seconds in to quarter number two, third and nine from the BYU 22 empty for Rayner, trips to the right, twins left, and timeout BYU right before the snap.
+
+2026-10-09 09:08:01 PM MDT | 2026-10-09 10:08:01 PM CDT | audio 00:00:41.10–00:01:13.18
+Main transcript | qr2-expanded-oct9/ksl-20261010T011532Z-001-00056.json | 7 original segments
+Prior to the ball being snapped BYU takes their first charge, time out of the half, it's 30 seconds in late. We'll stay right here with it, no time out on the field, but for the 32nd break, BYU look at a hold on the third down and nine, again Conradi all but automatic from this distance, but this would be a victory of sorts. Opponents on third down and nine this year against BYU are one for four. And all of them have been past attempts, not surprisingly.
+
+2026-10-09 09:08:33 PM MDT | 2026-10-09 10:08:33 PM CDT | audio 00:01:13.18–00:02:00.06
+Main transcript | qr2-expanded-oct9/ksl-20261010T011532Z-001-00056.json | 11 original segments
+Well, an interesting point to make right now is in these third and long situations, their target has been Dominic Overby. The kid that was recruited right out of here out of the state, Dominic Overby is the leading receiver was injured on a special teams play and he's typically their target in this moment. Haven't heard anything since. He's out. Jason Shepard telling us overbeout massive loss for the Cyclops. Jalen Rayner with the crowd loud and the play clock at 20 still has to move a player all the way from far right to far left. Now backs up to shotgun with Cameron Pedoway third down and nine a three step for Rayner Steps up to fire, takes off and throws on the run.
+
+2026-10-09 09:09:20 PM MDT | 2026-10-09 10:09:20 PM CDT | audio 00:00:00.00–00:00:32.04
+Main transcript | qr2-expanded-oct9/ksl-20261010T011532Z-001-00057.json | 6 original segments
+And it's incomplete on the sideline, a good hit on a pass break up by Therian Alexander the third, colliding with Cody Jackson on the near boundary and it will force a field goal try. So BYU leading seven nothing, coaxes a three pointer from the cyclones, Kyle Conrardi, as I mentioned a moment ago, has made 19 consecutive field goals, 45 or shorter as raindrops begin to hit the glass here in the broadcast booth.
+
+2026-10-09 09:09:52 PM MDT | 2026-10-09 10:09:52 PM CDT | audio 00:00:32.04–00:01:08.20
+Main transcript | qr2-expanded-oct9/ksl-20261010T011532Z-001-00057.json | 9 original segments
+This will be a 40 yarder right down the middle. Mr. Automatic to put the cyclones on the board. Conradi to swing the right leg. Placement kick out its way. And as you might expect, through for three. Conradi, 20 straight at 45 or shorter. Seven three, cyclones on the board, 59 seconds in to quarter number two. We'll stick around here with it.
+
+2026-10-09 09:10:29 PM MDT | 2026-10-09 10:10:29 PM CDT | audio 00:01:08.20–00:01:39.93
+Main transcript | qr2-expanded-oct9/ksl-20261010T011532Z-001-00057.json | 12 original segments
+That's why you could set the field, the kickoff forthcoming from Conradi. No cannon degrees. You miss him in the return game. You miss him in the defensive backfield. On the first kickoff tonight, BYU had Sarion and Bachmeyer back. Bachmeyer as the off-returner, Sarion as the target. It went through the end zone for a touchback. That was a 40 yard field goal. Capping a 13 is where in Jersey number 91. Capping a 33 yard 11 play drive took 450 off the clock.
+
+2026-10-09 09:11:00 PM MDT | 2026-10-09 10:11:00 PM CDT | audio 00:01:39.93–00:01:59.81
+Main transcript | qr2-expanded-oct9/ksl-20261010T011532Z-001-00057.json | 9 original segments
+It's a lot of time to go just 33 yards and snap 11 plays so the Couks kept things in front of them. That won't actually go down in the books as a red zone possession either. You kept them just outside the 20. Some really nice defense of good pressure. So early on, I already like what I'm seeing from the defensive line. great, they're getting great penetration, so they're playing in Iowa States.
 
 
 KUER - NPR Utah — 90.1 FM / 91.7 FM (Moab relay)
@@ -10945,6 +11513,98 @@ Support for NPR comes from this station. And from UMA, now offering My Phone, a 
 Main transcript | qr2-expanded-oct9/kuer-20261010T011312Z-001-00052.json | 5 original segments
 Details on a November 5th open house and private tours at McGillis School.org. Hi, it's Doug Fabrizio inviting you to the next screening in our film series. This is our partnership with the Utah Film Center.
 
+2026-10-09 08:59:03 PM MDT | 2026-10-09 09:59:03 PM CDT | audio 00:00:00.00–00:00:36.62
+Main transcript | qr2-expanded-oct9/kuer-20261010T011312Z-001-00053.json | 8 original segments
+Next Wednesday, we're going to be showing the film The AI Dock, or how I became an apucal optimist. It's from the filmmaker Daniel Roar. Roar was about to become a father, and he started wondering what AI was going to do to the world his kid was going to grow up in. Join us at the Utah Film Center next Wednesday night at 7. On last week's Wayway, don't tell me we found out some parents want playgrounds to be more dangerous, and Alonzo Bowden agreed. The real slide is made of aluminum, so when you slide down in the summer, you leave the skin on the slide.
+
+2026-10-09 08:59:39 PM MDT | 2026-10-09 09:59:39 PM CDT | audio 00:00:36.62–00:01:15.70
+Main transcript | qr2-expanded-oct9/kuer-20261010T011312Z-001-00053.json | 6 original segments
+I'm Nighin Farsad, and for Peter Siegel, we'll also leave it all out there on this week's Wey Wey Don't Tell Me from NPR. Saturday is at 10 and Sunday is at 11 right here on KUER. This is NPR Utah. KUER in Salt Lake City, KUER in Logan, KUXU in Monroe, KUHU in Monticello, KUOU in Roosevelt, K-U-Q-U and Enoch and K-U-C-U-E-E-From.
+
+2026-10-09 09:00:54 PM MDT | 2026-10-09 10:00:54 PM CDT | audio 00:01:50.86–00:01:59.98
+Main transcript | qr2-expanded-oct9/kuer-20261010T011312Z-001-00053.json | 2 original segments
+President's allies want him to go all in on undermining the election. We'll have the latest. Also, what the paramount deal means for press freedom and what a failed ex-
+
+2026-10-09 09:01:03 PM MDT | 2026-10-09 10:01:03 PM CDT | audio 00:00:00.00–00:00:32.20
+Main transcript | qr2-expanded-oct9/kuer-20261010T011312Z-001-00054.json | 4 original segments
+persecution and plans for live streaming a firing squad say about the death penalty in America and we say goodbye to the woman who developed the software for the first moon landing all that and more after these headlines live from NPR News I'm Dale Wilman hurricane e-saiya says made landfall tonight in the Florida panhandle is NPR's Debbie Elliott reports it was a category two hurricane bringing with it, 105 mile an hour winds.
+
+2026-10-09 09:01:35 PM MDT | 2026-10-09 10:01:35 PM CDT | audio 00:00:32.20–00:01:13.48
+Main transcript | qr2-expanded-oct9/kuer-20261010T011312Z-001-00054.json | 10 original segments
+The National Weather Service says the eye of Hurricane Isaias came ashore near Destin, Florida. This stormed weakened slightly from a major Category 3 hurricane to a Category 2 ahead of landfall. But winds were still powerful enough to down trees and knock out power lines in its path. Widespread power outages are reported in South Alabama and northwest Florida. Flash flood warnings are posted along the storm's path as it moves inland where it's expected to produce tropical storm force winds and tornadoes across the southeastern U.S. Isaiisis is the first hurricane of the Atlantic season.
+
+2026-10-09 09:02:16 PM MDT | 2026-10-09 10:02:16 PM CDT | audio 00:01:13.48–00:01:47.68
+Main transcript | qr2-expanded-oct9/kuer-20261010T011312Z-001-00054.json | 8 original segments
+Debbie Elliott and PR News Questview, Florida. President Trump says Russia will supply about 300,000 tons of diesel fuel to the U.S. He says it's an effort to lower rising diesel prices, as NPR's Emily Fang reports. Trump says he and Russian leader Vladimir Putin reached that agreement by phone today. It's unclear if importing Russian diesel flies in the face of a new law Trump just signed into effect. Named in honor of the late Senator Lindsey Graham, the law put 500 percent tariffs on Russian imports and personally sanctioned Putin.
+
+2026-10-09 09:02:50 PM MDT | 2026-10-09 10:02:50 PM CDT | audio 00:01:47.68–00:02:00.04
+Main transcript | qr2-expanded-oct9/kuer-20261010T011312Z-001-00054.json | 4 original segments
+The U.S. Treasury Department has, however, just temporarily paused its sanctions on Russian diesel. Trump has also temporarily paused a federal tax on diesel, though some state taxes may still remain all in an effort.
+
+2026-10-09 09:03:03 PM MDT | 2026-10-09 10:03:03 PM CDT | audio 00:00:00.00–00:00:30.52
+Main transcript | qr2-expanded-oct9/kuer-20261010T011312Z-001-00055.json | 9 original segments
+a rein in diesel prices that have shot up as much as 70 percent since the war with Iran. These measures will likely not bring diesel prices down, however. For example, the diesel Russia will provide amounts to just a few days of American national diesel consumption. Emily Fang and pure news Washington. President Trump has selected a new press secretary. He named Katie Zachariah to the post today. She'll succeed former press secretary Caroline Levitt, who left that position in August. appears, Deepa Shivram has more in that story.
+
+2026-10-09 09:03:33 PM MDT | 2026-10-09 10:03:33 PM CDT | audio 00:00:30.52–00:01:05.72
+Main transcript | qr2-expanded-oct9/kuer-20261010T011312Z-001-00055.json | 15 original segments
+Zachariah is a political commentator and an advisor with Trump's Media and Technology Group, which runs Trump's social media site, Truth Social. She also briefly served as a spokesperson at the Department of Homeland Security. It's not clear when her first day in the role would be or when the first press briefing would be. Those briefings have largely been on hold since Levitt left the position earlier this year. Trump's selection of a new press secretary comes as the president and his party are facing headwinds in the upcoming midterm elections. On social media, Trump says he's confident Zachariah will deliver, quote, strong results for our country and calls her a loyal and brilliant supporter.
+
+2026-10-09 09:04:09 PM MDT | 2026-10-09 10:04:09 PM CDT | audio 00:01:05.72–00:01:42.80
+Main transcript | qr2-expanded-oct9/kuer-20261010T011312Z-001-00055.json | 14 original segments
+Deepa Shiveram and PR News, the White House. Stas closed up on Wall Street today with the Dow of 423 points. And you're listening to NPR News. Hall of Fame, tight end, and Super Bowl winning coach of the Chicago Bears, Mike Dica, has died. He was 86 years old. As no agentings of member station, WBEZ reports, his look was just as legendary as his football career. Mike Dicke was more than a coach. He was a symbol. His signature style, the mustache, aviator sunglasses, and sweater vest inspired the recurring Saturday night live sketch of the Bill Swersky super fans.
+
+2026-10-09 09:04:46 PM MDT | 2026-10-09 10:04:46 PM CDT | audio 00:01:42.80–00:01:59.54
+Main transcript | qr2-expanded-oct9/kuer-20261010T011312Z-001-00055.json | 6 original segments
+And Dicke, being the bold outspoken person he was, appeared on the sketch once in 1993, just days after he was fired from the Bears. Look, this is my Dicke. Let's get it done, sweetheart. And you can take this to the bank, my friends.
+
+2026-10-09 09:05:02 PM MDT | 2026-10-09 10:05:02 PM CDT | audio 00:01:59.54–00:02:00.54
+Main transcript | qr2-expanded-oct9/kuer-20261010T011312Z-001-00055.json | 1 original segments
+Life of...
+
+2026-10-09 09:05:03 PM MDT | 2026-10-09 10:05:03 PM CDT | audio 00:00:00.00–00:00:31.28
+Main transcript | qr2-expanded-oct9/kuer-20261010T011312Z-001-00056.json | 11 original segments
+New York gets Saturday night. Dicka's likeness will live on at Bears Games, as fans continue filling the stands every Sunday in his iconic outfit. FriendPR News, I'm Noah Jennings in Chicago. A second powerful earthquake has hit Panama, the 6.6 magnitude quake followed a Friday morning quake of 7.7 magnitude. In between the two were several aftershocks. The quakes were centered south of the capital of Panama City, where most of the reported damage has occurred. Some buildings collapsed near the quake's epicenter, and evacuations took place across the country.
+
+2026-10-09 09:05:34 PM MDT | 2026-10-09 10:05:34 PM CDT | audio 00:00:31.28–00:01:02.52
+Main transcript | qr2-expanded-oct9/kuer-20261010T011312Z-001-00056.json | 9 original segments
+The country's president is appealing for calm. Residents of the Brazilian city of Manaus are struggling to breathe this weekend as wildfires from the Amazon are sending smoke into the area. Health officials say pollutants have reached 196 micrograms per cubic meter. The normal range is from 3 to 9 micrograms. Government workers were sent home on Friday because of the smoke. I'm Dale Wilman, NPR News. Support for NPR comes from NPR stations. Other contributors include DuckDuckGo.
+
+2026-10-09 09:06:05 PM MDT | 2026-10-09 10:06:05 PM CDT | audio 00:01:02.52–00:01:37.79
+Main transcript | qr2-expanded-oct9/kuer-20261010T011312Z-001-00056.json | 10 original segments
+They offer DuckDuck.ai, where users can chat privately with AI without requiring an account. By DuckDuckGo, who believes AI should be optional. Learn more at DuckDuck.ai. I'm Christopher Kimball from Don't Stay Radio. Looking to grab a quick bite? Well, looking no further than the Hong Kong diner. The fastest I'd ever eaten there was six minutes and 40 seconds. seconds. This is eating your three courses, your scrambled eggs with your meat on the side, your toast, and your bowl of macaroni and soup, paying in cash, walking out.
+
+2026-10-09 09:06:41 PM MDT | 2026-10-09 10:06:41 PM CDT | audio 00:01:37.79–00:02:00.00
+Main transcript | qr2-expanded-oct9/kuer-20261010T011312Z-001-00056.json | 3 original segments
+The lightspeed meal that's coming up this week on Milk Street Radio from PRX. Join us for Milk Street Radio tomorrow afternoon at 2 on KUER. I'm Todd Zwilik, and it's the 1A Friday news roundup. Sending money to Cine.
+
+2026-10-09 09:07:03 PM MDT | 2026-10-09 10:07:03 PM CDT | audio 00:00:00.00–00:00:33.40
+Main transcript | qr2-expanded-oct9/kuer-20261010T011312Z-001-00057.json | 12 original segments
+Here's postponing taxes on diesel fuel. These are the kinds of moves that you see from a worried president facing some stark polls, less than a month to go before the midterms, and things are getting real for the GOP as the cost of living has people increasingly angry with a president and a party who promise things would go quite the other way. All over America wanna be senators and incumbent senators on debate stages getting urgent and getting ugly. Senator Collins and her husband making money more off of this war.
+
+2026-10-09 09:07:36 PM MDT | 2026-10-09 10:07:36 PM CDT | audio 00:00:33.40–00:01:07.14
+Main transcript | qr2-expanded-oct9/kuer-20261010T011312Z-001-00057.json | 11 original segments
+That is absolutely outrageous and you owe me an apology. That was Maine. Here's Michigan. And you've turned this into political theater on 30 years of doing debates. I've never seen it continue during the commercial, but it did. And here's Georgia. Imagine running for the US Senate while neo-Nazi propaganda is disseminated to an audience of millions from your home. That's Mike Collins. Imagine being a U.S. Senator and out there recruiting, endorsing and supporting these people that want to see Israel wiped off the map.
+
+2026-10-09 09:08:10 PM MDT | 2026-10-09 10:08:10 PM CDT | audio 00:01:07.14–00:01:38.94
+Main transcript | qr2-expanded-oct9/kuer-20261010T011312Z-001-00057.json | 11 original segments
+We got to all of it this hour and lots more of the week's news with our panel who joined us earlier today. Margaret Talev is senior contributor for Axios and Director of Syracuse University's Institute for Democracy, Journalism and Citizenship. Hi Margaret. Hello. Great to be with you. Steve Clemens is here editor at large for the National Interest and I'm told before the show big on Instagram. to be with you, Todd. And thank you for mentioning that. Great having you here, Steve. And Wendy Benjaminson is here, national security editor for Bloomberg News. Great to see you, Wendy.
+
+2026-10-09 09:08:42 PM MDT | 2026-10-09 10:08:42 PM CDT | audio 00:01:38.94–00:01:59.54
+Main transcript | qr2-expanded-oct9/kuer-20261010T011312Z-001-00057.json | 5 original segments
+Thanks for having me. As always, we want to hear from you this hour. You can email us your questions about this week's news 1a at wamu.org. All right, the midterms are increasingly a lens for us to talk about pretty much everything else in this country right now. Prices, gas and diesel, So let's get a beat on the midterms.
+
+2026-10-09 09:09:03 PM MDT | 2026-10-09 10:09:03 PM CDT | audio 00:00:00.00–00:00:34.20
+Main transcript | qr2-expanded-oct9/kuer-20261010T011312Z-001-00058.json | 7 original segments
+than a month before election day cook political reports as it expects five to 15 seat net gain for Democrats in the house. That's a takeover with room to spare according to that forecast. And at least six Senate seats have moved in Democrats' direction in the last month or two market. Some of the polling in the primaries was way off. Sometimes projected waves never materialize. What do we know about how things are looking now? Yeah, well, Todd, I mean, I mean, the polling, when you look at it in the aggregate, certainly suggests the headwinds are with Democrats.
+
+2026-10-09 09:09:37 PM MDT | 2026-10-09 10:09:37 PM CDT | audio 00:00:34.20–00:01:20.20
+Main transcript | qr2-expanded-oct9/kuer-20261010T011312Z-001-00058.json | 16 original segments
+You're looking at sort of nationally in a generic, you know, favorability preference for Congress. I think about an eight percentage point advantage for Democrats right now. As you know, they don't need much to flip control of the House. They would need a net gain of four in the Senate, but they may have as many as six. I'm gonna say butt, butt in capital letters. There is, in these final weeks, a real sort of, the flip story is the Democrats are quite concerned, understandably, like what if the polling is wrong in the sense that what if the polling is miss capturing or misestimating democratic turnout versus Republican turnout?
+
+2026-10-09 09:10:23 PM MDT | 2026-10-09 10:10:23 PM CDT | audio 00:01:20.20–00:02:00.00
+Main transcript | qr2-expanded-oct9/kuer-20261010T011312Z-001-00058.json | 18 original segments
+A lot of these races, even if Democrats have the advantage are still within a margin of error. So the polling could be accurate, and Republicans could still win. But also, all of these polls are based on estimates about democratic turnout and republican turnout. And historically, especially in terms of difficult to poll, there's often like about a two-point swing in either direction. They can be off by two points in either direction about Republican turnout or Democratic turnout. Washington Post has a great piece this week breaking all this down. But the bottom line is, All of the polling certainly suggests that you want to be a Democrat right now, but the polling could be wrong. Steve, what about that?
+
 
 KUFR - Family Radio — 91.7 FM
 Salt Lake City
@@ -11345,6 +12005,58 @@ My guidance strength can be
 2026-10-09 08:55:38 PM MDT | 2026-10-09 09:55:38 PM CDT | audio 00:00:01.30–00:00:08.80
 Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00050.json | 1 original segments
 Hands mourning graves, and earth's rage shall
+
+2026-10-09 09:00:31 PM MDT | 2026-10-09 10:00:31 PM CDT | audio 00:00:54.93–00:01:41.20
+Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00052.json | 11 original segments
+W-F-R-S, Smithtown, and at FamilyRadio.org. Hear the word. Reading from Romans 8, verses 16 through 18. The Spirit itself beareth witness with our Spirit that we are the children of God, and if children then heirs, heirs of God and joint heirs with Christ, if so be that we suffer with Him, that we may be also glorified together. For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us.
+
+2026-10-09 09:01:17 PM MDT | 2026-10-09 10:01:17 PM CDT | audio 00:01:41.20–00:01:59.18
+Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00052.json | 2 original segments
+Imagine sowing seeds that are sure to yield bountiful harvest, not just for this season but for generations.
+
+2026-10-09 09:01:35 PM MDT | 2026-10-09 10:01:35 PM CDT | audio 00:01:59.18–00:02:01.18
+Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00052.json | 1 original segments
+That's the problem.
+
+2026-10-09 09:01:36 PM MDT | 2026-10-09 10:01:36 PM CDT | audio 00:00:00.00–00:00:30.32
+Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00053.json | 5 original segments
+in 2 Corinthians 9.6, he who sows bountifully, will also reap bountifully. It later says, God loves a cheerful giver, there's profound joy in giving to God's work. Why? God is faithful. He calls you to give purposefully, joyfully, not grudgingly. In return, he supplies all you need for every good work. Your legacy gift to family radio, plant seeds sure to produce a future harvest.
+
+2026-10-09 09:02:07 PM MDT | 2026-10-09 10:02:07 PM CDT | audio 00:00:30.32–00:01:03.48
+Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00053.json | 9 original segments
+When you give, you share the gospel through radio, streaming, apps, podcasts, and more every day. Plus others today, give online at familyradio.org through the app or text Give to 35919. You might also be qualified to give tax-free charitable donations from your IRA, property donations, wills, bequests, annuities, stocks. There are many ways to partner with the ministry. Tax benefits may apply.
+
+2026-10-09 09:02:40 PM MDT | 2026-10-09 10:02:40 PM CDT | audio 00:01:03.48–00:01:37.40
+Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00053.json | 14 original segments
+Consult your financial advisor. Please call us with any questions and thank you for investing in God's work and giving a legacy. I used to be undefeated in Scrabble. Yeah, I'm sure you're very excited about that. See, a long time ago, my son broke my winning streak and you're the end of that game that finished my future as the king of Scrabble. I was getting desperate. So I put down a word that's sort of a word, and sort of not a word, and it was sort of debatable. So guess what we did, we debated it. I got out the dictionary, and I got absolutely no support.
+
+2026-10-09 09:03:14 PM MDT | 2026-10-09 10:03:14 PM CDT | audio 00:01:37.40–00:01:59.76
+Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00053.json | 8 original segments
+After arguing my case a little bit more, I finally gave in and lost. Now I'll tell you, there is no satisfaction winning on words I probably shouldn't use anyway in Scrabble or in every day life. Well, I'm Ronald's Grafton, and I want to have a word with you today about trash talk. No way to win. Our word for the day for the word of God is a...
+
+2026-10-09 09:03:36 PM MDT | 2026-10-09 10:03:36 PM CDT | audio 00:00:00.00–00:00:30.54
+Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00054.json | 12 original segments
+about no way to score points. Yeah, Ephesians 4, 29, here we go. Do not let any unwholesome talk come out of your mouths, but only when it's helpful for building others up, according to their needs, that it may benefit those who listen. And it says in verse 31, get rid of all bitterness and rage, anger, brawling, slander, along with every form of malice. See these verses that we've read here about what you do with your mouth.
+
+2026-10-09 09:04:07 PM MDT | 2026-10-09 10:04:07 PM CDT | audio 00:00:30.54–00:01:01.50
+Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00054.json | 12 original segments
+And it says to us that the easiest thing to do with your mouth is to tear people down. You know, it's so easy though, isn't it? To use our mouth to score points on the other person, to defend ourselves, to get out of a jam, to express our anger. But it's no way to score points. Just think about the people who are the most important to you, that you spend the most time with your family, your coworkers, your friends, people of school. You've learned that there are things you can say that help you get your way, right?
+
+2026-10-09 09:04:38 PM MDT | 2026-10-09 10:04:38 PM CDT | audio 00:01:01.50–00:01:38.28
+Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00054.json | 9 original segments
+You know how to get your way. A remarried couple knows this, that there are some things you can say to silence your partner. The Bible says to only allow words that build people up, that's the test. What if you listen to a recording of yourself for the last couple of days? Would you hear criticism, attacks, negativity that put the other person on the defensive? Names called? Put downs? Or maybe you scored some points for the moment, but you're both smaller as a result of it.
+
+2026-10-09 09:05:14 PM MDT | 2026-10-09 10:05:14 PM CDT | audio 00:01:38.28–00:01:59.92
+Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00054.json | 5 original segments
+We're told in 1 Peter 2 that Jesus did nothing wrong. It says, did no guile and no accusation came out of his mouth. Would you let his lordship reach all the way to your mouth, eliminate the cutting words, the hurting words? There are words you should never use.
+
+2026-10-09 09:05:36 PM MDT | 2026-10-09 10:05:36 PM CDT | audio 00:00:00.00–00:00:35.08
+Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00055.json | 13 original segments
+Just don't wait to score points. Thank you so much for listening to A Word With You with Ron Hutchcraft. God bless you. At Family Radio, our mission has always been to share the hope of Jesus Christ and the truth of God's Word with people wherever they are. And increasingly, wherever they are, includes the technology they use every day. That's why Family Radio is excited to share with you the development of uplift. an app designed to bring biblical truth into the questions and moments of everyday life.
+
+2026-10-09 09:06:11 PM MDT | 2026-10-09 10:06:11 PM CDT | audio 00:00:35.08–00:00:59.26
+Main transcript | qr2-expanded-oct9/kufr-20261010T011607Z-001-00055.json | 8 original segments
+And we've created something especially for you, our family radio listeners. When you begin using uplift, enter the code family and you'll receive a welcome message from family radio. That's family, all caps, F-A-M-I-L-Y. Uplift can be found by searching uplift Bible in your app store. More information is available at uplift.chat.
 
 
 KVFX - Utah's VFX — 94.5 FM / 98.3 FM (Tremonton relay)
@@ -12074,6 +12786,18 @@ And our customer's bill of rights is in writing at Don'tBeBroke.com, and we neve
 2026-10-09 08:57:50 PM MDT | 2026-10-09 09:57:50 PM CDT | audio 00:01:42.45–00:01:44.45
 Main transcript | qr2-continuous-oct9/kvfx-20261010T003409Z-033-00071.json | 1 original segments
 YouTilesVFX!
+
+2026-10-09 09:01:34 PM MDT | 2026-10-09 10:01:34 PM CDT | audio 00:01:26.00–00:01:53.06
+Main transcript | qr2-continuous-oct9/kvfx-20261010T003409Z-033-00073.json | 4 original segments
+Well then I was swearing out and never fought in a business Harked out the sack and you said what's up So here we go, I hate to admit it But I guess I'm not there
+
+2026-10-09 09:02:35 PM MDT | 2026-10-09 10:02:35 PM CDT | audio 00:00:27.25–00:01:59.90
+Main transcript | qr2-continuous-oct9/kvfx-20261010T003409Z-033-00074.json | 5 original segments
+Doin' a whole home tour right now. It's 94.5 Utah's VFX. My name is McCall Taylor, the Halloween home tour. We have a lot of homes that are decorated, super cool. So at CacheValleyDaily.com
+
+2026-10-09 09:04:08 PM MDT | 2026-10-09 10:04:08 PM CDT | audio 00:00:00.00–00:00:09.08
+Main transcript | qr2-continuous-oct9/kvfx-20261010T003409Z-033-00075.json | 3 original segments
+Very top of the screen, you can click on the link, you can get your nominations in, and you can just drive around and look at the cool houses. We're out to you by Tribraphoods.
 
 
 KVNU - News / Talk — 610 AM / 102.1 FM
@@ -15048,6 +15772,74 @@ How does that compare to where this league was, perhaps that Mount West, a year 
 Main transcript | qr2-continuous-oct9/kvnu-20261009T232806Z-001-00105.json | 1 original segments
 hey, we're at 9, when's 10 coming?
 
+2026-10-09 08:59:51 PM MDT | 2026-10-09 09:59:51 PM CDT | audio 00:00:00.00–00:00:57.76
+Main transcript | qr2-continuous-oct9/kvnu-20261009T232806Z-001-00106.json | 11 original segments
+Yeah, and you don't want to add 10 just to add 10. What's that process like to try to bet potential school to join this conference? Well, I've had some practice with that question because since I've been in Logan, a lot of your donors have asked me that question. And my response is the truth, which is we will always be in the business of looking to add members who add value. And that doesn't necessarily mean it has to be economic value. It might be strategic value, it might be competitive value, right? But they have to bring something to the table because of what our aspirations are. And number one, I think there's some real advantages to being small as we launch it, right? We have incredible alignment with our presidents with our ADs. It's a lot easier for me as the commissioner to get people to agree when you've got nine people in a room instead of like 15, 16 or 18. But the other thing is it gives us flexibility and optionality. So we think that's important, but we're always going to be ear to the ground.
+
+2026-10-09 09:00:49 PM MDT | 2026-10-09 10:00:49 PM CDT | audio 00:00:57.76–00:01:30.68
+Main transcript | qr2-continuous-oct9/kvnu-20261009T232806Z-001-00106.json | 7 original segments
+We still get a lot of incoming phone calls. We're always going to consider the value that those programs might bring to our league in a lot of different ways. And in the meantime, we have to build something that's really special that's going to attract some of the kinds of schools that we're interested in. We asked Cam Walker before the game. We have a weekly conversation with him on our broadcast and asked him, what does the conference bring to each institution? What does it bring to Utah State? What are some of the things that you would say the conference alignment and the conference affiliation brings to a school like Utah State.
+
+2026-10-09 09:01:22 PM MDT | 2026-10-09 10:01:22 PM CDT | audio 00:01:30.68–00:01:59.92
+Main transcript | qr2-continuous-oct9/kvnu-20261009T232806Z-001-00106.json | 10 original segments
+What are some of those key differentiators that you bring besides the TV and the things you talk about? Well, one of the things that I talk about is like this new Pac-12 is like where tradition meets transformation. Right? It's 110 years of history and legacy. And while we have a new logo, it's still the Pac-12. So you can go anywhere in the sports ecosystem and people know the brand. And there's a certain kind of pride around the excellence that that represents. And so as I go to all these campuses...
+
+2026-10-09 09:01:51 PM MDT | 2026-10-09 10:01:51 PM CDT | audio 00:00:00.00–00:00:31.48
+Main transcript | qr2-continuous-oct9/kvnu-20261009T232806Z-001-00107.json | 7 original segments
+There are full stadiums in places that have not had full stadiums for a very long time. The viewership numbers we just talked about are above and beyond what most of these schools have been experiencing in their prior leagues. The depth of the competition, because we've stayed small and we don't have folks at the bottom kind of pulling the strength of the league down, I think it's brought a lot. And then I think too, because we're building it from the bottom up, it's kind of funny to say 110 year old league is a startup, but it really is.
+
+2026-10-09 09:02:23 PM MDT | 2026-10-09 10:02:23 PM CDT | audio 00:00:31.48–00:01:11.28
+Main transcript | qr2-continuous-oct9/kvnu-20261009T232806Z-001-00107.json | 14 original segments
+Like we wound it down and now we're building it back up. There's a freedom to try new things and do things differently and kind of challenge the traditional ways of doing things in college athletics. And I think we have a room full of leaders that are willing to take some of those swings. All right, so I asked you a very obvious question on expansion. Here's the next very obvious question. Protects college sports act. I know you're involved in that heavily. There's a lot of people myself included. It's like I'll believe it when I see it is it is We're I know it passed the Senate, but the house and the lame duck session and midterms and stuff like that Are you afraid it might get mixed and they're lost in the shuffle and all that?
+
+2026-10-09 09:03:02 PM MDT | 2026-10-09 10:03:02 PM CDT | audio 00:01:11.28–00:01:59.98
+Main transcript | qr2-continuous-oct9/kvnu-20261009T232806Z-001-00107.json | 11 original segments
+I certainly have that concern, but man, do we need it to pass? Oh, I know badly And I never thought in my 37-year career that I'd be spending this much time talking to legislators quite candidly It's a different world for me, especially after my son at testimony, you know it's just a different thing but look we need this to happen and I would say I'm optimistic given the strength of the vote coming out of the Senate it's sent a really strong signal about how much the United States loves college sports and how much we want it to continue and stay viable but you're right like the house it's a whole nother conversation because of the timing of when the votes gonna take place and all of that but I am spending a considerable amount of time talking to legislators and we'll do everything I can to educate them like that's part of the deal is them under
+
+2026-10-09 09:03:51 PM MDT | 2026-10-09 10:03:51 PM CDT | audio 00:00:00.00–00:00:32.36
+Main transcript | qr2-continuous-oct9/kvnu-20261009T232806Z-001-00108.json | 8 original segments
+understanding why we can't make these changes ourselves at this point in time but it's super important to us and you know we're all counting down the days until they come back if they come back yeah yeah I'm not sure who all is going to come back but I like that vacation plan now because I don't know if I want to come back yeah you mentioned a hundred days in yeah it was a conference curious your priorities what's next the next hundred days the next 18 months what What does that look like for you? I would say, you know, I have pretty clear direction from our board to really focus my time in two areas.
+
+2026-10-09 09:04:24 PM MDT | 2026-10-09 10:04:24 PM CDT | audio 00:00:32.36–00:01:15.16
+Main transcript | qr2-continuous-oct9/kvnu-20261009T232806Z-001-00108.json | 11 original segments
+Like, we've had to spend a lot of time over the summer operationalizing this league, and I think because the league historically has been around for, you know, over a century, I don't think people realized how much building we had to do. I had to hire staff. We had to figure out what sports we were sponsoring, all those things, but now I put it in two buckets. One of them is building our commercial business. So Pac-12 enterprises, we flipped Pac-12 networks to become Pac-12 enterprises, and it is now a state-of-the-art broadcast solutions, technology, best-in-class, all of our commercial assets, all of our revenue verticals, we just hired a Chief Commercial and Growth Officer to run that business.
+
+2026-10-09 09:05:06 PM MDT | 2026-10-09 10:05:06 PM CDT | audio 00:01:15.16–00:01:57.48
+Main transcript | qr2-continuous-oct9/kvnu-20261009T232806Z-001-00108.json | 10 original segments
+It's a for-profit company that's owned and operated by the conference. has to be a priority because in this day and age resources matter, right? And that's part of how we're going to disrupt. We're going to do things differently than other conferences. And so there's that priority. I say the second one is kind of preparing for what's next. Like you talk about the PCSA, there are implications whether that passes or not, right? The future looks one way, if it passes, the future looks very different. If it doesn't pass, you know, we're in the middle of of the CFP expansion conversations. If CFP expands, if it doesn't expand. So we're spending a lot of time kind of scenario planning and not only preparing for what's next,
+
+2026-10-09 09:05:49 PM MDT | 2026-10-09 10:05:49 PM CDT | audio 00:01:57.48–00:02:00.28
+Main transcript | qr2-continuous-oct9/kvnu-20261009T232806Z-001-00108.json | 1 original segments
+but trying to proactively influence what's next.
+
+2026-10-09 09:05:51 PM MDT | 2026-10-09 10:05:51 PM CDT | audio 00:00:00.00–00:00:52.12
+Main transcript | qr2-continuous-oct9/kvnu-20261009T232806Z-001-00109.json | 21 original segments
+So we don't get caught flat-footed, not ready, for the next evolution of college sports, because it is gonna change, and there's gonna be drastic changes. What about 31, 32? Was that when you think it gets turned upside down again? I think it could happen sooner than that, if the bill doesn't pass. Oh, yeah. I mean, because then the stability is just gonna get more and more uncertain. And we have to be prepared to not waste the crisis. Like I say, that's where AD is all the time. Like we shouldn't waste this crisis. So we we're spending a lot of time in those two areas commercial strategy commercial building the business while at the same time kind of planning for different scenarios and what does the future look like in our business Teresa thank you so much we appreciate it I know it's a whirlwind tour around all these Pac-12 teams and cities but thank you for hanging out with us we really appreciate it I love it I can't wait to come back for hoop season oh yeah you're gonna enjoy that that'll be fun all right we'll take a break come back Utah State
+
+2026-10-09 09:06:43 PM MDT | 2026-10-09 10:06:43 PM CDT | audio 00:00:52.12–00:01:23.34
+Main transcript | qr2-continuous-oct9/kvnu-20261009T232806Z-001-00109.json | 7 original segments
+Trail 16-3 at the break. This is Aggie Football from Learfield. At Lechwab tires, we know that the little stuff is the good stuff. The quick store run that somehow turns into an all-day adventure or that nail-biting away game that almost ends in victory. The little things you remember most. At Lechwab, we're here to keep you on your way so you can do more of the good stuff. From now until October 31st, save up to $100 on select sets of all weather and all terrain tires so you can stay safe and and let the good times roll.
+
+2026-10-09 09:07:15 PM MDT | 2026-10-09 10:07:15 PM CDT | audio 00:01:23.34–00:01:59.27
+Main transcript | qr2-continuous-oct9/kvnu-20261009T232806Z-001-00109.json | 11 original segments
+See lechwap.com slash sale for details. D.L. Evans Bank, banking with a local touch. We can't wait to welcome you to a better way of banking. Come join us on this exciting journey right here in Utah. Whether you're saving for that cabin in the mountains or starting a new venture, D.L. Evans Bank has the tools and expertise to help you succeed and with our convenient online banking, managing your finances as a breeze. D.L. Evans Bank, community banking since 1904. Every day, thousands of businesses wake up with a job to do.
+
+2026-10-09 09:07:51 PM MDT | 2026-10-09 10:07:51 PM CDT | audio 00:01:59.27–00:02:00.27
+Main transcript | qr2-continuous-oct9/kvnu-20261009T232806Z-001-00109.json | 1 original segments
+Build.
+
+2026-10-09 09:07:51 PM MDT | 2026-10-09 10:07:51 PM CDT | audio 00:00:00.00–00:00:54.84
+Main transcript | qr2-continuous-oct9/kvnu-20261009T232806Z-001-00110.json | 13 original segments
+Feed, manufacture, behind every shipment is a deadline, a customer waiting, and a team depending on how arriving with matters most. But logistics aren't just about getting your product from one place to another, it's about trust and visibility. At Long Lake Logistics, we connect businesses to a nationwide network of trusted carriers to give them visibility to see every step of the process, from pick up to delivery. Because when your logistics are handled right, your business moves forward. team deserves a home field advantage and at Legacy House of Logan our residents have won every day from engaging activities and delicious dining to compassionate care and meaningful friendships. We're here to help seniors keep living lives to the fullest. Legacy House of Logan is proud to be the official assisted living partner of Utah State Athletics. When it's time for senior living we're ready to help your loved ones tackle Life's Next Chat. Go Aggies!
+
+2026-10-09 09:08:46 PM MDT | 2026-10-09 10:08:46 PM CDT | audio 00:00:54.84–00:01:36.59
+Main transcript | qr2-continuous-oct9/kvnu-20261009T232806Z-001-00110.json | 7 original segments
+16-3 are scored, Washington State leading Utah State less paused in seconds for local stations to identify themselves. This is Aggie football from Learfield. The home for Utah State Aggie fans, KVNU Logan, 102 FM 610 AM, covering Aggie football like no one else does. Take another break, Utah State trailing 16-3 to Washington State, first ever Pac-12 game here at Maverick Stadium on the Aggie Sports Network from Learfield.
+
+2026-10-09 09:09:28 PM MDT | 2026-10-09 10:09:28 PM CDT | audio 00:01:36.59–00:01:59.99
+Main transcript | qr2-continuous-oct9/kvnu-20261009T232806Z-001-00110.json | 8 original segments
+If you live in Box Elder County, help for ear, nose, and throat issues just got a whole lot closer. Cache Valley Ear, Nose, and Throat is now open in their new Brigham City location. With over 75 years of combined provider experience, Dr. Jackson Dearest ready to care for allergies, asthma, sinus problems, hearing loss, and more. Finally, Cache Valley ENT and the Brigham City Community at 990 South Medical Drive next to the Brigham City Hospital. Call 753-7880 to schedule.
+
 
 Key Radio / KEYR / KEYV — 91.7 FM (Richfield and Vernal)
 Richfield (KEYR) / Vernal (KEYV)
@@ -15753,6 +16545,74 @@ Let's take a look at our forecast today in Provo Arm in Utah Valley, sunny today
 Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00051.json | 6 original segments
 Myrna on the Uinta Basin, sunny with a high of 78 and a low around 49, with 20 mph wind Not every hard question comes with an easy answer, especially when it involves people you trust, or a child you love fiercely. Today on Focal Point, Pastor Mike Fabarez takes real calls in this week's edition of Ask Pastor Mike Live. One listener wrestles with what to do when a ministry leaves...
 
+2026-10-09 09:00:51 PM MDT | 2026-10-09 10:00:51 PM CDT | audio 00:00:00.00–00:00:34.52
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00052.json | 7 original segments
+leaders actions no longer matches words. Another opens up about raising a child with autism and finding real community within the church. I'm Dave Dury. And now let's join Pastor Mike for today's program. Let's go to Rich. Rich, you're on the earth, Pastor Mike. How can I help? Hey, Pastor Mike. First I want to say thank you for having a format like this. I popped up on my phone. I was unaware of it. But I've been praying heavily and reading through the the Bible of the last few weeks in regards to the question I'm going to ask you. So you pop it up and having this form is helpful, so thank you first off for that.
+
+2026-10-09 09:01:25 PM MDT | 2026-10-09 10:01:25 PM CDT | audio 00:00:34.52–00:01:13.36
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00052.json | 6 original segments
+The question I have is just in regards to our Christians to act or what are we called to do in a situation where we come into a ministry, a congregation of people and I know we're called to use the gift of wisdom and knowledge from the spirit for discernment on our leaders. We should check what they say against the Bible. When you start to notice some things that are adding up, a lot of the congregation is youth from across the country.
+
+2026-10-09 09:02:04 PM MDT | 2026-10-09 10:02:04 PM CDT | audio 00:01:13.36–00:01:47.44
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00052.json | 7 original segments
+What are we called as Christians to do when we start to see these things in leaders of that group that are inconsistent with the Bible that almost stand out pretty strongly, such as in two Peter, two, three, where one's against covetness, they exploit with deceptive words using money or power for their followers, two Corinthians, even eight warns against empty philosophy based on human condition. When you start to recognize and see these things with any system, and you care for the other brothers that are in this congregation.
+
+2026-10-09 09:02:38 PM MDT | 2026-10-09 10:02:38 PM CDT | audio 00:01:47.44–00:02:00.00
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00052.json | 3 original segments
+You believe they have a good heart for God and just maybe don't have the wisdom of discernment and are kind of blindly following what I would call a wolf in sheep's clothing. What are we called as Christians?
+
+2026-10-09 09:02:51 PM MDT | 2026-10-09 10:02:51 PM CDT | audio 00:00:00.00–00:00:49.92
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00053.json | 14 original segments
+to do and or not do should we cut running pray for their souls pray for god that uh... he he works his way into that ministry and and you'll be equals things out or we supposed to help try to bring enlightenment through the by the verses in the bible and share that uh... with the others well it is so many factors involved you know if you're talking about it you know big church down the street and there's thousands of people there and you know it's something so giant that there's no possible way your voice is going to have an effect and you're not going to get a lunch with the person that you see doing these things or at some television ministry or something. The best you could do is a letter. If it's a small church that you're a part of, well, then yeah, then get a lunch with whoever it is that you see doing these things.
+
+2026-10-09 09:03:40 PM MDT | 2026-10-09 10:03:40 PM CDT | audio 00:00:49.92–00:01:47.40
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00053.json | 10 original segments
+Make sure, Matthew 7, you've removed any logs from your own eye, Galatians 6, make sure you Approach them with a spirit of gentleness, you know, if they're older or they outrank you spiritually, make sure you like Paul said to Timothy You you know, you you approach them and admonish them as a as a father not as a you know an underling You know, you you you are careful to use scripture as best you can and you do it with the spirit of humbleness And you do it privately as Matthew 18 says you just do it rightly and you you let the chips fall in terms of you know not being defensive and knowing God's the result is in God's hands. If it's something where you get nowhere and then you got friends that are involved in something like that, then you go to those people that are a part of it and you say, well, I'm not going to be a part of this anymore and you bow out of it and you say to your friends that are in it, hey, I don't think this is a healthy place for you to be and here's why because this, this and this and it's violate scripture here,
+
+2026-10-09 09:04:38 PM MDT | 2026-10-09 10:04:38 PM CDT | audio 00:01:47.40–00:02:00.04
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00053.json | 3 original segments
+here and here. And so I'm going to say to you, I think you would be wise to get out of this organization or this church or this movement or whatever it is you're talking about. And I think you should, I think you should leave. And here's
+
+2026-10-09 09:04:52 PM MDT | 2026-10-09 10:04:52 PM CDT | audio 00:00:00.00–00:00:36.16
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00054.json | 7 original segments
+Why? And it should be big enough, you know, that it's not something, you know, miniscule. I don't know what it is. It shouldn't be like how someone dresses or, you know, whatever, what car they drive. It should be something significant and not based on opinions or preferences or style. And so, you know, there should be something substantive. And that's why I'm saying that because, you know, Romans 14, who am I to judge another man's servant? These are God's servants. God's gonna ultimately judge everyone. And so it's got to be something beyond, as it says in Romans 14, quarreling about opinions. And I don't want to get into that. So I don't know what the issues are.
+
+2026-10-09 09:05:28 PM MDT | 2026-10-09 10:05:28 PM CDT | audio 00:00:36.16–00:01:38.80
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00054.json | 12 original segments
+I'd have to be more specific, rich, but I would want to, you know, I'd want to deal with it based on all the parameters, all of the variables, and you know, where I am in relation to the people doing the wrong and who are the people that are in this ministry? How close are they being affected by the wrong that the ministry is doing. I assume it's a ministry or a church and you know there be a lot of details I'd want to have on the table before I give you specific examples as to what specifically to do. And I don't know if this is the form to get into the details but I need more information. No I got that. I guess that's what I'm searching for. It is a small ministry, there's not a standing church and I have tried to take time with the leader and speak with them and that kind of went sideways and nowhere and it was coming from a place of humbleness and a service where I could help and I seen a blow up there that was kind of one of the discrepancies that I seen in his own spirit and unfortunately I've removed five
+
+2026-10-09 09:06:30 PM MDT | 2026-10-09 10:06:30 PM CDT | audio 00:01:38.80–00:01:59.96
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00054.json | 6 original segments
+at least from the ministry itself, but unfortunately still live in a place where the others are still part of this ministry, which is causing some friction, unfortunately. Right. Yeah, and here's the thing about leadership. You're not a leader if no one's following you, and one of the best things that can happen in a ministry that's led by people that are not doing what they do.
+
+2026-10-09 09:06:51 PM MDT | 2026-10-09 10:06:51 PM CDT | audio 00:00:00.00–00:00:57.28
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00055.json | 12 original segments
+to do? Are they leading in a wrong way? Or whatever, theirself is run biblical is when people do start to leave. I mean, I was just in a place yesterday trying to work on some church planning issues. And, you know, there was a church realtor that was selling eight different church properties. And I thought, wow, how sad is that? You know, here's eight different churches that at one time were built, you know, around ministries that were teaching the Bible. And now they're trying to sell them because these churches have atrophied and died. And I thought, okay, well, at some point, Everyone said we're done and they left and it got smaller and smaller and and and whoever was leading these ministries They're not leading them anymore. I'm assuming I mean maybe one of them outgrew the ministry and it was going so well So I can't I mean I'm taking a generalization. I'm sure some of them died Let's just put it that way and the point is nevertheless My point is ministries die and I know that firsthand by being in this ministry for a long time and watching ministries die And I'm thinking, okay, that's the best thing that can happen.
+
+2026-10-09 09:07:48 PM MDT | 2026-10-09 10:07:48 PM CDT | audio 00:00:57.28–00:01:28.68
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00055.json | 11 original segments
+If your confrontation of this guy is legitimate and biblical, you stepped away, it didn't go well, he didn't receive it. And if other people do the same, eventually he's got no one else to lead. And certainly if it's a ministry where he depends on the ministry donations to make a living, eventually he ceases to be a leader. I can't be a pastor if no one's gonna sit under my teaching. I can't be a leader of a church, unless someone is willing to sit under my leadership. So this is the thing about spiritual leadership.
+
+2026-10-09 09:08:19 PM MDT | 2026-10-09 10:08:19 PM CDT | audio 00:01:28.68–00:02:00.12
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00055.json | 15 original segments
+It's gonna go away if no one is willing to be under it. And that's the great thing about how we as followers and putting myself as a congregant, I get to choose who I sit under. And if everyone can see what you've seen, this leader ceases to be a leader. So yeah, I would go to my friends and say, hey, let me tell you why I left. Here's why I left. And if you can see this the way I do, Maybe you would leave as well, and maybe that would be good for you and your family. And maybe you shouldn't be a part of this. And then that's it, that's their decision. And...
+
+2026-10-09 09:08:51 PM MDT | 2026-10-09 10:08:51 PM CDT | audio 00:00:00.00–00:00:38.00
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00056.json | 12 original segments
+If it's as significant to them as it was to you, they will leave. And then maybe this guy, if it's a small ministry, will become a tiny ministry. And if it's a tiny ministry, at some point, maybe they should be out selling real estate instead of, you know, trying to be a spiritual leader. I appreciate that. Thank you so very much. Okay, Rich, I know that's hard. And I know we're just talking in generalities, but yeah, that's how it works. That's a sad topic, but so true. And yeah, and again, I just hope that all of us, when we confront someone with an issue, we can just keep the emotions at bay.
+
+2026-10-09 09:09:29 PM MDT | 2026-10-09 10:09:29 PM CDT | audio 00:00:38.00–00:01:18.44
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00056.json | 15 original segments
+I know we want to argue way, we want to win an argument. We just can't, we just can't get there, right? Galatians 6, when we have to do all of this in a spirit of gentleness, even if you deal with non-Christians, which is the ultimate test, right? Whereas we're not on the same page at all, the reminder is doing it all with gentleness and respect. If we can keep that, even if we disagree, great, we're not handcuffed together, right? I can go to another church, I can leave this ministry, I don't have to sit under this, I can say, okay, hey, it's okay, I'm not gonna kill you, I'm not going to slap you, I'm not gonna hit you, I'm not gonna key your car, I'm just done, where we're gonna go our separate ways, great.
+
+2026-10-09 09:10:09 PM MDT | 2026-10-09 10:10:09 PM CDT | audio 00:01:18.44–00:02:00.10
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00056.json | 18 original segments
+Even Paul, in his division with Barnabas, we're going different ways. I'm gonna take in John Mark on this trip. He bailed on us last time, we're done. And they went their separate ways. And I just think at some point, if you can just stay calm about it all, and you may have two different views on this. If you're right, you're right, and you can go your own way. And hopefully if you are right, and God is on your side on this, yeah, eventually it'll all sort itself out and the guy in the wrong is gonna come around to where you're at, eventually, eventually, right, eventually, eventually. That's Pastor Mike Fabares, and a pre-recorded segment from a real call-in on
+
+2026-10-09 09:10:51 PM MDT | 2026-10-09 10:10:51 PM CDT | audio 00:02:00.10–00:02:01.10
+Main transcript | qr2-expanded-oct9/keyradio-20261010T011722Z-001-00056.json | 1 original segments
+and
+
 
 Utah Public Radio / KUSU — 91.5 FM (KUSU); 89.5 FM (KUSR)
 Logan-based statewide network
@@ -16413,3 +17273,83 @@ You've been listening to As It Happens from CBC, heard across the United States 
 2026-10-09 08:59:06 PM MDT | 2026-10-09 09:59:06 PM CDT | audio 00:01:21.74–00:02:00.06
 Main transcript | qr2-expanded-oct9/upr-20261010T011347Z-001-00052.json | 9 original segments
 It's a sweeping authority that some believe has been abused by presidents of both major parties. We'll examine the history and hear from constitutional experts. I'm David Freudberg. Join us for the power of the pardon on humankind. Tune in Friday morning at 10 and Saturday afternoon at 3 here on UPR. This is Utah Public Radio, a statewide Lister supported service of Utah State University and the College of Arts and Sciences. Heard statewide on KUSR Logan, KUSK Verdel, KUSL Richfield, KUST Moab, KCEU Price, and KUSU-F-M low.
+
+2026-10-09 08:59:44 PM MDT | 2026-10-09 09:59:44 PM CDT | audio 00:00:00.00–00:00:30.01
+Main transcript | qr2-expanded-oct9/upr-20261010T011347Z-001-00053.json | 13 original segments
+Also heard online at upr.org. And the time is now nine o'clock. Stay tuned. Two hours of LA theater works is coming up next. Then we'll have Beethoven Satellite Network at 11. That man you've just seen. Oh, what the hell I'll say. I'm in love with machine and stuff. In any way, I can't hear what you're saying. First, I thought he was peculiar. Then I felt sorry for him. Then I fell in love with him. I fell in love with his voice.
+
+2026-10-09 09:00:14 PM MDT | 2026-10-09 10:00:14 PM CDT | audio 00:00:30.01–00:01:00.26
+Main transcript | qr2-expanded-oct9/upr-20261010T011347Z-001-00053.json | 15 original segments
+with what he said, with his unhappiness, with his two little girls. I can't hear what you're saying anyway, whatever rubbish you come out with, I shan't be able to hear you. Don't be silly, Olga, I'm in love, and that's my destiny, that's my fate. I'm Jennifer Westpau. I'm John Hamm. I'm Tessa Thompson. I'm Robert Pye. I'm Rebecca Mozo. I'm Josh Clark. This is L.A. Theatre Works. I'm Susan Lowenberg. Chekhov was not a lyrical writer. It's very clear, it's very simple, and it's very heartbreaking, and it doesn't need to be fancied up in any sort of way.
+
+2026-10-09 09:00:44 PM MDT | 2026-10-09 10:00:44 PM CDT | audio 00:01:00.26–00:01:32.78
+Main transcript | qr2-expanded-oct9/upr-20261010T011347Z-001-00053.json | 4 original segments
+That's translator Christopher Hampton talking about the language of the iconic Russian author and playwright Anton Chekhov. Although Chekhov wrote over a dozen plays and more than 200 short stories, his final four plays are considered to be some of the finest ever produced on the world stage. This week we present Chekhov's Three Sisters, his 1901 play that takes an unsentimental but deeply affecting look at the fragility of hope amid the struggle to lead a meaningful life.
+
+2026-10-09 09:01:17 PM MDT | 2026-10-09 10:01:17 PM CDT | audio 00:01:32.78–00:01:59.97
+Main transcript | qr2-expanded-oct9/upr-20261010T011347Z-001-00053.json | 6 original segments
+And now, LA Theatre Works presents Three Sisters by Anton Chekhov, translated by Christopher Hampton, starring Jennifer Westveld, John Hamm, Sarah Zimmerman, and Tessa Thompson. It's exactly a year since Father died on this very day, the 5th May, on your name day.
+
+2026-10-09 09:01:44 PM MDT | 2026-10-09 10:01:44 PM CDT | audio 00:01:59.97–00:02:01.97
+Main transcript | qr2-expanded-oct9/upr-20261010T011347Z-001-00053.json | 1 original segments
+You
+
+2026-10-09 09:01:44 PM MDT | 2026-10-09 10:01:44 PM CDT | audio 00:00:00.00–00:00:30.22
+Main transcript | qr2-expanded-oct9/upr-20261010T011347Z-001-00054.json | 10 original segments
+They, Irina, it was very cold. The snow was falling. I didn't think I could live through it. You were lying there, half-conscious as if you were dead. But a year's gone by, and now we can think about it calmly. You're wearing a white dress. You look dazzling. The clock was striking then, too. I remember the music playing as they carried father's coffin and the guns firing when they saluted him at the cemetery.
+
+2026-10-09 09:02:14 PM MDT | 2026-10-09 10:02:14 PM CDT | audio 00:00:30.22–00:01:00.78
+Main transcript | qr2-expanded-oct9/upr-20261010T011347Z-001-00054.json | 12 original segments
+Hardly anyone came, even though he was a general in the brigade commander, but it was raining. Heavy rains, snow as well. What's the point of raking it all over? It's warm today. We're gonna have the windows open, even though the leaves still aren't out on the birch trees. Father got us brigade and left Moscow with us 11 years ago, and I remembered distinctly, it was the beginning of May, exactly this time. And in Moscow, everything was already in bloom. It was warm, everything was washed in sunlight.
+
+2026-10-09 09:02:45 PM MDT | 2026-10-09 10:02:45 PM CDT | audio 00:01:00.78–00:01:41.18
+Main transcript | qr2-expanded-oct9/upr-20261010T011347Z-001-00054.json | 17 original segments
+11 years have gone by, and I remember everything about it as if we'd left yesterday. Oh, God, I woke up this morning and there was a blaze of light. I could see it with spring. My heart swelled with happiness. I wanted so desperately to go back home. Stop whistling, Marsha, how can you? Because I'm at school all day and busy with tuition in the evenings, I have a constant headache, and my thought process is now. It's as if I were already an old woman. And in fact, these last four years since I've been working at the high school, I can feel my strength and my youth leaking away every day, drop by drop.
+
+2026-10-09 09:03:25 PM MDT | 2026-10-09 10:03:25 PM CDT | audio 00:01:41.18–00:02:00.00
+Main transcript | qr2-expanded-oct9/upr-20261010T011347Z-001-00054.json | 8 original segments
+I only have one dream, and it's growing stronger and stronger. To go back to Moscow, sell the house, put everything here behind us, and off to Moscow. Yes, first thing to Moscow. Andre will probably get his professorship, or anyway, he doesn't need to go on living here. The only difficulty is poor Moshe. Moshe will come to Moscow and spend the
+
+2026-10-09 09:03:44 PM MDT | 2026-10-09 10:03:44 PM CDT | audio 00:00:00.00–00:00:31.08
+Main transcript | qr2-expanded-oct9/upr-20261010T011347Z-001-00055.json | 13 original segments
+Whole summer every year. Let's hope to God it turns out all right. Beautiful day. I don't know why I feel so happy. I'm in such a good mood. This morning I remembered it was my name day and I suddenly felt happy and remembered when I was a child and mama was still alive. And I was galvanized by the most wonderful thoughts. Wonderful thoughts. Look, dazzling today. Even more beautiful than usual. And Marsha's beautiful too.
+
+2026-10-09 09:04:15 PM MDT | 2026-10-09 10:04:15 PM CDT | audio 00:00:31.08–00:01:02.88
+Main transcript | qr2-expanded-oct9/upr-20261010T011347Z-001-00055.json | 15 original segments
+And Andre could be good looking, except he's put on so much weight, it doesn't suit him. And I've aged and got so thin, probably because I'm so impatient with the girls at school. Oh, but I'm off today. I'm at home, my head isn't aching. I feel much younger than I did yesterday. I'm only 28, everything's all right. God's been good to us. But I can't help thinking if I were married and spending every day at home, and things would be better. I'd love my husband. Bloody rubbish.
+
+2026-10-09 09:04:47 PM MDT | 2026-10-09 10:04:47 PM CDT | audio 00:01:02.88–00:01:34.88
+Main transcript | qr2-expanded-oct9/upr-20261010T011347Z-001-00055.json | 23 original segments
+Of course it is, Doctor. Sonia, you talk such nonsense I'm fed up with listening to you. Good morning. Good morning. Good morning. I forgot to tell you. You'll be receiving a visit today from Verschina, our new battery commander. Oh, good. Is he old? No, not particularly. 40, 45 the most. He seems quite nice. He's certainly no fool. Talks rather a lot. Is he interesting? Yes, moderately. She's got a wife, a mother-in-law, and two little girls. And it's his second marriage as well. Everywhere he goes, he tells everyone he's got a wife and two little girls.
+
+2026-10-09 09:05:19 PM MDT | 2026-10-09 10:05:19 PM CDT | audio 00:01:34.88–00:02:00.14
+Main transcript | qr2-expanded-oct9/upr-20261010T011347Z-001-00055.json | 9 original segments
+He'll say the same thing here. His wife's a bit unstable. She wears her hair in a long schoolgirl plaque. She only wants to discuss very precious subjects and intellectual eyes, and she's made several suicide attorneys. No doubt in order to annoy her husband. And I had left a woman like that years ago, but he seems to put up with it, it just complains of the de-
+
+2026-10-09 09:05:44 PM MDT | 2026-10-09 10:05:44 PM CDT | audio 00:00:00.00–00:00:51.98
+Main transcript | qr2-expanded-oct9/upr-20261010T011347Z-001-00056.json | 9 original segments
+I can only lift about 50 pounds with one hand, whereas with two, I can lift 180, even 200 pounds, from which I deduce the two men are not simply twice as strong as one, but three times as strong, or even more. It says here, for hair loss, it grams of naphthalene dissolved in half a bottle of spirit applied daily. Make a note of it, shall we? So, as I was saying so, your name. You seal a small bottle with a little stopper, pass a tiny glass tube through it, and then take a pinch of ordinary straightforward owl. Oh, doctor, dear doctor. What is it, my little girl, my heart's delight. Can you tell me why I'm so happy today? It's as if I were We're out sailing under a huge blue sky with great white birds soaring above me.
+
+2026-10-09 09:06:36 PM MDT | 2026-10-09 10:06:36 PM CDT | audio 00:00:51.98–00:01:28.32
+Main transcript | qr2-expanded-oct9/upr-20261010T011347Z-001-00056.json | 16 original segments
+Why is that? Why? My white bird. I woke up today, got up and washed, and all of the sudden, it seemed to me I could understand everything in this world and that I know how we ought to live. I know everything, my dear doctor. A man ought to work to labor by the sweat of his brow no matter who he is, and that should be the sole purpose of his life, his happiness and joy. How wonderful to be a working man, to get up at the crap of dawn and break stones on the road, or a shepherd, or a schoolmaster teaching children, or an engine driver on the tracks.
+
+2026-10-09 09:07:12 PM MDT | 2026-10-09 10:07:12 PM CDT | audio 00:01:28.32–00:02:00.04
+Main transcript | qr2-expanded-oct9/upr-20261010T011347Z-001-00056.json | 13 original segments
+My God, you don't even have to be a man, better to be an ox, or a simple working horse than a young woman, waking up at noon, drinking coffee in bed and spending two hours getting dressed. Oh, how dreadful that is. When it's hot and you're dying for a drink, that's how desperately I want to work. And if I don't start getting up early and doing some work, you're going to have to stop being friends with me, doctor. I will, I will. Father trained us to get up at 7 o'clock. Now, Irina wakes up at 7 and stays in bed till after 9. Contemplating, doesn't she?
+
+2026-10-09 09:07:44 PM MDT | 2026-10-09 10:07:44 PM CDT | audio 00:00:00.00–00:00:35.00
+Main transcript | qr2-expanded-oct9/upr-20261010T011347Z-001-00057.json | 9 original segments
+You're used to thinking of me as a little girl, so you're surprised when I look serious. I'm 20 years old. This longing for work, my God, I understand it so well. I've never done a day's work in my life. I was born in Colton, Idyll, St. Petersburg, into an entirely work-free family, which had never experienced anxiety of any kind. I remember when I came home from cadet school, there was the footman to pull off my boots. I would often kick up some sort of fuss, and my mother would just watch me reverently and be astonished if anyone else seemed to feel differently about me.
+
+2026-10-09 09:08:19 PM MDT | 2026-10-09 10:08:19 PM CDT | audio 00:00:35.00–00:01:07.76
+Main transcript | qr2-expanded-oct9/upr-20261010T011347Z-001-00057.json | 9 original segments
+I was protected from the idea of work, but I don't think they succeeded in protecting me. No. The time is coming. There's a huge thundercloud bearing down on us. There's a powerful, healthy storm brewing. It's on its way, it's coming close, and soon it will blast away the laziness, the apathy, The distaste for work, all the corrupt boredom in our society, I shall work and in 25 or 30 years time, everyone will be working, everyone, not me.
+
+2026-10-09 09:08:52 PM MDT | 2026-10-09 10:08:52 PM CDT | audio 00:01:07.76–00:01:41.40
+Main transcript | qr2-expanded-oct9/upr-20261010T011347Z-001-00057.json | 11 original segments
+You don't count, doctor. In 25 years, you'll no longer be with us, thank God. In two or three years time, you'll kill over with a stroke, or else I'll lose my temper and put a bullet in your head, sweetheart. I really have never done a single thing in my life. I haven't lifted a finger since I left the university. I have never read one book. I only ever read the newspaper. See, here's one. I know, for example, from the newspapers who Deborah Uboff was, but what sort of thing he wrote?
+
+2026-10-09 09:09:25 PM MDT | 2026-10-09 10:09:25 PM CDT | audio 00:01:41.40–00:01:59.96
+Main transcript | qr2-expanded-oct9/upr-20261010T011347Z-001-00057.json | 10 original segments
+I have an include, God knows. Well, they're calling me downstairs. Someone's come to see me. I'll be back in a jiffy just a minute. He's got something up his sleeve. Yes, he went out with a very solemn expression. He's obviously planning to give you a present. How irritating. Yes, terrible. He's always doing.
