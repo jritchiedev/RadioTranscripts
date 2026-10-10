@@ -1,22 +1,22 @@
 QR2 — EVERY AVAILABLE NON-SONG TRANSCRIPT ITEM
 
 {
-  "generated_utc": "2026-10-10T02:28:41.768120+00:00",
+  "generated_utc": "2026-10-10T02:37:03.572608+00:00",
   "snapshots": [
     "2026-10-10T00:58:44Z",
     "2026-10-10T00:56:49+00:00",
     "2026-10-10T00:56:59Z",
     "2026-10-10T00:57:06+00:00",
-    "2026-10-10T02:28:39.018563+00:00"
+    "2026-10-10T02:37:01.042796+00:00"
   ],
-  "pending_classification_source_count": 288,
-  "live_classified_source_count": 449,
-  "source_count": 1178,
+  "pending_classification_source_count": 348,
+  "live_classified_source_count": 458,
+  "source_count": 1187,
   "raw_segment_count": 28415,
   "included_segment_count": 23767,
   "excluded_song_segment_count": 4648,
   "blank_segment_count": 0,
-  "unique_audio_count": 866,
+  "unique_audio_count": 875,
   "by_station": {
     "KPCW": 2187,
     "ESPN The Fan / KOVO / KUDD-HD2": 8667,
